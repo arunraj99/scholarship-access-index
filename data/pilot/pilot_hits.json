@@ -1,0 +1,32 @@
+{"run_id":"YHv6I7ewlfbXFd4MY","dataset":"YXCjSPndt0SG3NPoM","date":"2026-10-26",
+ "seeds":60,"pages_crawled":187,"failed_requests":16,"compute_units":0.21,
+ "hits":[
+ {"root":"nic.edu","vendor":"scholarshipuniverse","portal":"scholarshipuniverse.com"},
+ {"root":"sdmiramar.edu","vendor":"academicworks","portal":"sdmiramar.academicworks.com"},
+ {"root":"mscc.edu","vendor":"awardspring","portal":"mscc.awardspring.com"},
+ {"root":"tccd.edu","vendor":"academicworks","portal":"tccd.academicworks.com"},
+ {"root":"atlanticcape.edu","vendor":"awardspring","portal":"atlantic.awardspring.com"},
+ {"root":"tsc.edu","vendor":"awardspring","portal":"tsc.awardspring.com"},
+ {"root":"sunysccc.edu","vendor":"awardspring","portal":"sunysccc.awardspring.com"},
+ {"root":"southplainscollege.edu","vendor":"academicworks","portal":"southplainscollege.academicworks.com"},
+ {"root":"losmedanos.edu","vendor":"academicworks","portal":"losmedanos.academicworks.com"},
+ {"root":"nashuacc.edu","vendor":"awardspring","portal":"ccsnh.awardspring.com","shared":true},
+ {"root":"lrsc.edu","vendor":"awardspring","portal":"lrsc.awardspring.com"},
+ {"root":"wcc.yccd.edu","vendor":"ngwebsolutions","portal":"yccd.scholarships.ngwebsolutions.com","shared":true},
+ {"root":"sbcc.edu","vendor":"ngwebsolutions","portal":"sbcc.scholarships.ngwebsolutions.com"},
+ {"root":"glendale.edu","vendor":"academicworks","portal":"glendale.academicworks.com"},
+ {"root":"century.edu","vendor":"awardspring","portal":"centurycollege.awardspring.com"},
+ {"root":"morainevalley.edu","vendor":"academicworks","portal":"morainevalley.academicworks.com"},
+ {"root":"dacc.edu","vendor":"academicworks","portal":"dacc.academicworks.com"},
+ {"root":"hawkeyecollege.edu","vendor":"scholarshipuniverse","portal":"scholarshipuniverse.com"},
+ {"root":"colin.edu","vendor":"awardspring","portal":"colin.awardspring.com"},
+ {"root":"patrickhenry.edu","vendor":"awardspring","portal":"patrickhenry.awardspring.com"},
+ {"root":"kbcc.cuny.edu","vendor":"awardspring","portal":"kingsborough.awardspring.com"}
+ ],
+ "ground_truth_scoring":{
+  "correct":["atlanticcape:awardspring","sunysccc:awardspring","colin:awardspring","tsc:awardspring",
+             "mscc:awardspring","kbcc:awardspring","nashuacc:awardspring","cgcc:greenfield(no-hit)"],
+  "my_hand_label_was_wrong":["patrickhenry: I labelled greenfield from a homegrown form; crawl found patrickhenry.awardspring.com"],
+  "missed":["manchestercc:awardspring","ccp:academicworks","cod:academicworks",
+            "maricopa:ngweb","mesacc:ngweb","phoenixcollege:ngweb","scottsdalecc:ngweb"]
+ }}
