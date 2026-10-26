@@ -1,0 +1,164 @@
+{
+ "version": "v5_crawl_plus_probe",
+ "classified": [
+  {
+   "college": "atlanticcape.edu",
+   "vendor": "awardspring",
+   "portal": "atlantic.awardspring.com"
+  },
+  {
+   "college": "sunysccc.edu",
+   "vendor": "awardspring",
+   "portal": "sunysccc.awardspring.com"
+  },
+  {
+   "college": "tsc.edu",
+   "vendor": "awardspring",
+   "portal": "tsc.awardspring.com"
+  },
+  {
+   "college": "mscc.edu",
+   "vendor": "awardspring",
+   "portal": "mscc.awardspring.com"
+  },
+  {
+   "college": "dacc.edu",
+   "vendor": "academicworks",
+   "portal": "dacc.academicworks.com"
+  },
+  {
+   "college": "nashuacc.edu",
+   "vendor": "awardspring",
+   "portal": "ccsnh.awardspring.com"
+  },
+  {
+   "college": "tccd.edu",
+   "vendor": "academicworks",
+   "portal": "tccd.academicworks.com"
+  },
+  {
+   "college": "lrsc.edu",
+   "vendor": "awardspring",
+   "portal": "lrsc.awardspring.com"
+  },
+  {
+   "college": "merritt.edu",
+   "vendor": "ngweb_scholarships",
+   "portal": "pcf.scholarships.ngwebsolutions.com"
+  },
+  {
+   "college": "nic.edu",
+   "vendor": "scholarshipuniverse",
+   "portal": "nic.scholarshipuniverse.com"
+  },
+  {
+   "college": "cod.edu",
+   "vendor": "academicworks",
+   "portal": "cod.academicworks.com"
+  },
+  {
+   "college": "glendale.edu",
+   "vendor": "academicworks",
+   "portal": "glendale.academicworks.com"
+  },
+  {
+   "college": "sbcc.edu",
+   "vendor": "ngweb_scholarships",
+   "portal": "sbcc.scholarships.ngwebsolutions.com"
+  },
+  {
+   "college": "mnwest.edu",
+   "vendor": "academicworks",
+   "portal": "mnwest.academicworks.com"
+  },
+  {
+   "college": "morainevalley.edu",
+   "vendor": "academicworks",
+   "portal": "morainevalley.academicworks.com"
+  },
+  {
+   "college": "southplainscollege.edu",
+   "vendor": "academicworks",
+   "portal": "southplainscollege.academicworks.com"
+  },
+  {
+   "college": "sdmiramar.edu",
+   "vendor": "academicworks",
+   "portal": "sdmiramar.academicworks.com"
+  },
+  {
+   "college": "losmedanos.edu",
+   "vendor": "academicworks",
+   "portal": "losmedanos.academicworks.com"
+  },
+  {
+   "college": "lacitycollege.edu",
+   "vendor": "ngweb_scholarships",
+   "portal": "laccfoundation.scholarships.ngwebsolutions.com"
+  },
+  {
+   "college": "colin.edu",
+   "vendor": "awardspring",
+   "portal": "colin.awardspring.com"
+  },
+  {
+   "college": "kbcc.cuny.edu",
+   "vendor": "awardspring",
+   "portal": "kingsborough.awardspring.com"
+  },
+  {
+   "college": "century.edu",
+   "vendor": "awardspring",
+   "portal": "centurycollege.awardspring.com"
+  },
+  {
+   "college": "hawkeyecollege.edu",
+   "vendor": "scholarshipuniverse",
+   "portal": "hawkeyecollege.scholarshipuniverse.com"
+  },
+  {
+   "college": "wcc.yccd.edu",
+   "vendor": "ngweb_scholarships",
+   "portal": "yccd.scholarships.ngwebsolutions.com"
+  },
+  {
+   "college": "patrickhenry.edu",
+   "vendor": "awardspring",
+   "portal": "patrickhenry.awardspring.com"
+  },
+  {
+   "college": "fullcoll.edu",
+   "vendor": "awardspring",
+   "portal": "foundationfullcoll.awardspring.com"
+  },
+  {
+   "college": "iyrs.edu",
+   "vendor": "foundant",
+   "portal": "grantinterface.com"
+  },
+  {
+   "college": "ccp.edu",
+   "vendor": "academicworks",
+   "portal": "ccp.academicworks.com",
+   "method": "probe"
+  },
+  {
+   "college": "manchestercc.edu",
+   "vendor": "academicworks",
+   "portal": "manchestercc.academicworks.com",
+   "method": "probe"
+  },
+  {
+   "college": "orangecoastcollege.edu",
+   "vendor": "academicworks",
+   "portal": "orangecoastcollege.academicworks.com",
+   "method": "probe"
+  },
+  {
+   "college": "witcc.edu",
+   "vendor": "ngweb_scholarships",
+   "portal": "witcc.scholarships.ngwebsolutions.com",
+   "method": "probe"
+  }
+ ]
+}
