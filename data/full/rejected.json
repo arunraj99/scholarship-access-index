@@ -1,0 +1,900 @@
+{
+ "alaskacc.edu": [
+  [
+   "academicworks",
+   "doyonfoundation.academicworks.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "atc.edu": [
+  [
+   "awardspring",
+   "atcf.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "beebehealthcare.org": [
+  [
+   "blackbaud_re",
+   "bbox.blackbaudhosting.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "bhc.edu": [
+  [
+   "ngweb_scholarships",
+   "bhcfoundations.scholarships.ngwebsolutions.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "bhcc.edu": [
+  [
+   "awardspring",
+   "bhccscholarships.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "btech.edu": [
+  [
+   "academicworks",
+   "stlouisgraduates.academicworks.com",
+   "shared-across-3-states"
+  ]
+ ],
+ "carteret.edu": [
+  [
+   "kaleidoscope",
+   "apply.mykaleidoscope.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "caspn.edu": [
+  [
+   "foundant",
+   "grantinterface.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "casscareercenter.com": [
+  [
+   "academicworks",
+   "stlouisgraduates.academicworks.com",
+   "shared-across-3-states"
+  ]
+ ],
+ "ccv.edu": [
+  [
+   "smarterselect",
+   "smarterselect.com/program",
+   "generic-or-nonschol"
+  ]
+ ],
+ "cei.edu": [
+  [
+   "academicworks",
+   "isu.academicworks.com",
+   "slug-mismatch-single"
+  ],
+  [
+   "kaleidoscope",
+   "apply.mykaleidoscope.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "centralgatech.edu": [
+  [
+   "awardspring",
+   "cgtcfoundation.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "cetweb.edu": [
+  [
+   "kaleidoscope",
+   "apply.mykaleidoscope.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "cisco.edu": [
+  [
+   "academicworks",
+   "tarleton.academicworks.com",
+   "slug-mismatch-single"
+  ],
+  [
+   "awardspring",
+   "ccfoundation.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "clcmn.edu": [
+  [
+   "foundant",
+   "grantinterface.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "clevelandcc.edu": [
+  [
+   "smarterselect",
+   "smarterselect.com/program",
+   "generic-or-nonschol"
+  ]
+ ],
+ "cmccd.edu": [
+  [
+   "kaleidoscope",
+   "apply.mykaleidoscope.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "commonwealth.edu": [
+  [
+   "blackbaud_re",
+   "bbox.blackbaudhosting.com",
+   "generic-or-nonschol"
+  ],
+  [
+   "smarterselect",
+   "smarterselect.com/program",
+   "generic-or-nonschol"
+  ]
+ ],
+ "crouse.org": [
+  [
+   "blackbaud_re",
+   "bbox.blackbaudhosting.com",
+   "generic-or-nonschol"
+  ],
+  [
+   "foundant",
+   "grantinterface.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "cvcc.edu": [
+  [
+   "foundant",
+   "grantinterface.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "cvccworks.edu": [
+  [
+   "smarterselect",
+   "smarterselect.com/program",
+   "generic-or-nonschol"
+  ]
+ ],
+ "cvtech.edu": [
+  [
+   "kaleidoscope",
+   "apply.mykaleidoscope.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "davistech.edu": [
+  [
+   "submittable",
+   "beautychangeslives.submittable.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "dcc.edu": [
+  [
+   "awardspring",
+   "dccscholarships.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "eac.edu": [
+  [
+   "academicworks",
+   "doughertyfoundation.academicworks.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "eastcentral.edu": [
+  [
+   "academicworks",
+   "stlouisgraduates.academicworks.com",
+   "shared-across-3-states"
+  ]
+ ],
+ "easternwv.edu": [
+  [
+   "awardspring",
+   "ewvcf.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "edisonohio.edu": [
+  [
+   "foundant",
+   "grantinterface.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "eicc.edu": [
+  [
+   "awardspring",
+   "eicc-scott.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "elcamino.edu": [
+  [
+   "blackbaud_re",
+   "bbox.blackbaudhosting.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "elgin.edu": [
+  [
+   "smarterselect",
+   "smarterselect.com/program",
+   "generic-or-nonschol"
+  ]
+ ],
+ "emcc.edu": [
+  [
+   "awardspring",
+   "emccfind.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "eosc.edu": [
+  [
+   "blackbaud_re",
+   "bbox.blackbaudhosting.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "es.vccs.edu": [
+  [
+   "awardspring",
+   "escc.awardspring.com",
+   "slug-mismatch-single"
+  ],
+  [
+   "blackbaud_re",
+   "bbox.blackbaudhosting.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "ewc.wy.edu": [
+  [
+   "academicworks",
+   "uwyo.academicworks.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "fdtc.edu": [
+  [
+   "academicworks",
+   "dtc.academicworks.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "fhtc.edu": [
+  [
+   "awardspring",
+   "htc.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "flcc.edu": [
+  [
+   "awardspring",
+   "lcc.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "frcc.washington.k12.mo.us": [
+  [
+   "smarterselect",
+   "smarterselect.com/program",
+   "generic-or-nonschol"
+  ]
+ ],
+ "fresnocitycollege.edu": [
+  [
+   "ngweb_scholarships",
+   "cc.scholarships.ngwebsolutions.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "fvcc.edu": [
+  [
+   "awardspring",
+   "vcc.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "gactc.edu": [
+  [
+   "academicworks",
+   "utifoundation.academicworks.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "gcc.mass.edu": [
+  [
+   "awardspring",
+   "gccfoundation.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "hcc.edu": [
+  [
+   "awardspring",
+   "holyokecc.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "helms.edu": [
+  [
+   "kaleidoscope",
+   "apply.mykaleidoscope.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "holyname.org": [
+  [
+   "blackbaud_re",
+   "bbox.blackbaudhosting.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "imperial.edu": [
+  [
+   "awardspring",
+   "ivcf.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "jcjc.edu": [
+  [
+   "blackbaud_re",
+   "bbox.blackbaudhosting.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "jjc.edu": [
+  [
+   "awardspring",
+   "joliet.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "johnson.edu": [
+  [
+   "foundant",
+   "grantinterface.com",
+   "generic-or-nonschol"
+  ],
+  [
+   "kaleidoscope",
+   "apply.mykaleidoscope.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "kbcc.cuny.edu": [
+  [
+   "awardspring",
+   "kingsborough.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "kish.edu": [
+  [
+   "academicworks",
+   "kishwaukeecollege.academicworks.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "knoxtechnicalcenter.com": [
+  [
+   "academicworks",
+   "stlouisgraduates.academicworks.com",
+   "shared-across-3-states"
+  ]
+ ],
+ "lacitycollege.edu": [
+  [
+   "ngweb_scholarships",
+   "laccfoundation.scholarships.ngwebsolutions.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "laketech.org": [
+  [
+   "awardspring",
+   "edfoundationlake.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "lcc.edu": [
+  [
+   "academicworks",
+   "lansing.academicworks.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "lenape.k12.pa.us": [
+  [
+   "foundant",
+   "grantinterface.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "linnbenton.edu": [
+  [
+   "foundant",
+   "grantinterface.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "lit.edu": [
+  [
+   "academicworks",
+   "oundation-lit.academicworks.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "lsc.edu": [
+  [
+   "awardspring",
+   "lscfoundation.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "macc.edu": [
+  [
+   "academicworks",
+   "stlouisgraduates.academicworks.com",
+   "shared-across-3-states"
+  ]
+ ],
+ "manateetech.edu": [
+  [
+   "foundant",
+   "grantinterface.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "manhattantech.edu": [
+  [
+   "communityforce",
+   "ohscholarships.communityforce.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "marionmilitary.edu": [
+  [
+   "blackbaud_re",
+   "bbox.blackbaudhosting.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "mcfattertechnicalcollege.edu": [
+  [
+   "smarterselect",
+   "smarterselect.com/program",
+   "generic-or-nonschol"
+  ]
+ ],
+ "metrotech.edu": [
+  [
+   "kaleidoscope",
+   "apply.mykaleidoscope.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "mgccc.edu": [
+  [
+   "kaleidoscope",
+   "apply.mykaleidoscope.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "minnesota.edu": [
+  [
+   "awardspring",
+   "acfmstate.awardspring.com",
+   "slug-mismatch-single"
+  ],
+  [
+   "awardspring",
+   "mstate.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "mooretech.edu": [
+  [
+   "kaleidoscope",
+   "apply.mykaleidoscope.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "msdelta.edu": [
+  [
+   "awardspring",
+   "mdcc.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "nbss.edu": [
+  [
+   "academicworks",
+   "gkccf.academicworks.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "nccc.edu": [
+  [
+   "foundant",
+   "grantinterface.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "northark.edu": [
+  [
+   "submittable",
+   "accounts.submittable.com",
+   "generic-or-nonschol"
+  ],
+  [
+   "submittable",
+   "aspsf.submittable.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "ntcmn.edu": [
+  [
+   "foundant",
+   "grantinterface.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "ouboces.org": [
+  [
+   "foundant",
+   "grantinterface.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "oxford.emory.edu": [
+  [
+   "academicworks",
+   "emory.academicworks.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "pcc.edu": [
+  [
+   "academicworks",
+   "pccscholarships.academicworks.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "perimeter.gsu.edu": [
+  [
+   "academicworks",
+   "gsu.academicworks.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "qcc.edu": [
+  [
+   "awardspring",
+   "qccfoundationscholarships.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "rctc.edu": [
+  [
+   "awardspring",
+   "rctcfoundation.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "reynolds.edu": [
+  [
+   "blackbaud_re",
+   "bbox.blackbaudhosting.com",
+   "generic-or-nonschol"
+  ],
+  [
+   "foundant",
+   "grantinterface.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "roanestate.edu": [
+  [
+   "blackbaud_re",
+   "bbox.blackbaudhosting.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "roswell.enmu.edu": [
+  [
+   "smarterselect",
+   "smarterselect.com/program",
+   "generic-or-nonschol"
+  ]
+ ],
+ "ruidoso.enmu.edu": [
+  [
+   "communityforce",
+   "enmufoundationscholarships.communityforce.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "salinatech.edu": [
+  [
+   "communityforce",
+   "reesscholarship.communityforce.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "sanjuancollege.edu": [
+  [
+   "academicworks",
+   "dar.academicworks.com",
+   "shared-across-2-states"
+  ]
+ ],
+ "scccd.edu": [
+  [
+   "blackbaud_re",
+   "bbox.blackbaudhosting.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "sctcc.edu": [
+  [
+   "foundant",
+   "grantinterface.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "sheridantechnicalcollege.edu": [
+  [
+   "smarterselect",
+   "smarterselect.com/program",
+   "generic-or-nonschol"
+  ]
+ ],
+ "sipi.edu": [
+  [
+   "foundant",
+   "grantinterface.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "smccme.edu": [
+  [
+   "awardspring",
+   "mainecc.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "southeast.edu": [
+  [
+   "ngweb_scholarships",
+   "scc.scholarships.ngwebsolutions.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "southernwv.edu": [
+  [
+   "blackbaud_re",
+   "bbox.blackbaudhosting.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "stanly.edu": [
+  [
+   "communityforce",
+   "tcscholarships.communityforce.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "starkstate.edu": [
+  [
+   "smarterselect",
+   "smarterselect.com/program",
+   "generic-or-nonschol"
+  ]
+ ],
+ "sussex.edu": [
+  [
+   "awardspring",
+   "sccc.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "taos.unm.edu": [
+  [
+   "awardspring",
+   "unmscholarshipapp.awardspring.com",
+   "slug-mismatch-single"
+  ],
+  [
+   "awardspring",
+   "unmtaos.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "tbr.edu": [
+  [
+   "ngweb_scholarships",
+   "columbiastate.scholarships.ngwebsolutions.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "tcatelizabethton.edu": [
+  [
+   "academicworks",
+   "actfnd.academicworks.com",
+   "slug-mismatch-single"
+  ],
+  [
+   "academicworks",
+   "bridgew.academicworks.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "tctc.edu": [
+  [
+   "academicworks",
+   "siu.academicworks.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "templejc.edu": [
+  [
+   "awardspring",
+   "tcfoundationscholarsedu.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "thechicagoschool.edu": [
+  [
+   "blackbaud_re",
+   "bbox.blackbaudhosting.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "tillamookbaycc.edu": [
+  [
+   "awardspring",
+   "tbccscholarships.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "trenholmstate.edu": [
+  [
+   "academicworks",
+   "cbcfinc.academicworks.com",
+   "shared-across-2-states"
+  ]
+ ],
+ "tridenttech.edu": [
+  [
+   "blackbaud_re",
+   "bbox.blackbaudhosting.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "uaht.edu": [
+  [
+   "submittable",
+   "accounts.submittable.com",
+   "generic-or-nonschol"
+  ],
+  [
+   "submittable",
+   "aspsf.submittable.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "unitypoint.org": [
+  [
+   "foundant",
+   "grantinterface.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "upmc.com": [
+  [
+   "foundant",
+   "grantinterface.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "venturacollege.edu": [
+  [
+   "academicworks",
+   "vccf.academicworks.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "virginiawestern.edu": [
+  [
+   "foundant",
+   "grantinterface.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "vpcc.edu": [
+  [
+   "academicworks",
+   "tncc.academicworks.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "vskicosmetology.com": [
+  [
+   "submittable",
+   "beautychangeslives.submittable.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "waynecc.edu": [
+  [
+   "blackbaud_re",
+   "bbox.blackbaudhosting.com",
+   "generic-or-nonschol"
+  ],
+  [
+   "kaleidoscope",
+   "apply.mykaleidoscope.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "web.pccc.edu": [
+  [
+   "awardspring",
+   "pccc.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "westgatech.edu": [
+  [
+   "awardspring",
+   "wgtcfoundation.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "westhillscollege.com": [
+  [
+   "awardspring",
+   "whccd.awardspring.com",
+   "slug-mismatch-single"
+  ]
+ ],
+ "wilsoncc.edu": [
+  [
+   "foundant",
+   "grantinterface.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "wncc.edu": [
+  [
+   "blackbaud_re",
+   "bbox.blackbaudhosting.com",
+   "generic-or-nonschol"
+  ]
+ ],
+ "wp.missouristate.edu": [
+  [
+   "ngweb_scholarships",
+   "wp-missouristate.scholarships.ngwebsolutions.com",
+   "slug-mismatch-single"
+  ]
+ ]
+}
