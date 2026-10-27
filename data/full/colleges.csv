@@ -1,0 +1,894 @@
+unitid,name,city,state,website,locale,system,vendor,portal,evidence,status,shared_portal,ein
+102429,Bevill State Community College,Jasper,AL,https://bscc.edu,Distant town,Alabama Community College System,,,"probed or crawled, nothing found",No platform found,False,631102108 
+102030,Bishop State Community College,Mobile,AL,https://bishop.edu,Midsize city,Alabama Community College System,NextGen Scholarship Manager,bishop.scholarships.ngwebsolutions.com,slug-match,Competitor,False,630507477 
+100760,Central Alabama Community College,Alexander City,AL,https://cacc.edu,Distant town,Alabama Community College System,NextGen Scholarship Manager,cacc.scholarships.ngwebsolutions.com,slug-match,Competitor,True,631022757 
+101028,Chattahoochee Valley Community College,Phenix City,AL,https://cv.edu,Large suburb,Alabama Community College System,,,"probed or crawled, nothing found",No platform found,False,630657380 
+101161,Coastal Alabama Community College,Bay Minette,AL,https://coastalalabama.edu,Distant town,Alabama Community College System,NextGen Scholarship Manager,coastalalabama.scholarships.ngwebsolutions.com,slug-match,Competitor,False,630501805 
+101143,Enterprise State Community College,Enterprise,AL,https://escc.edu,Distant town,Alabama Community College System,,,"probed or crawled, nothing found",No platform found,False,630504851 
+101240,Gadsden State Community College,Gadsden,AL,https://gadsdenstate.edu,Small city,Alabama Community College System,NextGen Scholarship Manager,gadsdenstate.scholarships.ngwebsolutions.com,slug-match,Competitor,False,630501425 
+101286,George C Wallace Community College-Dothan,Dothan,AL,https://wallace.edu,Small city,Alabama Community College System,,,"probed or crawled, nothing found",No platform found,False,630507618 
+101295,George C Wallace State Community College-Hanceville,Hanceville,AL,https://wallacestate.edu,Distant rural,Alabama Community College System,Blackbaud Award Management,wallacestate.academicworks.com,slug-match,Competitor,False,630498828 
+101301,George C Wallace State Community College-Selma,Selma,AL,https://wccs.edu,Distant town,Alabama Community College System,,,"probed or crawled, nothing found",No platform found,False,630600375 
+102313,H Councill Trenholm State Community College,Montgomery,AL,https://trenholmstate.edu,Midsize city,Alabama Community College System,,,"probed or crawled, nothing found",No platform found,False,630510750 
+101462,J. F. Drake State Community and Technical College,Huntsville,AL,https://drakestate.edu,Midsize city,Alabama Community College System,,,"probed or crawled, nothing found",No platform found,False,630439942 
+101505,Jefferson State Community College,Birmingham,AL,https://jeffersonstate.edu,Midsize city,Alabama Community College System,NextGen Scholarship Manager,jeffersonstate.scholarships.ngwebsolutions.com,slug-match,Competitor,False,630501357 
+101514,John C Calhoun State Community College,Tanner,AL,https://calhoun.edu,Small city,Alabama Community College System,AwardSpring,calhoun.awardspring.com,slug-match,AwardSpring customer,False,630505871 
+101569,Lawson State Community College,Birmingham,AL,https://lawsonstate.edu,Midsize city,Alabama Community College System,,,"probed or crawled, nothing found",No platform found,False,630641064 
+101602,Lurleen B Wallace Community College,Andalusia,AL,https://lbwcc.edu,Fringe rural,Alabama Community College System,,,"probed or crawled, nothing found",No platform found,False,630576487 
+101648,Marion Military Institute,Marion,AL,https://marionmilitary.edu,Remote rural,Alabama Community College System,,,"probed or crawled, nothing found",No platform found,False,630288853 
+101897,Northeast Alabama Community College,Rainsville,AL,https://nacc.edu,Distant rural,Alabama Community College System,AwardSpring,nacc.awardspring.com,slug-match,AwardSpring customer,False,630504999 
+101736,Northwest Shoals Community College,Muscle Shoals,AL,https://nwscc.edu,Small city,Alabama Community College System,,,"probed or crawled, nothing found",No platform found,False,630513822 
+101994,Reid State Technical College,Evergreen,AL,https://rstc.edu,Remote rural,Alabama Community College System,,,"probed or crawled, nothing found",No platform found,False,630510731 
+102067,Shelton State Community College,Tuscaloosa,AL,https://sheltonstate.edu,Midsize city,Alabama Community College System,AwardSpring,sheltonstate.awardspring.com,slug-match,AwardSpring customer,False,636002149 
+102076,Snead State Community College,Boaz,AL,https://snead.edu,Distant town,Alabama Community College System,AwardSpring,snead.awardspring.com,slug-match,AwardSpring customer,False,630521412 
+251260,Southern Union State Community College,Wadley,AL,https://suscc.edu,Remote rural,Alabama Community College System,AwardSpring,suscc.awardspring.com,slug-match,AwardSpring customer,False,630494681 
+107327,Arkansas Northeastern College,Blytheville,AR,https://anc.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,710460696 
+107318,Arkansas State University Mid-South,West Memphis,AR,https://asumidsouth.edu,Large suburb,Arkansas State University System,,,"probed or crawled, nothing found",No platform found,False,710533838 
+107521,Arkansas State University Three Rivers,Malvern,AR,https://asutr.edu,Fringe town,Arkansas State University System,,,"probed or crawled, nothing found",No platform found,False,710411511 
+106449,Arkansas State University-Beebe,Beebe,AR,https://asub.edu,Fringe town,Arkansas State University System,,,"probed or crawled, nothing found",No platform found,False,710421333 
+420538,Arkansas State University-Mountain Home,Mountain Home,AR,https://asumh.edu,Remote town,Arkansas State University System,,,"probed or crawled, nothing found",No platform found,False,621687591 
+440402,Arkansas State University-Newport,Newport,AR,https://asun.edu,Fringe rural,Arkansas State University System,,,"probed or crawled, nothing found",No platform found,False,710855933 
+106625,Black River Technical College,Pocahontas,AR,https://blackrivertech.edu,Distant town,,,,"probed or crawled, nothing found",No platform found,False,710416918 
+106795,Cossatot Community College of the University of Arkansas,De Queen,AR,https://cccua.edu,Remote town,University of Arkansas System,AwardSpring,cccua.awardspring.com,slug-match,AwardSpring customer,False,710445507 
+106883,East Arkansas Community College,Forrest City,AR,https://eacc.edu,Distant town,,,,"probed or crawled, nothing found",No platform found,False,710450242 
+106980,National Park College,Hot Springs,AR,https://np.edu,Small suburb,,ScholarshipUniverse,np.scholarshipuniverse.com,slug-match,Competitor,False,710445211 
+107460,North Arkansas College,Harrison,AR,https://northark.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,710451862 
+367459,NorthWest Arkansas Community College,Bentonville,AR,https://nwacc.edu,Small city,,AwardSpring,nwacc.awardspring.com,slug-match,AwardSpring customer,False,710068554 
+107549,Ozarka College,Melbourne,AR,https://ozarka.edu,Remote rural,,,,"probed or crawled, nothing found",No platform found,False,710443460 
+107619,Phillips Community College of the University of Arkansas,Helena,AR,https://pccua.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,690710001 
+107974,South Arkansas College,El Dorado,AR,https://southark.edu,Remote town,,AwardSpring,southark.awardspring.com,slug-match,AwardSpring customer,False,710718948 
+107637,Southeast Arkansas College,Pine Bluff,AR,https://seark.edu,Distant town,,,,"probed or crawled, nothing found",No platform found,False,716047504 
+107992,Southern Arkansas University Tech,Camden,AR,https://sautech.edu,Distant rural,Southern Arkansas University System,,,"probed or crawled, nothing found",No platform found,False,710400038 
+107743,University of Arkansas Community College Rich Mountain,Mena,AR,https://uarichmountain.edu,Remote town,University of Arkansas System,AwardSpring,uarichmountain.awardspring.com,slug-match,AwardSpring customer,False,710444027 
+106999,University of Arkansas Community College-Batesville,Batesville,AR,https://uaccb.edu,Remote town,University of Arkansas System,,,"probed or crawled, nothing found",No platform found,False,710445264 
+107585,University of Arkansas Community College-Morrilton,Morrilton,AR,https://uaccm.edu,Distant town,University of Arkansas System,,,"probed or crawled, nothing found",No platform found,False,710353619 
+107725,University of Arkansas Hope-Texarkana,Hope,AR,https://uaht.edu,Distant town,University of Arkansas System,,,"probed or crawled, nothing found",No platform found,False,710392370 
+107664,University of Arkansas-Pulaski Technical College,North Little Rock,AR,https://uaptc.edu,Small city,University of Arkansas System,AwardSpring,uaptc.awardspring.com,slug-match,AwardSpring customer,False,710411512 
+104160,Arizona Western College,Yuma,AZ,https://azwestern.edu,Small city,,AwardSpring,azwestern.awardspring.com,slug-match,AwardSpring customer,False,860179321 
+104346,Central Arizona College,Coolidge,AZ,https://centralaz.edu,Fringe rural,,AwardSpring,centralaz.awardspring.com,slug-match,AwardSpring customer,False,860180838 
+364025,Chandler-Gilbert Community College,Chandler,AZ,https://cgc.maricopa.edu,Large city,Maricopa Community College District,,,"probed or crawled, nothing found",No platform found,False,860185552 
+104425,Cochise County Community College District,Sierra Vista,AZ,https://cochise.edu,Small city,,ScholarshipUniverse,cochise.scholarshipuniverse.com,slug-match,Competitor,False,860183151 
+404426,Coconino Community College,Flagstaff,AZ,https://coconino.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,860686666 
+104577,Eastern Arizona College,Thatcher,AZ,https://eac.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,866000754 
+384333,Estrella Mountain Community College,Avondale,AZ,https://estrellamountain.edu,Large suburb,Maricopa Community College District,,,"probed or crawled, nothing found",No platform found,False,860185552 
+105136,Maricopa Community College System Office,Tempe,AZ,https://maricopa.edu,Midsize city,Maricopa Community College District,,,"probed or crawled, nothing found",No platform found,False,860185552 
+105154,Mesa Community College,Mesa,AZ,https://mesacc.edu,Large city,Maricopa Community College District,,,"probed or crawled, nothing found",No platform found,False,860185552 
+105206,Mohave Community College,Kingman,AZ,https://mohave.edu,Fringe rural,,AwardSpring,mohave.awardspring.com,slug-match,AwardSpring customer,False,860287804 
+105349,Northland Pioneer College,Holbrook,AZ,https://npc.edu,Remote rural,,AwardSpring,npc.awardspring.com,slug-match,AwardSpring customer,False,860277526 
+105428,Phoenix College,Phoenix,AZ,https://phoenixcollege.edu,Large city,Maricopa Community College District,,,"probed or crawled, nothing found",No platform found,False,860185552 
+105525,Pima Community College,Tucson,AZ,https://pima.edu,Large city,,ScholarshipUniverse,pima.scholarshipuniverse.com,slug-match,Competitor,False,860208787 
+105747,Scottsdale Community College,Scottsdale,AZ,https://scottsdalecc.edu,Fringe rural,Maricopa Community College District,,,"probed or crawled, nothing found",No platform found,False,860185552 
+105792,South Mountain Community College,Phoenix,AZ,https://southmountaincc.edu,Large city,Maricopa Community College District,,,"probed or crawled, nothing found",No platform found,False,860185552 
+442781,Tohono O'odham Community College,Sells,AZ,https://tocc.edu,Remote rural,,,,"probed or crawled, nothing found",No platform found,False,860931108 
+495013,Western Maricopa Education Center,Glendale,AZ,https://west-mec.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,421582295 
+108807,Allan Hancock College,Santa Maria,CA,https://hancockcollege.edu,Midsize city,,Blackbaud Award Management,hancockcollege.academicworks.com,direct-probe,Competitor,False,521692042 
+109208,American River College,Sacramento,CA,https://arc.losrios.edu,Large suburb,California Community College System,Blackbaud Award Management,losrios.academicworks.com,district-portal,Competitor,True,941576340 
+109907,Barstow Community College,Barstow,CA,https://barstow.edu,Distant town,California Community College System,AwardSpring,barstow.awardspring.com,slug-match,AwardSpring customer,False,956006415 
+125170,Berkeley City College,Berkeley,CA,https://berkeleycitycollege.edu,Midsize city,California Community College System,,,"probed or crawled, nothing found",No platform found,False,941590799 
+110246,Butte College,Oroville,CA,https://butte.edu,Distant rural,California Community College System,Blackbaud Award Management,butte.academicworks.com,slug-match,Competitor,False,941637174 
+110334,Cabrillo College,Aptos,CA,https://cabrillo.edu,Midsize suburb,California Community College System,AwardSpring,cabrillo.awardspring.com,slug-match,AwardSpring customer,False,946002633 
+495271,California Indian Nations College,Palm Desert,CA,https://cincollege.org,Small city,,,,"probed or crawled, nothing found",No platform found,False,824308876 
+111434,Canada College,Redwood City,CA,https://canadacollege.edu,Large suburb,San Mateo County Community College District,Blackbaud Award Management,smccd.academicworks.com,district-portal,Competitor,True,943084147 
+111887,Cerritos College,Norwalk,CA,https://cerritos.edu,Large suburb,California Community College System,AwardSpring,cerritoscollegefoundation.awardspring.com,slug-match,AwardSpring customer,False,956005521 
+111896,Cerro Coso Community College,Ridgecrest,CA,https://cerrocoso.edu,Fringe rural,California Community College System,AwardSpring,cerrocoso.awardspring.com,slug-match,AwardSpring customer,False,956006644 
+111920,Chabot College,Hayward,CA,https://chabotcollege.edu,Large suburb,California Community College System,AwardSpring,chabotcollege.awardspring.com,slug-match,AwardSpring customer,True,941670563 
+111939,Chaffey College,Rancho Cucamonga,CA,https://chaffey.edu,Large suburb,California Community College System,AwardSpring,chaffeycollegefoundation.awardspring.com,slug-match,AwardSpring customer,False,956000558 
+112172,Citrus College,Glendora,CA,https://citruscollege.edu,Large suburb,,Blackbaud Award Management,citruscollege.academicworks.com,direct-probe,Competitor,False,956006670 
+112190,City College of San Francisco,San Francisco,CA,https://ccsf.edu,Large city,,ScholarshipUniverse,ccsf.scholarshipuniverse.com,slug-match,Competitor,False,941721925 
+489201,Clovis Community College,Fresno,CA,https://cloviscollege.edu,Large city,California Community College System,NextGen Scholarship Manager,cloviscollege.scholarships.ngwebsolutions.com,slug-match,Competitor,False,941574802 
+125462,Coalinga College,Coalinga,CA,https://westhillscollege.com,Remote town,California Community College System,,,"probed or crawled, nothing found",No platform found,False,770323447 
+112376,Coast Community College District Office,Costa Mesa,CA,https://cccd.edu,Midsize city,California Community College System,,,"probed or crawled, nothing found",No platform found,False,956002272 
+112385,Coastline Community College,Fountain Valley,CA,https://coastline.edu,Small city,California Community College System,Blackbaud Award Management,coastline.academicworks.com,slug-match,Competitor,False,956002272 
+108667,College of Alameda,Alameda,CA,https://alameda.edu,Large suburb,California Community College System,,,"probed or crawled, nothing found",No platform found,False,941590799 
+118347,College of Marin,Kentfield,CA,https://marin.edu,Large suburb,California Community College System,Blackbaud Award Management,marin.academicworks.com,slug-match,Competitor,False,680194359 
+122791,College of San Mateo,San Mateo,CA,https://collegeofsanmateo.edu,Midsize city,San Mateo County Community College District,Blackbaud Award Management,smccd.academicworks.com,district-portal,Competitor,True,943084147 
+111461,College of the Canyons,Santa Clarita,CA,https://canyons.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,952561360 
+113573,College of the Desert,Palm Desert,CA,https://collegeofthedesert.edu,Small city,California Community College System,AwardSpring,collegeofthedesert.awardspring.com,slug-match,AwardSpring customer,False,330535430 
+121707,College of the Redwoods,Eureka,CA,https://redwoods.edu,Fringe rural,,AwardSpring,redwoods.awardspring.com,slug-match,AwardSpring customer,False,946002186 
+123217,College of the Sequoias,Visalia,CA,https://cos.edu,Midsize city,California Community College System,NextGen Scholarship Manager,cos.scholarships.ngwebsolutions.com,slug-match,Competitor,False,946003004 
+123484,College of the Siskiyous,Weed,CA,https://siskiyous.edu,Distant rural,,,,"probed or crawled, nothing found",No platform found,False,680321440 
+112561,Columbia College,Sonora,CA,https://gocolumbia.edu,Fringe rural,California Community College System,AwardSpring,gocolumbia.awardspring.com,slug-match,AwardSpring customer,False,521566989 
+112686,Compton College,Compton,CA,https://compton.edu,Large suburb,California Community College System,,,"probed or crawled, nothing found",No platform found,False,956004983 
+112826,Contra Costa College,San Pablo,CA,https://contracosta.edu,Large suburb,California Community College System,Blackbaud Award Management,contracosta.academicworks.com,slug-match,Competitor,False,680342035 
+112817,Contra Costa Community College District Office,Martinez,CA,https://4cd.edu,Large suburb,California Community College System,,,"probed or crawled, nothing found",No platform found,False,680342035 
+395362,Copper Mountain Community College,Joshua Tree,CA,https://cmccd.edu,Distant rural,,,,"probed or crawled, nothing found",No platform found,False,330838252 
+113096,Cosumnes River College,Sacramento,CA,https://crc.losrios.edu,Large city,California Community College System,Blackbaud Award Management,losrios.academicworks.com,district-portal,Competitor,True,941576340 
+113111,Crafton Hills College,Yucaipa,CA,https://craftonhills.edu,Large suburb,California Community College System,Blackbaud Award Management,sbccd.academicworks.com,district-portal,Competitor,True,956002754 
+113193,Cuesta College,San Luis Obispo,CA,https://cuesta.edu,Fringe rural,,Blackbaud Award Management,cuesta.academicworks.com,slug-match,Competitor,False,956000938 
+113218,Cuyamaca College,El Cajon,CA,https://cuyamaca.edu,Large suburb,California Community College System,Blackbaud Award Management,gcccd.academicworks.com,district-portal,Competitor,True,956006652 
+113333,De Anza College,Cupertino,CA,https://deanza.edu,Small city,California Community College System,,,"probed or crawled, nothing found",No platform found,False,941597718 
+113634,Diablo Valley College,Pleasant Hill,CA,https://dvc.edu,Large suburb,California Community College System,Blackbaud Award Management,dvc.academicworks.com,slug-match,Competitor,False,680342035 
+371690,Downey Adult School,Downey,CA,https://das.edu,Large suburb,Downey Unified School District,,,"probed or crawled, nothing found",No platform found,False,956006586 
+113856,East Los Angeles College,Monterey Park,CA,https://elac.edu,Large suburb,Los Angeles Community College District,NextGen Scholarship Manager,oundation4lacolleges.scholarships.ngwebsolutions.com,district-portal,Competitor,True,952587353 
+113980,El Camino Community College District,Torrance,CA,https://elcamino.edu,Large suburb,California Community College System,,,"probed or crawled, nothing found",No platform found,False,956001060 
+114266,Evergreen Valley College,San Jose,CA,https://evc.edu,Large city,California Community College System,Blackbaud Award Management,sjeccd.academicworks.com,district-portal,Competitor,True,770100756 
+444219,Folsom Lake College,Folsom,CA,https://flc.losrios.edu,Small city,California Community College System,Blackbaud Award Management,losrios.academicworks.com,district-portal,Competitor,True,941576340 
+114789,Fresno City College,Fresno,CA,https://fresnocitycollege.edu,Large city,California Community College System,,,"probed or crawled, nothing found",No platform found,False,941574802 
+114859,Fullerton College,Fullerton,CA,https://fullcoll.edu,Large suburb,California Community College System,AwardSpring,oundationfullcoll.awardspring.com,slug-match,AwardSpring customer,False,952394131 
+114938,Gavilan College,Gilroy,CA,https://gavilan.edu,Fringe rural,,Blackbaud Award Management,gavilan.academicworks.com,slug-match,Competitor,False,942278279 
+115001,Glendale Community College,Glendale,CA,https://glendale.edu,Midsize city,,Blackbaud Award Management,glendale.academicworks.com,slug-match,Competitor,False,952668744 
+115126,Golden West College,Huntington Beach,CA,https://goldenwestcollege.edu,Large suburb,California Community College System,Blackbaud Award Management,goldenwestcollege.academicworks.com,slug-match,Competitor,False,956002272 
+115296,Grossmont College,El Cajon,CA,https://grossmont.edu,Large suburb,California Community College System,Blackbaud Award Management,gcccd.academicworks.com,district-portal,Competitor,True,956006652 
+115287,Grossmont-Cuyamaca Community College District,El Cajon,CA,https://gcccd.edu,Large suburb,California Community College System,Blackbaud Award Management,gcccd.academicworks.com,direct-probe,Competitor,True,956006652 
+115393,Hartnell College,Salinas,CA,https://hartnell.edu,Midsize city,,Blackbaud Award Management,hartnell.academicworks.com,slug-match,Competitor,False,770086025 
+115861,Imperial Valley College,Imperial,CA,https://imperial.edu,Fringe rural,California Community College System,,,"probed or crawled, nothing found",No platform found,False,956006350 
+116439,Irvine Valley College,Irvine,CA,https://ivc.edu,Large city,California Community College System,ScholarshipUniverse,ivc.scholarshipuniverse.com,slug-match,Competitor,False,952479872 
+117195,Lake Tahoe Community College,South Lake Tahoe,CA,https://ltcc.edu,Fringe rural,,AwardSpring,ltcc.awardspring.com,slug-match,AwardSpring customer,False,942317114 
+117247,Laney College,Oakland,CA,https://laney.edu,Large city,California Community College System,,,"probed or crawled, nothing found",No platform found,False,941590799 
+366401,Las Positas College,Livermore,CA,https://laspositascollege.edu,Small city,California Community College System,Blackbaud Award Management,laspositascollege.academicworks.com,slug-match,Competitor,False,941670563 
+117274,Lassen Community College,Susanville,CA,https://lassencollege.edu,Remote town,California Community College System,,,"probed or crawled, nothing found",No platform found,False,161644590 
+448594,Lemoore College,Lemoore,CA,https://westhillscollege.com,Fringe rural,California Community College System,,,"probed or crawled, nothing found",No platform found,False,770323447 
+117645,Long Beach City College,Long Beach,CA,https://lbcc.edu,Large city,California Community College System,AwardSpring,lbcc.awardspring.com,slug-match,AwardSpring customer,False,952654140 
+117788,Los Angeles City College,Los Angeles,CA,https://lacitycollege.edu,Large city,Los Angeles Community College District,,,"probed or crawled, nothing found",No platform found,False,952587353 
+117803,Los Angeles County College of Nursing and Allied Health,Los Angeles,CA,https://dhs.lacounty.gov,Large city,,,,"probed or crawled, nothing found",No platform found,False,956000927 
+117690,Los Angeles Harbor College,Wilmington,CA,https://lahc.edu,Large city,Los Angeles Community College District,,,"probed or crawled, nothing found",No platform found,False,952587353 
+117867,Los Angeles Mission College,Sylmar,CA,https://lamission.edu,Large city,California Community College System,,,"probed or crawled, nothing found",No platform found,False,952587353 
+117706,Los Angeles Pierce College,Woodland Hills,CA,https://lapc.edu,Large city,California Community College System,NextGen Scholarship Manager,oundation4lacolleges.scholarships.ngwebsolutions.com,district-portal,Competitor,True,952587353 
+117715,Los Angeles Southwest College,Los Angeles,CA,https://lasc.edu,Large suburb,Los Angeles Community College District,,,"probed or crawled, nothing found",No platform found,False,952587353 
+117724,Los Angeles Trade Technical College,Los Angeles,CA,https://lattc.edu,Large city,Los Angeles Community College District,NextGen Scholarship Manager,oundation4lacolleges.scholarships.ngwebsolutions.com,district-portal,Competitor,True,952587353 
+117733,Los Angeles Valley College,Valley Glen,CA,https://lavc.edu,Large city,Los Angeles Community College District,,,"probed or crawled, nothing found",No platform found,False,952587353 
+117894,Los Medanos College,Pittsburg,CA,https://losmedanos.edu,Large suburb,California Community College System,Blackbaud Award Management,losmedanos.academicworks.com,slug-match,Competitor,False,680342035 
+117900,Los Rios Community College District Office,Sacramento,CA,https://losrios.edu,Large suburb,California Community College System,Blackbaud Award Management,losrios.academicworks.com,slug-match,Competitor,True,941576340 
+497046,Madera Community College,Madera,CA,https://maderacollege.edu,Fringe rural,California Community College System,,,"probed or crawled, nothing found",No platform found,False,941574802 
+118684,Mendocino College,Ukiah,CA,https://mendocino.edu,Fringe rural,California Community College System,AwardSpring,mendocinocollege.awardspring.com,slug-match,AwardSpring customer,False,946002711 
+118718,Merced College,Merced,CA,https://mccd.edu,Small city,California Community College System,Blackbaud Award Management,iu.academicworks.com,district-portal,Competitor,True,770362218 
+118772,Merritt College,Oakland,CA,https://merritt.edu,Large city,California Community College System,NextGen Scholarship Manager,pcf.scholarships.ngwebsolutions.com,district-portal,Competitor,True,941590799 
+118930,Mission College,Santa Clara,CA,https://missioncollege.edu,Midsize city,California Community College System,AwardSpring,missioncollege.awardspring.com,slug-match,AwardSpring customer,False,946020929 
+119067,Monterey Peninsula College,Monterey,CA,https://mpc.edu,Midsize suburb,California Community College System,AwardSpring,mpc.awardspring.com,slug-match,AwardSpring customer,False,942314506 
+119137,Moorpark College,Moorpark,CA,https://moorparkcollege.edu,Midsize suburb,California Community College System,NextGen Scholarship Manager,moorparkcollege.scholarships.ngwebsolutions.com,slug-match,Competitor,False,952224338 
+460394,Moreno Valley College,Moreno Valley,CA,https://mvc.edu,Large suburb,California Community College System,Blackbaud Award Management,rcc.academicworks.com,district-portal,Competitor,True,330831357 
+119164,Mt San Antonio College,Walnut,CA,https://mtsac.edu,Large suburb,,Blackbaud Award Management,mtsac.academicworks.com,slug-match,Competitor,False,956002131 
+119216,Mt San Jacinto Community College District,San Jacinto,CA,https://msjc.edu,Midsize suburb,California Community College System,AwardSpring,msjc.awardspring.com,slug-match,AwardSpring customer,False,956000929 
+119331,Napa Valley College,Napa,CA,https://napavalley.edu,Small city,California Community College System,AwardSpring,napavalley.awardspring.com,slug-match,AwardSpring customer,False,680314463 
+460464,Norco College,Norco,CA,https://norcocollege.edu,Large suburb,California Community College System,Blackbaud Award Management,rcc.academicworks.com,district-portal,Competitor,True,330831357 
+120290,Ohlone College,Fremont,CA,https://ohlone.edu,Midsize city,,,,"probed or crawled, nothing found",No platform found,False,942378181 
+120342,Orange Coast College,Costa Mesa,CA,https://orangecoastcollege.edu,Midsize city,California Community College System,,,"probed or crawled, nothing found",No platform found,False,956002272 
+120421,Oxnard College,Oxnard,CA,https://oxnardcollege.edu,Midsize city,California Community College System,NextGen Scholarship Manager,oxnardcollegefoundation.scholarships.ngwebsolutions.com,slug-match,Competitor,False,952224338 
+120953,Palo Verde College,Blythe,CA,https://paloverde.edu,Distant rural,,AwardSpring,paloverde.awardspring.com,slug-match,AwardSpring customer,False,330833195 
+120971,Palomar College,San Marcos,CA,https://palomar.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,956002227 
+121044,Pasadena City College,Pasadena,CA,https://pasadena.edu,Midsize city,California Community College System,Blackbaud Award Management,pasadena.academicworks.com,slug-match,Competitor,False,952505000 
+121178,Peralta Community College System Office,Oakland,CA,https://peralta.edu,Large city,California Community College System,NextGen Scholarship Manager,pcf.scholarships.ngwebsolutions.com,district-portal,Competitor,True,941590799 
+121363,Porterville College,Porterville,CA,https://portervillecollege.edu,Small suburb,California Community College System,AwardSpring,portervillecollege.awardspring.com,slug-match,AwardSpring customer,False,956006644 
+117052,Reedley College,Reedley,CA,https://reedleycollege.edu,Distant town,California Community College System,NextGen Scholarship Manager,reedleycollege.scholarships.ngwebsolutions.com,slug-match,Competitor,False,941574802 
+121901,Riverside City College,Riverside,CA,https://rcc.edu,Large city,California Community College System,Blackbaud Award Management,rcc.academicworks.com,slug-match,Competitor,True,330831357 
+122180,Sacramento City College,Sacramento,CA,https://scc.losrios.edu,Large city,California Community College System,Blackbaud Award Management,losrios.academicworks.com,district-portal,Competitor,True,941576340 
+122205,Saddleback College,Mission Viejo,CA,https://saddleback.edu,Large suburb,California Community College System,ScholarshipUniverse,saddleback.scholarshipuniverse.com,slug-match,Competitor,False,952479872 
+428426,San Bernardino Community College District,San Bernardino,CA,https://sbccd.org,Midsize city,California Community College System,,,"probed or crawled, nothing found",No platform found,False,956002754 
+123527,San Bernardino Valley College,San Bernardino,CA,https://valleycollege.edu,Midsize city,San Bernardino Community College District,Blackbaud Award Management,sbccd.academicworks.com,district-portal,Competitor,True,956002754 
+122339,San Diego City College,San Diego,CA,https://sdcity.edu,Large city,California Community College System,AwardSpring,sdcity.awardspring.com,slug-match,AwardSpring customer,False,952644299 
+122384,San Diego Miramar College,San Diego,CA,https://sdmiramar.edu,Large city,California Community College System,Blackbaud Award Management,sdmiramar.academicworks.com,slug-match,Competitor,False,952644299 
+122658,San Joaquin Delta College,Stockton,CA,https://deltacollege.edu,Large city,California Community College System,,,"probed or crawled, nothing found",No platform found,False,941044400 
+122746,San Jose City College,San Jose,CA,https://sjcc.edu,Large city,California Community College System,,,"probed or crawled, nothing found",No platform found,False,770100756 
+122737,San Jose-Evergreen Community College District,San Jose,CA,https://sjeccd.edu,Large city,California Community College System,Blackbaud Award Management,sjeccd.academicworks.com,slug-match,Competitor,True,770100756 
+122889,Santa Barbara City College,Santa Barbara,CA,https://sbcc.edu,Small city,,Blackbaud Award Management,sbcc.academicworks.com,slug-match,Competitor,False,770070782 
+123013,Santa Rosa Junior College,Santa Rosa,CA,https://santarosa.edu,Midsize city,California Community College System,AwardSpring,santarosa.awardspring.com,slug-match,AwardSpring customer,True,946033759 
+399212,Santiago Canyon College,Orange,CA,https://sccollege.edu,Midsize city,California Community College System,NextGen Scholarship Manager,sccollege.scholarships.ngwebsolutions.com,slug-match,Competitor,False,952696799 
+123341,Sierra College,Rocklin,CA,https://sierracollege.edu,Large suburb,California Community College System,NextGen Scholarship Manager,sierracollege.scholarships.ngwebsolutions.com,slug-match,Competitor,False,946031260 
+432144,South Orange County Community College District,Mission Viejo,CA,https://socccd.edu,Large suburb,California Community College System,,,"probed or crawled, nothing found",No platform found,False,952479872 
+123800,Southwestern College,Chula Vista,CA,https://swccd.edu,Large city,,ScholarshipUniverse,swccd.scholarshipuniverse.com,slug-match,Competitor,False,956006659 
+123925,State Center Community College District,Fresno,CA,https://scccd.edu,Large city,California Community College System,,,"probed or crawled, nothing found",No platform found,False,941574802 
+124113,Taft College,Taft,CA,https://taftcollege.edu,Distant town,California Community College System,,,"probed or crawled, nothing found",No platform found,False,952266481 
+484233,Tri-Community Adult Education,Covina,CA,https://tri-communityadulted.org,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,956006406 
+125028,Ventura College,Ventura,CA,https://venturacollege.edu,Midsize city,California Community College System,,,"probed or crawled, nothing found",No platform found,False,952224338 
+125019,Ventura County Community College System Office,Camarillo,CA,https://vcccd.edu,Small city,California Community College System,,,"probed or crawled, nothing found",No platform found,False,952224338 
+125091,Victor Valley College,Victorville,CA,https://vvc.edu,Large suburb,California Community College System,,,"probed or crawled, nothing found",No platform found,False,956006576 
+448637,West Hills Community College District,Coalinga,CA,https://westhillscollege.com,Remote town,California Community College System,,,"probed or crawled, nothing found",No platform found,False,770323447 
+125499,West Valley College,Saratoga,CA,https://westvalley.edu,Large suburb,California Community College System,AwardSpring,westvalley.awardspring.com,slug-match,AwardSpring customer,False,770268786 
+125222,West Valley Mission Community College District Office,Saratoga,CA,https://westvalley.edu,Large suburb,West Valley Mission Community College District,AwardSpring,westvalley.awardspring.com,slug-match,AwardSpring customer,False,770268786 
+455512,Woodland Community College,Woodland,CA,https://wcc.yccd.edu,Small suburb,Yuba Community College District,NextGen Scholarship Manager,yccd.scholarships.ngwebsolutions.com,district-portal,Competitor,True,680447767 
+126119,Yuba College,Marysville,CA,https://yc.yccd.edu,Midsize suburb,Yuba Community College District,NextGen Scholarship Manager,yccd.scholarships.ngwebsolutions.com,district-portal,Competitor,True,680447767 
+126748,Colorado Northwestern Community College,Rangely,CO,https://cncc.edu,Remote rural,Colorado Community College System,AwardSpring,cncc.awardspring.com,slug-match,AwardSpring customer,False,383721881 
+126863,Community College of Aurora,Aurora,CO,https://ccaurora.edu,Large city,Colorado Community College System,AwardSpring,ccaurora.awardspring.com,slug-match,AwardSpring customer,False,383721881 
+127389,Lamar Community College,Lamar,CO,https://lamarcc.edu,Remote town,Colorado Community College System,,,"probed or crawled, nothing found",No platform found,False,840644739 
+127732,Northeastern Junior College,Sterling,CO,https://njc.edu,Remote town,Colorado Community College System,NextGen Scholarship Manager,njc.scholarships.ngwebsolutions.com,slug-match,Competitor,False,383721881 
+127778,Otero College,La Junta,CO,https://otero.edu,Remote town,Colorado Community College System,NextGen Scholarship Manager,cccs.scholarships.ngwebsolutions.com,district-portal,Competitor,True,840644739 
+128151,Pickens Technical College,Aurora,CO,https://pickenstech.org,Large city,,,,"probed or crawled, nothing found",No platform found,False,846000870 
+128577,Asnuntuck Community College,Enfield,CT,https://asnuntuck.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,066000798 
+417248,CT Aerotech,Hartford,CT,https://ctaero.cttech.org,Midsize city,Connecticut Technical High School System,,,"probed or crawled, nothing found",No platform found,False,066000798 
+129367,Connecticut State Community College,Hartford,CT,https://ctstate.edu,Midsize city,Connecticut State Colleges and Universities,,,"probed or crawled, nothing found",No platform found,False,061398052 
+130396,Connecticut State Community College Gateway,New Haven,CT,https://ctstate.edu,Midsize city,,,,"probed or crawled, nothing found",No platform found,False,066000798 
+129543,Connecticut State Community College Housatonic,Bridgeport,CT,https://ctstate.edu,Midsize city,,,,"probed or crawled, nothing found",No platform found,False,134310869 
+130004,Connecticut State Community College Norwalk,Norwalk,CT,https://ctstate.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,066000798 
+130606,Connecticut State Community College Tunxis,Farmington,CT,https://tunxis.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,066000798 
+129695,Manchester Community College,Manchester,CT,https://manchestercc.edu,Large suburb,,Blackbaud Award Management,manchestercc.academicworks.com,direct-probe,Competitor,False,061269050 
+129756,Middlesex Community College,Middletown,CT,https://mxcc.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,320159889 
+129729,Naugatuck Valley Community College,Waterbury,CT,https://nv.edu,Midsize city,,,,"probed or crawled, nothing found",No platform found,False,061307006 
+130040,Northwestern Connecticut Community College,Winsted,CT,https://nwcc.commnet.edu,Fringe town,,,,"probed or crawled, nothing found",No platform found,False,066000789 
+130217,Quinebaug Valley Community College,Danielson,CT,https://qvcc.edu,Distant town,,,,"probed or crawled, nothing found",No platform found,False,061359687 
+417275,Stratford School for Aviation Maintenance Technicians,Stratford,CT,https://ssamt.cttech.org,Large suburb,Connecticut Technical High School System,,,"probed or crawled, nothing found",No platform found,False,066000798 
+129808,Three Rivers Community College,Norwich,CT,https://threerivers.edu,Small city,,,,"probed or crawled, nothing found",No platform found,False,061422762 
+132374,Atlantic Technical College,Coconut Creek,FL,https://atlantictechnicalcollege.edu,Large suburb,Broward County Public Schools,,,"probed or crawled, nothing found",No platform found,False,596000530 
+369419,Erwin Technical College,Tampa,FL,https://hillsboroughschools.org,Large city,Hillsborough Technical Colleges,,,"probed or crawled, nothing found",No platform found,False,596000660 
+461245,Flagler Technical College,Palm Coast,FL,https://flaglertech.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,596000609 
+135267,Fort Myers Technical College,Fort Myers,FL,https://fortmyerstech.edu,Small city,Florida State Board of Education,,,"probed or crawled, nothing found",No platform found,False,596000701 
+459329,Fred K Marchman Technical College,New Port Richey,FL,https://mtec.pasco.k12.fl.us,Large suburb,Pasco County Schools,,,"probed or crawled, nothing found",No platform found,False,596000792 
+134291,George Stone Technical College,Pensacola,FL,https://georgestonecollege.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,596000597 
+367875,H W Brewster Technical College,Tampa,FL,https://hillsboroughschools.org,Large city,,,,"probed or crawled, nothing found",No platform found,False,596000660 
+457387,Immokalee Technical College,Immokalee,FL,https://itech.edu,Distant town,"Collier County Public School District, Florida",,,"probed or crawled, nothing found",No platform found,False,596000557 
+135294,Lindsey Hopkins Technical College,Miami,FL,https://lindseyhopkins.edu,Large city,,,,"probed or crawled, nothing found",No platform found,False,596000572 
+135407,Manatee Technical College,Bradenton,FL,https://manateetech.edu,Large suburb,Florida State Board of Education,,,"probed or crawled, nothing found",No platform found,False,596000728 
+419226,Marion Technical College,Ocala,FL,https://mariontc.edu,Small city,Florida State Board of Education,,,"probed or crawled, nothing found",No platform found,False,596000734 
+135647,Miami Lakes Educational Center and Technical College,Miami Lakes,FL,https://miamilakes.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,596000572 
+138488,Orange Technical College-East Campus,Winter Park,FL,https://orangetechcollege.net,Large suburb,Florida State Board of Education,,,"probed or crawled, nothing found",No platform found,False,596000771 
+135735,Orange Technical College-South Campus,Orlando,FL,https://orangetechcollege.net,Large suburb,Orange County Public Schools,,,"probed or crawled, nothing found",No platform found,False,596000771 
+138372,Orange Technical College-West Campus,Winter Garden,FL,https://orangetechcollege.net,Large suburb,Orange County Public Schools,,,"probed or crawled, nothing found",No platform found,False,596000771 
+136491,Pinellas Technical College-Clearwater,Clearwater,FL,https://myptc.edu,Large suburb,Florida State Board of Education,,,"probed or crawled, nothing found",No platform found,False,596000799 
+137087,Pinellas Technical College-St. Petersburg,Saint Petersburg,FL,https://myptc.edu,Large city,Florida State Board of Education,,,"probed or crawled, nothing found",No platform found,False,596000799 
+136659,Radford M Locklin Technical College,Milton,FL,https://locklintech.com,Fringe rural,Florida State Board of Education,,,"probed or crawled, nothing found",No platform found,False,596000845 
+137713,Riveroak Technical College,Live Oak,FL,https://rtc.suwannee.k12.fl.us,Remote town,Florida State Board of Education,,,"probed or crawled, nothing found",No platform found,False,596000872 
+136826,Robert Morgan Educational Center and Technical College,Miami,FL,https://robertmorgantech.net,Large suburb,Florida State Board of Education,,,"probed or crawled, nothing found",No platform found,False,596000572 
+137245,Sheridan Technical College,Hollywood,FL,https://sheridantechnicalcollege.edu,Large suburb,Broward County Public Schools,,,"probed or crawled, nothing found",No platform found,False,596000530 
+137120,Suncoast Technical College,Sarasota,FL,https://sarasotacountyschools.net,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,596000847 
+138479,William T McFatter Technical College,Davie,FL,https://mcfattertechnicalcollege.edu,Large suburb,Broward County Public Schools,,,"probed or crawled, nothing found",No platform found,False,596000530 
+138497,Withlacoochee Technical College,Inverness,FL,https://wtcollege.org,Small suburb,,,,"probed or crawled, nothing found",No platform found,False,596000546 
+138682,Albany Technical College,Albany,GA,https://albanytech.edu,Small city,Technical College System of Georgia,,,"probed or crawled, nothing found",No platform found,False,581788487 
+246813,Athens Technical College,Athens,GA,https://athenstech.edu,Midsize city,Technical College System of Georgia,AwardSpring,athenstechfoundation.awardspring.com,slug-match,AwardSpring customer,False,581722080 
+138840,Atlanta Technical College,Atlanta,GA,https://atlantatech.edu,Large city,Technical College System of Georgia,AwardSpring,atlantatech.awardspring.com,slug-match,AwardSpring customer,False,586000134 
+138956,Augusta Technical College,Augusta,GA,https://augustatech.edu,Midsize city,Technical College System of Georgia,AwardSpring,augustatech.awardspring.com,slug-match,AwardSpring customer,False,581723458 
+483045,Central Georgia Technical College,Warner Robins,GA,https://centralgatech.edu,Small city,Technical College System of Georgia,,,"probed or crawled, nothing found",No platform found,False,581839434 
+140331,Chattahoochee Technical College,Marietta,GA,https://chattahoocheetech.edu,Large suburb,Technical College System of Georgia,AwardSpring,chattahoochee.awardspring.com,slug-match,AwardSpring customer,False,581788754 
+485458,Coastal Pines Technical College,Waycross,GA,https://coastalpines.edu,Remote town,Technical College System of Georgia,AwardSpring,coastalpines.awardspring.com,slug-match,AwardSpring customer,False,580974519 
+139357,Columbus Technical College,Columbus,GA,https://columbustech.edu,Midsize city,Technical College System of Georgia,AwardSpring,columbustech.awardspring.com,slug-match,AwardSpring customer,False,581739966 
+139384,Georgia Northwestern Technical College,Rome,GA,https://gntc.edu,Small city,Technical College System of Georgia,AwardSpring,gntc.awardspring.com,slug-match,AwardSpring customer,False,581026995 
+244446,Georgia Piedmont Technical College,Clarkston,GA,https://gptc.edu,Large suburb,Technical College System of Georgia,,,"probed or crawled, nothing found",No platform found,False,582223600 
+244437,Georgia State University-Perimeter College,Atlanta,GA,https://perimeter.gsu.edu,Large city,University System of Georgia,,,"probed or crawled, nothing found",No platform found,False,581845423 
+139746,Grady Health System Professional Schools,Atlanta,GA,https://gradyhealth.org,Large city,,,,"probed or crawled, nothing found",No platform found,False,262037695 
+140012,Gwinnett Technical College,Lawrenceville,GA,https://gwinnetttech.edu,Large suburb,Technical College System of Georgia,AwardSpring,gwinnetttech.awardspring.com,slug-match,AwardSpring customer,False,223894837 
+140243,Lanier Technical College,Gainesville,GA,https://laniertech.edu,Small city,Technical College System of Georgia,,,"probed or crawled, nothing found",No platform found,False,580964324 
+140678,North Georgia Technical College,Clarkesville,GA,https://northgatech.edu,Fringe rural,Technical College System of Georgia,AwardSpring,northgatech.awardspring.com,slug-match,AwardSpring customer,False,581733358 
+420431,Oconee Fall Line Technical College,Sandersville,GA,https://oftc.edu,Fringe rural,Technical College System of Georgia,AwardSpring,oftc.awardspring.com,slug-match,AwardSpring customer,False,582182006 
+366465,Ogeechee Technical College,Statesboro,GA,https://ogeecheetech.edu,Distant town,Technical College System of Georgia,,,"probed or crawled, nothing found",No platform found,False,581859938 
+140942,Savannah Technical College,Savannah,GA,https://savannahtech.edu,Midsize city,Technical College System of Georgia,AwardSpring,savannahtech.awardspring.com,slug-match,AwardSpring customer,False,582292713 
+141006,South Georgia Technical College,Americus,GA,https://southgatech.edu,Distant town,Technical College System of Georgia,,,"probed or crawled, nothing found",No platform found,False,581728667 
+368911,Southeastern Technical College,Vidalia,GA,https://southeasterntech.edu,Remote town,Technical College System of Georgia,,,"probed or crawled, nothing found",No platform found,False,581865531 
+139986,Southern Crescent Technical College,Griffin,GA,https://sctech.edu,Fringe town,Technical College System of Georgia,AwardSpring,sctech.awardspring.com,slug-match,AwardSpring customer,False,580907873 
+487162,Southern Regional Technical College,Thomasville,GA,https://southernregional.edu,Distant town,Technical College System of Georgia,,,"probed or crawled, nothing found",No platform found,False,581790567 
+139278,West Georgia Technical College,Waco,GA,https://westgatech.edu,Fringe rural,Technical College System of Georgia,,,"probed or crawled, nothing found",No platform found,False,581656795 
+141255,Wiregrass Georgia Technical College,Valdosta,GA,https://wiregrass.edu,Fringe rural,Technical College System of Georgia,AwardSpring,wiregrass.awardspring.com,slug-match,AwardSpring customer,False,581774017 
+383190,Hawaii Community College,Hilo,HI,https://hawaii.hawaii.edu,Remote town,University of Hawaii Board of Regents,NextGen Scholarship Manager,uhsys.scholarships.ngwebsolutions.com,district-portal,Competitor,True,996000354 
+141680,Honolulu Community College,Honolulu,HI,https://honolulu.hawaii.edu,Large city,University of Hawaii Board of Regents,NextGen Scholarship Manager,uhsys.scholarships.ngwebsolutions.com,district-portal,Competitor,True,996000354 
+141796,Kapiolani Community College,Honolulu,HI,https://kapiolani.hawaii.edu,Large city,University of Hawaii Board of Regents,NextGen Scholarship Manager,hcf.scholarships.ngwebsolutions.com,district-portal,Competitor,True,996000354 
+141802,Kauai Community College,Lihue,HI,https://kauai.hawaii.edu,Fringe rural,University of Hawaii Board of Regents,NextGen Scholarship Manager,hcf.scholarships.ngwebsolutions.com,district-portal,Competitor,True,996000354 
+141811,Leeward Community College,Pearl City,HI,https://leeward.hawaii.edu,Large suburb,University of Hawaii Board of Regents,,,"probed or crawled, nothing found",No platform found,False,996000354 
+141990,Windward Community College,Kaneohe,HI,https://windward.hawaii.edu,Midsize suburb,University of Hawaii Board of Regents,NextGen Scholarship Manager,uhsys.scholarships.ngwebsolutions.com,district-portal,Competitor,True,996000354 
+153214,Des Moines Area Community College,Ankeny,IA,https://dmacc.edu,Large suburb,,Blackbaud Award Management,dmacc.academicworks.com,slug-match,Competitor,False,420926354 
+153311,Eastern Iowa Community College District,Davenport,IA,https://eicc.edu,Midsize city,,,,"probed or crawled, nothing found",No platform found,False,420924364 
+153296,Ellsworth Community College,Iowa Falls,IA,https://ecc.iavalley.edu,Remote town,Iowa Valley Community College District,Blackbaud Award Management,ecc.academicworks.com,direct-probe,Competitor,False,420926714 
+153445,Hawkeye Community College,Waterloo,IA,https://hawkeyecollege.edu,Fringe rural,,ScholarshipUniverse,hawkeyecollege.scholarshipuniverse.com,slug-match,Competitor,False,420925362 
+153472,Indian Hills Community College,Ottumwa,IA,https://indianhills.edu,Remote town,,NextGen Scholarship Manager,indianhills.scholarships.ngwebsolutions.com,slug-match,Competitor,False,420923689 
+153524,Iowa Central Community College,Fort Dodge,IA,https://iowacentral.edu,Remote town,,AwardSpring,iowacentral.awardspring.com,slug-match,AwardSpring customer,False,410906391 
+153533,Iowa Lakes Community College,Estherville,IA,https://iowalakes.edu,Remote town,,AwardSpring,iowalakes.awardspring.com,slug-match,AwardSpring customer,False,420929936 
+153630,Iowa Western Community College,Council Bluffs,IA,https://iwcc.edu,Large suburb,,NextGen Scholarship Manager,iwcc.scholarships.ngwebsolutions.com,slug-match,Competitor,False,420925013 
+153737,Kirkwood Community College,Cedar Rapids,IA,https://kirkwood.edu,Midsize city,,NextGen Scholarship Manager,kirkwood.scholarships.ngwebsolutions.com,slug-match,Competitor,False,420924685 
+153922,Marshalltown Community College,Marshalltown,IA,https://mcc.iavalley.edu,Distant town,Iowa Valley Community College District,Blackbaud Award Management,mcc.academicworks.com,direct-probe,Competitor,False,420926714 
+154059,North Iowa Area Community College,Mason City,IA,https://niacc.edu,Fringe rural,,NextGen Scholarship Manager,niacc.scholarships.ngwebsolutions.com,slug-match,Competitor,False,420930155 
+154110,Northeast Iowa Community College,Calmar,IA,https://nicc.edu,Distant rural,,,,"probed or crawled, nothing found",No platform found,False,420924711 
+154129,Northwest Iowa Community College,Sheldon,IA,https://nwicc.edu,Remote town,,NextGen Scholarship Manager,nwicc.scholarships.ngwebsolutions.com,slug-match,Competitor,False,420926341 
+154378,Southeastern Community College,West Burlington,IA,https://scciowa.edu,Remote town,,NextGen Scholarship Manager,scciowa.scholarships.ngwebsolutions.com,slug-match,Competitor,False,420926823 
+154396,Southwestern Community College,Creston,IA,https://swcciowa.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,420927778 
+154572,Western Iowa Tech Community College,Sioux City,IA,https://witcc.edu,Small city,,,,"probed or crawled, nothing found",No platform found,False,420926922 
+142179,College of Eastern Idaho,Idaho Falls,ID,https://cei.edu,Small city,,,,"probed or crawled, nothing found",No platform found,False,822124304 
+455114,College of Western Idaho,Nampa,ID,https://cwi.edu,Fringe rural,,ScholarshipUniverse,cwi.scholarshipuniverse.com,slug-match,Competitor,False,260684268 
+142443,North Idaho College,Coeur d'Alene,ID,https://nic.edu,Small city,,ScholarshipUniverse,nic.scholarshipuniverse.com,slug-match,Competitor,True,826000936 
+143279,Black Hawk College,Moline,IL,https://bhc.edu,Small city,,,,"probed or crawled, nothing found",No platform found,False,362482309 
+143613,Carl Sandburg College,Galesburg,IL,https://sandburg.edu,Distant town,Illinois Community College System,NextGen Scholarship Manager,sandburg.scholarships.ngwebsolutions.com,slug-match,Competitor,False,370896983 
+144500,City Colleges of Chicago-District Office,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,False,362606236 
+144209,City Colleges of Chicago-Harold Washington College,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,False,362606236 
+144184,City Colleges of Chicago-Harry S Truman College,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,False,362606236 
+144157,City Colleges of Chicago-Kennedy-King College,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,False,362606230 
+144166,City Colleges of Chicago-Malcolm X College,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,False,362606236 
+144175,City Colleges of Chicago-Olive-Harvey College,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,False,362606236 
+144193,City Colleges of Chicago-Richard J Daley College,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,False,362606236 
+144218,City Colleges of Chicago-Wilbur Wright College,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,False,362606236 
+144865,College of DuPage,Glen Ellyn,IL,https://cod.edu,Large suburb,,Blackbaud Award Management,cod.academicworks.com,slug-match,Competitor,False,362594972 
+146472,College of Lake County,Grayslake,IL,https://clcillinois.edu,Large suburb,,Blackbaud Award Management,clcillinois.academicworks.com,slug-match,Competitor,False,362648760 
+144564,Danville Area Community College,Danville,IL,https://dacc.edu,Distant town,,Blackbaud Award Management,dacc.academicworks.com,slug-match,Competitor,False,370889813 
+144944,Elgin Community College,Elgin,IL,https://elgin.edu,Midsize city,,,,"probed or crawled, nothing found",No platform found,False,362600170 
+403469,Frontier Community College,Fairfield,IL,https://iecc.edu,Remote town,Illinois Community College System,,,"probed or crawled, nothing found",No platform found,False,370906196 
+384342,Heartland Community College,Normal,IL,https://heartland.edu,Midsize suburb,,,,"probed or crawled, nothing found",No platform found,False,371271517 
+145521,Highland Community College,Freeport,IL,https://highland.edu,Fringe rural,,NextGen Scholarship Manager,highland.scholarships.ngwebsolutions.com,slug-match,Competitor,False,362616076 
+145682,Illinois Central College,East Peoria,IL,https://icc.edu,Large suburb,Illinois Community College System,,,"probed or crawled, nothing found",No platform found,False,370892531 
+443368,Illinois Eastern Community College-System Office,Olney,IL,https://iecc.edu,Remote town,Illinois Community College System,,,"probed or crawled, nothing found",No platform found,False,370906196 
+145831,Illinois Valley Community College,Oglesby,IL,https://ivcc.edu,Distant town,,AwardSpring,ivcc.awardspring.com,slug-match,AwardSpring customer,False,362614257 
+146205,John A Logan College,Carterville,IL,https://jalc.edu,Remote town,Illinois Community College System,AwardSpring,jalc.awardspring.com,slug-match,AwardSpring customer,False,370905504 
+146278,John Wood Community College,Quincy,IL,https://jwcc.edu,Remote town,Illinois Community College System,,,"probed or crawled, nothing found",No platform found,False,421027794 
+146296,Joliet Junior College,Joliet,IL,https://jjc.edu,Large suburb,Illinois Community College System,,,"probed or crawled, nothing found",No platform found,False,362638684 
+146348,Kankakee Community College,Kankakee,IL,https://kcc.edu,Small city,,,,"probed or crawled, nothing found",No platform found,False,362612340 
+146366,Kaskaskia College,Centralia,IL,https://kaskaskia.edu,Fringe rural,Illinois Community College System,AwardSpring,kaskaskiascholarships.awardspring.com,slug-match,AwardSpring customer,False,370892167 
+146418,Kishwaukee College,Malta,IL,https://kish.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,362610920 
+146506,Lake Land College,Mattoon,IL,https://lakelandcollege.edu,Fringe rural,,AwardSpring,lakelandcollege.awardspring.com,slug-match,AwardSpring customer,False,370896233 
+146603,Lewis and Clark Community College,Godfrey,IL,https://lc.edu,Small suburb,Illinois Community College System,AwardSpring,lc.awardspring.com,slug-match,AwardSpring customer,False,370919339 
+146685,Lincoln Land Community College,Springfield,IL,https://llcc.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,370900960 
+403478,Lincoln Trail College,Robinson,IL,https://iecc.edu,Fringe rural,Illinois Community College System,,,"probed or crawled, nothing found",No platform found,False,370906196 
+147004,McHenry County College,Crystal Lake,IL,https://mchenry.edu,Fringe rural,,AwardSpring,mchenry.awardspring.com,slug-match,AwardSpring customer,False,362640702 
+147378,Moraine Valley Community College,Palos Hills,IL,https://morainevalley.edu,Large suburb,Illinois Community College System,Blackbaud Award Management,morainevalley.academicworks.com,slug-match,Competitor,False,362614971 
+147411,Morton College,Cicero,IL,https://morton.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,362615274 
+147800,Oakton College,Des Plaines,IL,https://oakton.edu,Small city,,Blackbaud Award Management,oakton.academicworks.com,slug-match,Competitor,False,362681999 
+145707,Olney Central College,Olney,IL,https://iecc.edu,Remote town,Illinois Community College System,,,"probed or crawled, nothing found",No platform found,False,370906196 
+147916,Parkland College,Champaign,IL,https://parkland.edu,Small city,,NextGen Scholarship Manager,parkland.scholarships.ngwebsolutions.com,slug-match,Competitor,False,370892090 
+148007,Prairie State College,Chicago Heights,IL,https://prairiestate.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,362603931 
+148256,Rend Lake College,Ina,IL,https://rlc.edu,Distant rural,Illinois Community College System,AwardSpring,rlc.awardspring.com,slug-match,AwardSpring customer,False,370899219 
+148292,Richland Community College,Decatur,IL,https://richland.edu,Small city,,Blackbaud Award Management,richland.academicworks.com,slug-match,Competitor,False,370953403 
+148380,Rock Valley College,Rockford,IL,https://rockvalleycollege.edu,Midsize city,,Blackbaud Award Management,rockvalleycollege.academicworks.com,slug-match,Competitor,False,362557781 
+148672,Sauk Valley Community College,Dixon,IL,https://svcc.edu,Fringe rural,,AwardSpring,svcc.awardspring.com,slug-match,AwardSpring customer,False,362588599 
+148821,Shawnee Community College,Ullin,IL,https://shawneecc.edu,Distant rural,,Blackbaud Award Management,shawneecc.academicworks.com,slug-match,Competitor,False,370903840 
+149365,South Suburban College,South Holland,IL,https://ssc.edu,Large suburb,,AwardSpring,ssc.awardspring.com,slug-match,AwardSpring customer,False,362597699 
+148937,Southeastern Illinois College,Harrisburg,IL,https://sic.edu,Distant rural,Illinois Community College System,ScholarshipUniverse,nic.scholarshipuniverse.com,district-portal,Competitor,True,370906582 
+143215,Southwestern Illinois College,Belleville,IL,https://swic.edu,Large suburb,,AwardSpring,swic.awardspring.com,slug-match,AwardSpring customer,False,370896981 
+148991,Spoon River College,Canton,IL,https://src.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,370895488 
+149532,Triton College,River Grove,IL,https://triton.edu,Large suburb,Illinois Community College System,AwardSpring,triton.awardspring.com,slug-match,AwardSpring customer,False,362537114 
+403487,Wabash Valley College,Mount Carmel,IL,https://iecc.edu,Distant town,Illinois Community College System,,,"probed or crawled, nothing found",No platform found,False,370906196 
+149727,Waubonsee Community College,Sugar Grove,IL,https://waubonsee.edu,Fringe rural,,Blackbaud Award Management,waubonsee.academicworks.com,slug-match,Competitor,False,366153030 
+149842,William Rainey Harper College,Palatine,IL,https://harpercollege.edu,Large suburb,,Blackbaud Award Management,harpercollege.academicworks.com,slug-match,Competitor,False,362582782 
+150987,Ivy Tech Community College,Indianapolis,IN,https://ivytech.edu,Large city,,NextGen Scholarship Manager,ivytechsystem.scholarships.ngwebsolutions.com,slug-match,Competitor,False,351180631 
+154642,Allen County Community College,Iola,KS,https://allencc.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,480697480 
+154697,Barton County Community College,Great Bend,KS,https://bartonccc.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,480720175 
+154800,Butler Community College,El Dorado,KS,https://butlercc.edu,Distant town,,Blackbaud Award Management,butlercc.academicworks.com,slug-match,Competitor,False,480690383 
+154907,Cloud County Community College,Concordia,KS,https://cloud.edu,Fringe rural,,AwardSpring,cloudcountycommunitycollege.awardspring.com,slug-match,AwardSpring customer,False,480732624 
+154925,Coffeyville Community College,Coffeyville,KS,https://coffeyville.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,480698570 
+154934,Colby Community College,Colby,KS,https://colbycc.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,480698000 
+154952,Cowley County Community College,Arkansas City,KS,https://cowley.edu,Distant town,,,,"probed or crawled, nothing found",No platform found,False,480720889 
+154998,Dodge City Community College,Dodge City,KS,https://dc3.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,521718586 
+155052,Flint Hills Technical College,Emporia,KS,https://fhtc.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,522441491 
+155098,Fort Scott Community College,Fort Scott,KS,https://fortscott.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,480723448 
+155104,Garden City Community College,Garden City,KS,https://gcccks.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,480698107 
+155186,Highland Community College,Highland,KS,https://highlandcc.edu,Distant rural,,,,"probed or crawled, nothing found",No platform found,False,486025822 
+155195,Hutchinson Community College,Hutchinson,KS,https://hutchcc.edu,Distant town,,,,"probed or crawled, nothing found",No platform found,False,480697529 
+155201,Independence Community College,Independence,KS,https://indycc.edu,Fringe rural,,AwardSpring,indycc.awardspring.com,slug-match,AwardSpring customer,False,480720287 
+155210,Johnson County Community College,Overland Park,KS,https://jccc.edu,Midsize city,,,,"probed or crawled, nothing found",No platform found,False,480735009 
+155292,Kansas City Kansas Community College,Kansas City,KS,https://kckcc.edu,Midsize city,,AwardSpring,kckccfoundation.awardspring.com,slug-match,AwardSpring customer,False,480697720 
+155450,Labette Community College,Parsons,KS,https://labette.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,480698218 
+155487,Manhattan Area Technical College,Manhattan,KS,https://manhattantech.edu,Small city,,,,"probed or crawled, nothing found",No platform found,False,830393371 
+155566,Neosho County Community College,Chanute,KS,https://neosho.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,480698341 
+155593,North Central Kansas Technical College,Beloit,KS,https://ncktc.edu,Remote rural,,,,"probed or crawled, nothing found",No platform found,False,480691131 
+155618,Northwest Kansas Technical College,Goodland,KS,https://nwktc.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,480690968 
+155715,Pratt Community College,Pratt,KS,https://prattcc.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,480699112 
+155830,Salina Area Technical College,Salina,KS,https://salinatech.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,264364610 
+155858,Seward County Community College,Liberal,KS,https://sccc.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,480756704 
+156107,Wichita State University-Campus of Applied Sciences and Technology,Wichita,KS,https://wsutech.edu,Large city,,AwardSpring,wsutechfoundation.awardspring.com,slug-match,AwardSpring customer,False,201027060 
+156231,Ashland Community and Technical College,Ashland,KY,https://ashland.kctcs.edu,Small city,Kentucky Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,611320380 
+157553,Big Sandy Community and Technical College,Prestonsburg,KY,https://bigsandy.kctcs.edu,Remote town,Kentucky Community and Technical College System,Blackbaud Award Management,kctcs.academicworks.com,district-portal,Competitor,True,611320380 
+156392,Bluegrass Community and Technical College,Lexington,KY,https://bluegrass.kctcs.edu,Large city,Kentucky Community and Technical College System,Blackbaud Award Management,kctcs.academicworks.com,district-portal,Competitor,True,611320380 
+156648,Elizabethtown Community and Technical College,Elizabethtown,KY,https://elizabethtown.kctcs.edu,Small city,Kentucky Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,611320380 
+157438,Gateway Community and Technical College,Florence,KY,https://gateway.kctcs.edu,Large suburb,Kentucky Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,611320380 
+156790,Hazard Community and Technical College,Hazard,KY,https://hazard.kctcs.edu,Remote town,Kentucky Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,611320380 
+156851,Henderson Community College,Henderson,KY,https://henderson.kctcs.edu,Fringe rural,Kentucky Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,611320380 
+156860,Hopkinsville Community College,Hopkinsville,KY,https://hopkinsville.kctcs.edu,Distant town,Kentucky Community and Technical College System,Blackbaud Award Management,kctcs.academicworks.com,district-portal,Competitor,True,611320380 
+156921,Jefferson Community and Technical College,Louisville,KY,https://jefferson.kctcs.edu,Large city,Kentucky Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,616001218 
+157854,Kentucky Community and Technical College System,Versailles,KY,https://systemoffice.kctcs.edu,Fringe town,Kentucky Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,611320380 
+157304,Madisonville Community College,Madisonville,KY,https://madisonville.kctcs.edu,Distant town,Kentucky Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,611320380 
+157331,Maysville Community and Technical College,Maysville,KY,https://maysville.kctcs.edu,Fringe rural,Kentucky Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,611320380 
+247940,Owensboro Community and Technical College,Owensboro,KY,https://owensboro.kctcs.edu,Fringe rural,Kentucky Community and Technical College System,Blackbaud Award Management,kctcs.academicworks.com,district-portal,Competitor,True,611320380 
+157711,Somerset Community College,Somerset,KY,https://somerset.kctcs.edu,Remote town,Kentucky Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,611320380 
+156338,Southcentral Kentucky Community and Technical College,Bowling Green,KY,https://southcentral.kctcs.edu,Small city,Kentucky Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,611320380 
+157739,Southeast Kentucky Community & Technical College,Cumberland,KY,https://southeast.kctcs.edu,Remote rural,Kentucky Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,611320380 
+157483,West Kentucky Community and Technical College,Paducah,KY,https://westkentucky.kctcs.edu,Small city,Kentucky Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,611320380 
+437103,Baton Rouge Community College,Baton Rouge,LA,https://mybrcc.edu,Midsize city,Louisiana Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,721334786 
+158431,Bossier Parish Community College,Bossier City,LA,https://bpcc.edu,Small city,Louisiana Community and Technical College System,AwardSpring,bpcc.awardspring.com,slug-match,AwardSpring customer,False,721380259 
+158088,Central Louisiana Technical Community College,Alexandria,LA,https://cltcc.edu,Small city,Louisiana Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,272961167 
+158662,Delgado Community College,New Orleans,LA,https://dcc.edu,Large city,Louisiana Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,726012995 
+160481,Fletcher Technical Community College,Schriever,LA,https://fletcher.edu,Fringe rural,Louisiana Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,720772772 
+483212,Louisiana Delta Community College,Monroe,LA,https://ladelta.edu,Small city,Louisiana Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,721506851 
+159407,Louisiana State University-Eunice,Eunice,LA,https://lsue.edu,Distant town,Louisiana State University System,,,"probed or crawled, nothing found",No platform found,False,726000848 
+160667,Northshore Technical Community College,Lacombe,LA,https://northshorecollege.edu,Fringe rural,Louisiana Community and Technical College System,AwardSpring,northshorecollege.awardspring.com,slug-match,AwardSpring customer,False,721470584 
+160010,Northwest Louisiana Technical Community College,Minden,LA,https://nltcc.edu,Fringe rural,Louisiana Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,721470584 
+158884,Nunez Community College,Chalmette,LA,https://nunez.edu,Large suburb,Louisiana Community and Technical College System,AwardSpring,nunez.awardspring.com,slug-match,AwardSpring customer,False,721215360 
+436304,River Parishes Community College,Gonzales,LA,https://rpcc.edu,Fringe rural,Louisiana Community and Technical College System,AwardSpring,rpcc.awardspring.com,slug-match,AwardSpring customer,False,721424618 
+160579,SOWELA Technical Community College,Lake Charles,LA,https://sowela.edu,Small city,Louisiana Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,721470584 
+434061,South Louisiana Community College,Lafayette,LA,https://solacc.edu,Midsize city,Louisiana Community and Technical College System,AwardSpring,solacc.awardspring.com,slug-match,AwardSpring customer,False,721425264 
+160649,Southern University at Shreveport,Shreveport,LA,https://susla.edu,Midsize city,Southern University System,,,"probed or crawled, nothing found",No platform found,False,726000817 
+164775,Berkshire Community College,Pittsfield,MA,https://berkshirecc.edu,Fringe rural,Massachusetts Community Colleges,Blackbaud Award Management,berkshirecc.academicworks.com,slug-match,Competitor,False,046002284 
+165033,Bristol Community College,Fall River,MA,https://bristolcc.edu,Large suburb,Massachusetts Community Colleges,Blackbaud Award Management,bristolcc.academicworks.com,slug-match,Competitor,False,046278794 
+165112,Bunker Hill Community College,Boston,MA,https://bhcc.edu,Large city,Massachusetts Community Colleges,,,"probed or crawled, nothing found",No platform found,False,046002284 
+165194,Cape Cod Community College,West Barnstable,MA,https://capecod.edu,Small city,Massachusetts Community Colleges,,,"probed or crawled, nothing found",No platform found,False,046002284 
+165981,Greenfield Community College,Greenfield,MA,https://gcc.mass.edu,Distant town,Massachusetts Community Colleges,,,"probed or crawled, nothing found",No platform found,False,237090085 
+166133,Holyoke Community College,Holyoke,MA,https://hcc.edu,Fringe rural,Massachusetts Community Colleges,,,"probed or crawled, nothing found",No platform found,False,042719849 
+166647,Massachusetts Bay Community College,Wellesley Hills,MA,https://massbay.edu,Large suburb,Massachusetts Community Colleges,,,"probed or crawled, nothing found",No platform found,False,046002284 
+166823,Massasoit Community College,Brockton,MA,https://massasoit.edu,Large suburb,Massachusetts Community Colleges,AwardSpring,massasoit.awardspring.com,slug-match,AwardSpring customer,False,046002284 
+166887,Middlesex Community College,Bedford,MA,https://middlesex.mass.edu,Large suburb,Massachusetts Community Colleges,,,"probed or crawled, nothing found",No platform found,False,046002284 
+166957,Mount Wachusett Community College,Gardner,MA,https://mwcc.edu,Midsize suburb,Massachusetts Community Colleges,,,"probed or crawled, nothing found",No platform found,False,046002284 
+167312,North Shore Community College,Danvers,MA,https://northshore.edu,Large suburb,Massachusetts Community Colleges,,,"probed or crawled, nothing found",No platform found,False,042687444 
+167376,Northern Essex Community College,Haverhill,MA,https://necc.mass.edu,Large suburb,Massachusetts Community Colleges,Blackbaud Award Management,necc.academicworks.com,slug-match,Competitor,False,042498732 
+167534,Quinsigamond Community College,Worcester,MA,https://qcc.edu,Midsize city,Massachusetts Community Colleges,,,"probed or crawled, nothing found",No platform found,False,042492727 
+167631,Roxbury Community College,Roxbury Crossing,MA,https://rcc.mass.edu,Large city,Massachusetts Community Colleges,,,"probed or crawled, nothing found",No platform found,False,042726857 
+167905,Springfield Technical Community College,Springfield,MA,https://stcc.edu,Midsize city,Massachusetts Community Colleges,AwardSpring,stcc.awardspring.com,slug-match,AwardSpring customer,False,042444774 
+161688,Allegany College of Maryland,Cumberland,MD,https://allegany.edu,Remote town,,Blackbaud Award Management,allegany.academicworks.com,slug-match,Competitor,False,520846757 
+161767,Anne Arundel Community College,Arnold,MD,https://aacc.edu,Large suburb,,NextGen Scholarship Manager,aacc.scholarships.ngwebsolutions.com,slug-match,Competitor,False,520905706 
+161864,Baltimore City Community College,Baltimore,MD,https://bccc.edu,Large city,,Blackbaud Award Management,bccc.academicworks.com,slug-match,Competitor,False,526002033 
+405872,Carroll Community College,Westminster,MD,https://carrollcc.edu,Fringe town,,NextGen Scholarship Manager,carrollcc.scholarships.ngwebsolutions.com,slug-match,Competitor,False,521806923 
+162104,Cecil College,North East,MD,https://cecil.edu,Fringe rural,,Blackbaud Award Management,cecil.academicworks.com,slug-match,Competitor,False,520908863 
+162168,Chesapeake College,Wye Mills,MD,https://chesapeake.edu,Distant rural,,NextGen Scholarship Manager,chesapeake.scholarships.ngwebsolutions.com,slug-match,Competitor,False,520824728 
+162122,College of Southern Maryland,La Plata,MD,https://csmd.edu,Fringe rural,,Blackbaud Award Management,csmd.academicworks.com,slug-match,Competitor,False,520848273 
+434672,Community College of Baltimore County,Baltimore,MD,https://ccbcmd.edu,Large suburb,,NextGen Scholarship Manager,ccbcmd.scholarships.ngwebsolutions.com,slug-match,Competitor,False,521977456 
+162557,Frederick Community College,Frederick,MD,https://frederick.edu,Small city,,Blackbaud Award Management,rederick.academicworks.com,slug-match,Competitor,False,520743590 
+162609,Garrett College,McHenry,MD,https://garrettcollege.edu,Distant rural,,AwardSpring,garrett.awardspring.com,slug-match,AwardSpring customer,False,520906659 
+162690,Hagerstown Community College,Hagerstown,MD,https://hagerstowncc.edu,Midsize suburb,,Blackbaud Award Management,hagerstowncc.academicworks.com,slug-match,Competitor,False,520945289 
+162706,Harford Community College,Bel Air,MD,https://harford.edu,Fringe rural,,AwardSpring,harford.awardspring.com,slug-match,AwardSpring customer,False,520912842 
+162779,Howard Community College,Columbia,MD,https://howardcc.edu,Midsize city,,ScholarshipUniverse,howardcc.scholarshipuniverse.com,slug-match,Competitor,False,520900106 
+163426,Montgomery College,Rockville,MD,https://montgomerycollege.edu,Small city,,Blackbaud Award Management,montgomerycollege.academicworks.com,slug-match,Competitor,False,520891845 
+163657,Prince George's Community College,Largo,MD,https://pgcc.edu,Large suburb,,Blackbaud Award Management,pgcc.academicworks.com,direct-probe,Competitor,False,237011243 
+164313,Wor-Wic Community College,Salisbury,MD,https://worwic.edu,Fringe rural,,NextGen Scholarship Manager,worwic.scholarships.ngwebsolutions.com,slug-match,Competitor,False,521048147 
+161077,Central Maine Community College,Auburn,ME,https://cmcc.edu,Small city,Maine Community College System,,,"probed or crawled, nothing found",No platform found,False,010416015 
+161138,Eastern Maine Community College,Bangor,ME,https://emcc.edu,Small city,Maine Community College System,,,"probed or crawled, nothing found",No platform found,False,010416015 
+161192,Kennebec Valley Community College,Fairfield,ME,https://kvcc.me.edu,Remote town,Maine Community College System,Blackbaud Award Management,kvcc.academicworks.com,direct-probe,Competitor,False,010416015 
+161484,Northern Maine Community College,Presque Isle,ME,https://nmcc.edu,Remote town,Maine Community College System,,,"probed or crawled, nothing found",No platform found,False,010416015 
+161545,Southern Maine Community College,South Portland,ME,https://smccme.edu,Small city,Maine Community College System,,,"probed or crawled, nothing found",No platform found,False,010416015 
+161581,Washington County Community College,Calais,ME,https://wccc.me.edu,Remote rural,Maine Community College System,,,"probed or crawled, nothing found",No platform found,False,010416015 
+420440,York County Community College,Wells,ME,https://yccc.edu,Small suburb,Maine Community College System,,,"probed or crawled, nothing found",No platform found,False,010416015 
+168883,Bay de Noc Community College,Escanaba,MI,https://baycollege.edu,Remote town,,AwardSpring,baycollege.awardspring.com,slug-match,AwardSpring customer,False,381711021 
+169521,Delta College,University Center,MI,https://delta.edu,Fringe rural,,Blackbaud Award Management,delta.academicworks.com,slug-match,Competitor,False,386034011 
+169974,Glen Oaks Community College,Centreville,MI,https://glenoaks.edu,Distant rural,,AwardSpring,glenoaks.awardspring.com,slug-match,AwardSpring customer,False,381800033 
+169992,Gogebic Community College,Ironwood,MI,https://gogebic.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,381816843 
+170055,Grand Rapids Community College,Grand Rapids,MI,https://grcc.edu,Midsize city,,Blackbaud Award Management,grcc.academicworks.com,slug-match,Competitor,False,382980195 
+170541,Kalamazoo Valley Community College,Kalamazoo,MI,https://kvcc.edu,Midsize suburb,,Blackbaud Award Management,kvcc.academicworks.com,slug-match,Competitor,False,381850178 
+170550,Kellogg Community College,Battle Creek,MI,https://kellogg.edu,Small city,,Blackbaud Award Management,kellogg.academicworks.com,slug-match,Competitor,False,381942332 
+461315,Keweenaw Bay Ojibwa Community College,Baraga,MI,https://kbocc.edu,Remote rural,,,,"probed or crawled, nothing found",No platform found,False,010678043 
+170587,Kirtland Community College,Grayling,MI,https://kirtland.edu,Distant rural,,AwardSpring,kirtland.awardspring.com,slug-match,AwardSpring customer,False,381855318 
+170620,Lake Michigan College,Benton Harbor,MI,https://lakemichigancollege.edu,Fringe rural,,NextGen Scholarship Manager,lakemichigancollege.scholarships.ngwebsolutions.com,slug-match,Competitor,False,381738980 
+170657,Lansing Community College,Lansing,MI,https://lcc.edu,Midsize city,,,,"probed or crawled, nothing found",No platform found,False,381787641 
+170790,Macomb Community College,Warren,MI,https://macomb.edu,Midsize city,,Blackbaud Award Management,macomb.academicworks.com,slug-match,Competitor,False,381717622 
+171155,Mid Michigan College,Harrison,MI,https://midmich.edu,Fringe rural,,AwardSpring,midmich.awardspring.com,slug-match,AwardSpring customer,False,381812272 
+171225,Monroe County Community College,Monroe,MI,https://monroeccc.edu,Fringe rural,,Blackbaud Award Management,monroeccc.academicworks.com,slug-match,Competitor,False,386096311 
+171234,Montcalm Community College,Sidney,MI,https://montcalm.edu,Distant rural,,,,"probed or crawled, nothing found",No platform found,False,381790920 
+169275,Mott Community College,Flint,MI,https://mcc.edu,Small city,,Blackbaud Award Management,mcc.academicworks.com,slug-match,Competitor,False,381914697 
+171304,Muskegon Community College,Muskegon,MI,https://muskegoncc.edu,Small city,,NextGen Scholarship Manager,muskegoncc.scholarships.ngwebsolutions.com,slug-match,Competitor,False,381717800 
+171395,North Central Michigan College,Petoskey,MI,https://ncmich.edu,Remote town,,Blackbaud Award Management,ncmich.academicworks.com,slug-match,Competitor,False,381586760 
+171535,Oakland Community College,Auburn Hills,MI,https://oaklandcc.edu,Large suburb,,ScholarshipUniverse,oaklandcc.scholarshipuniverse.com,slug-match,Competitor,False,381751522 
+441070,Saginaw Chippewa Tribal College,Mount Pleasant,MI,https://sagchip.edu,Distant town,,,,"probed or crawled, nothing found",No platform found,False,386178758 
+172307,Southwestern Michigan College,Dowagiac,MI,https://swmich.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,381786120 
+172291,St Clair County Community College,Port Huron,MI,https://sc4.edu,Small suburb,,Blackbaud Award Management,sc4.academicworks.com,slug-match,Competitor,False,381857017 
+172617,Washtenaw Community College,Ann Arbor,MI,https://wccnet.edu,Large suburb,,ScholarshipUniverse,wccnet.scholarshipuniverse.com,slug-match,Competitor,False,381784300 
+172635,Wayne County Community College District,Detroit,MI,https://wcccd.edu,Large city,,,,"probed or crawled, nothing found",No platform found,False,386157869 
+172671,West Shore Community College,Scottville,MI,https://westshore.edu,Distant rural,,,,"probed or crawled, nothing found",No platform found,False,381852447 
+172918,Alexandria Technical & Community College,Alexandria,MN,https://alextech.edu,Remote town,Minnesota State Colleges and Universities,,,"probed or crawled, nothing found",No platform found,False,411687754 
+172954,Anoka Technical College,Anoka,MN,https://anokatech.edu,Large suburb,Minnesota State Colleges and Universities,AwardSpring,arcc-atc.awardspring.com,district-portal,AwardSpring customer,True,411687554 
+172963,Anoka-Ramsey Community College,Coon Rapids,MN,https://anokaramsey.edu,Large suburb,Minnesota State Colleges and Universities,AwardSpring,arcc-atc.awardspring.com,district-portal,AwardSpring customer,True,411687554 
+173203,Central Lakes College-Brainerd,Brainerd,MN,https://clcmn.edu,Remote town,Minnesota State Colleges and Universities,,,"probed or crawled, nothing found",No platform found,False,416007162 
+175315,Century College,White Bear Lake,MN,https://century.edu,Large suburb,Minnesota State Colleges and Universities,AwardSpring,centurycollege.awardspring.com,slug-match,AwardSpring customer,False,411687554 
+173416,Dakota County Technical College,Rosemount,MN,https://dctc.edu,Fringe rural,Minnesota State Colleges and Universities,AwardSpring,dctcihcc.awardspring.com,district-portal,AwardSpring customer,True,411687554 
+173708,Hennepin Technical College,Brooklyn Park,MN,https://hennepintech.edu,Large suburb,Minnesota State Colleges and Universities,AwardSpring,hennepintechnicalcollege.awardspring.com,slug-match,AwardSpring customer,False,411687554 
+173799,Inver Hills Community College,Inver Grove Heights,MN,https://inverhills.edu,Large suburb,Minnesota State Colleges and Universities,AwardSpring,dctcihcc.awardspring.com,district-portal,AwardSpring customer,True,411687554 
+173461,Lake Superior College,Duluth,MN,https://lsc.edu,Small city,Minnesota State Colleges and Universities,,,"probed or crawled, nothing found",No platform found,False,411687554 
+413626,Leech Lake Tribal College,Cass Lake,MN,https://lltc.edu,Distant rural,,,,"probed or crawled, nothing found",No platform found,False,411242052 
+174136,Minneapolis Community and Technical College,Minneapolis,MN,https://minneapolis.edu,Large city,Minnesota State Colleges and Universities,AwardSpring,minneapolis.awardspring.com,slug-match,AwardSpring customer,False,411687554 
+173735,Minnesota North College,Hibbing,MN,https://minnesotanorth.edu,Remote town,Minnesota State Colleges and Universities,AwardSpring,minnesotanorth.awardspring.com,slug-match,AwardSpring customer,False,411687554 
+175263,Minnesota State College Southeast,Winona,MN,https://southeastmn.edu,Distant town,Minnesota State Colleges and Universities,AwardSpring,southeastmn.awardspring.com,slug-match,AwardSpring customer,False,411687554 
+173559,Minnesota State Community and Technical College,Fergus Falls,MN,https://minnesota.edu,Fringe rural,Minnesota State Colleges and Universities,,,"probed or crawled, nothing found",No platform found,False,416007162 
+173638,Minnesota West Community and Technical College,Granite Falls,MN,https://mnwest.edu,Remote rural,Minnesota State Colleges and Universities,Blackbaud Award Management,mnwest.academicworks.com,slug-match,Competitor,False,411687554 
+174428,Normandale Community College,Bloomington,MN,https://normandale.edu,Small city,Minnesota State Colleges and Universities,NextGen Scholarship Manager,normandale.scholarships.ngwebsolutions.com,slug-match,Competitor,False,411687554 
+174376,North Hennepin Community College,Brooklyn Park,MN,https://nhcc.edu,Large suburb,Minnesota State Colleges and Universities,,,"probed or crawled, nothing found",No platform found,False,411687554 
+174473,Northland Community and Technical College,Thief River Falls,MN,https://northlandcollege.edu,Remote town,Minnesota State Colleges and Universities,AwardSpring,northland.awardspring.com,slug-match,AwardSpring customer,False,411687554 
+173115,Northwest Technical College,Bemidji,MN,https://ntcmn.edu,Remote town,Minnesota State Colleges and Universities,,,"probed or crawled, nothing found",No platform found,False,411687554 
+174570,Pine Technical & Community College,Pine City,MN,https://pine.edu,Remote rural,Minnesota State Colleges and Universities,,,"probed or crawled, nothing found",No platform found,False,411687554 
+491844,Red Lake Nation College,Red Lake,MN,https://rlnc.education,Remote rural,,,,"probed or crawled, nothing found",No platform found,False,263031521 
+175236,Ridgewater College,Willmar,MN,https://ridgewater.edu,Remote town,Minnesota State Colleges and Universities,Blackbaud Award Management,ridgewater.academicworks.com,slug-match,Competitor,False,411687554 
+173063,Riverland Community College,Austin,MN,https://riverland.edu,Distant town,Minnesota State Colleges and Universities,Blackbaud Award Management,riverland.academicworks.com,slug-match,Competitor,False,411687554 
+174738,Rochester Community and Technical College,Rochester,MN,https://rctc.edu,Midsize city,Minnesota State Colleges and Universities,,,"probed or crawled, nothing found",No platform found,False,411687554 
+175041,Saint Paul College,Saint Paul,MN,https://saintpaul.edu,Large city,Minnesota State Colleges and Universities,Blackbaud Award Management,saintpaul.academicworks.com,slug-match,Competitor,False,411687554 
+173911,South Central College,North Mankato,MN,https://southcentral.edu,Small suburb,Minnesota State Colleges and Universities,,,"probed or crawled, nothing found",No platform found,False,411687554 
+174756,St Cloud Technical and Community College,Saint Cloud,MN,https://sctcc.edu,Small city,Minnesota State Colleges and Universities,,,"probed or crawled, nothing found",No platform found,False,411687554 
+176798,Cape Girardeau Career and Technology Center,Cape Girardeau,MO,https://capectc.org,Small city,,,,"probed or crawled, nothing found",No platform found,False,436000601 
+177135,Crowder College,Neosho,MO,https://crowder.edu,Distant town,,AwardSpring,crowder.awardspring.com,slug-match,AwardSpring customer,False,440668521 
+177250,East Central College,Union,MO,https://eastcentral.edu,Distant town,,,,"probed or crawled, nothing found",No platform found,False,430910391 
+177676,Jefferson College,Hillsboro,MO,https://jeffco.edu,Fringe rural,,AwardSpring,jeffco.awardspring.com,slug-match,AwardSpring customer,False,430793993 
+177995,Metropolitan Community College-Kansas City,Kansas City,MO,https://mcckc.edu,Large city,Metropolitan Community Colleges,ScholarshipUniverse,mcckc.scholarshipuniverse.com,slug-match,Competitor,False,430813703 
+178217,Mineral Area College,Park Hills,MO,https://mineralarea.edu,Distant town,,,,"probed or crawled, nothing found",No platform found,False,430829175 
+179344,Missouri State University-West Plains,West Plains,MO,https://wp.missouristate.edu,Remote town,Missouri State University,,,"probed or crawled, nothing found",No platform found,False,431641443 
+178448,Moberly Area Community College,Moberly,MO,https://macc.edu,Distant town,,,,"probed or crawled, nothing found",No platform found,False,430908094 
+179715,North Central Missouri College,Trenton,MO,https://ncmissouri.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,431172503 
+262031,St Charles Community College,Cottleville,MO,https://stchas.edu,Large suburb,,AwardSpring,stchas.awardspring.com,slug-match,AwardSpring customer,False,431408103 
+179539,State Fair Community College,Sedalia,MO,https://sfccmo.edu,Remote town,,Blackbaud Award Management,sfccmo.academicworks.com,slug-match,Competitor,False,430899766 
+177977,State Technical College of Missouri,Linn,MO,https://statetechmo.edu,Distant rural,,,,"probed or crawled, nothing found",No platform found,False,431731010 
+179645,Three Rivers College,Poplar Bluff,MO,https://trcc.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,430862849 
+175519,Coahoma Community College,Clarksdale,MS,https://coahomacc.edu,Fringe rural,,ScholarshipUniverse,coahomacc.scholarshipuniverse.com,slug-match,Competitor,False,640437624 
+175573,Copiah-Lincoln Community College,Wesson,MS,https://colin.edu,Distant rural,,AwardSpring,colin.awardspring.com,slug-match,AwardSpring customer,False,646000293 
+175643,East Central Community College,Decatur,MS,https://eccc.edu,Remote rural,,,,"probed or crawled, nothing found",No platform found,False,646000329 
+175652,East Mississippi Community College,Scooba,MS,https://eastms.edu,Remote rural,,,,"probed or crawled, nothing found",No platform found,False,646000330 
+175786,Hinds Community College,Raymond,MS,https://hindscc.edu,Distant rural,,ScholarshipUniverse,hindscc.scholarshipuniverse.com,slug-match,Competitor,False,646000453 
+175810,Holmes Community College,Goodman,MS,https://holmescc.edu,Remote rural,,,,"probed or crawled, nothing found",No platform found,False,646011102 
+175829,Itawamba Community College,Fulton,MS,https://iccms.edu,Remote rural,,,,"probed or crawled, nothing found",No platform found,False,646000500 
+175883,Jones County Junior College,Ellisville,MS,https://jcjc.edu,Distant town,,,,"probed or crawled, nothing found",No platform found,False,646000538 
+175935,Meridian Community College,Meridian,MS,https://meridiancc.edu,Remote town,Mississippi State Board for Community and Junior Colleges,ScholarshipUniverse,meridiancc.scholarshipuniverse.com,slug-match,Competitor,False,646035781 
+247737,Mississippi Community College Board,Jackson,MS,https://mccb.edu,Midsize city,,,,"probed or crawled, nothing found",No platform found,False,640897726 
+176008,Mississippi Delta Community College,Moorhead,MS,https://msdelta.edu,Distant rural,,,,"probed or crawled, nothing found",No platform found,False,646001101 
+176071,Mississippi Gulf Coast Community College,Perkinston,MS,https://mgccc.edu,Distant rural,,,,"probed or crawled, nothing found",No platform found,False,646000964 
+176169,Northeast Mississippi Community College,Booneville,MS,https://nemcc.edu,Remote town,,AwardSpring,nemcc.awardspring.com,slug-match,AwardSpring customer,False,646000913 
+176178,Northwest Mississippi Community College,Senatobia,MS,https://northwestms.edu,Distant town,,AwardSpring,northwestms.awardspring.com,slug-match,AwardSpring customer,False,646001616 
+176239,Pearl River Community College,Poplarville,MS,https://prcc.edu,Remote rural,,,,"probed or crawled, nothing found",No platform found,False,646000960 
+176354,Southwest Mississippi Community College,Summit,MS,https://smcc.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,646001081 
+180160,Chief Dull Knife College,Lame Deer,MT,https://cdkc.edu,Remote rural,,,,"probed or crawled, nothing found",No platform found,False,810351900 
+180151,Dawson Community College,Glendive,MT,https://dawson.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,816000240 
+180197,Flathead Valley Community College,Kalispell,MT,https://fvcc.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,810299199 
+180212,Fort Peck Community College,Poplar,MT,https://fpcc.edu,Remote rural,,,,"probed or crawled, nothing found",No platform found,False,810374399 
+180249,Great Falls College Montana State University,Great Falls,MT,https://gfcmsu.edu,Small city,Montana University System,,,"probed or crawled, nothing found",No platform found,False,810522790 
+180276,Helena College University of Montana,Helena,MT,https://helenacollege.edu,Small city,Montana University System,,,"probed or crawled, nothing found",No platform found,False,810302402 
+180081,Highlands College of Montana Tech,Butte,MT,https://mtech.edu,Remote town,,Blackbaud Award Management,mtech.academicworks.com,slug-match,Competitor,False,816001654 
+180328,Little Big Horn College,Crow Agency,MT,https://lbhc.edu,Remote rural,,,,"probed or crawled, nothing found",No platform found,False,810331905 
+180373,Miles Community College,Miles City,MT,https://milescc.edu,Remote town,Montana University System,AwardSpring,milescc.awardspring.com,slug-match,AwardSpring customer,False,816000208 
+199786,Alamance Community College,Graham,NC,https://alamancecc.edu,Midsize suburb,North Carolina Community College System,AwardSpring,alamancecc.awardspring.com,slug-match,AwardSpring customer,False,566052379 
+197887,Asheville-Buncombe Technical Community College,Asheville,NC,https://abtech.edu,Small city,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560792170 
+197966,Beaufort County Community College,Washington,NC,https://beaufortccc.edu,Fringe rural,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560894923 
+198011,Bladen Community College,Dublin,NC,https://bladencc.edu,Distant rural,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560894927 
+198039,Blue Ridge Community College,Flat Rock,NC,https://blueridge.edu,Large suburb,North Carolina Community College System,NextGen Scholarship Manager,blueridge.scholarships.ngwebsolutions.com,slug-match,Competitor,False,560941830 
+198084,Brunswick Community College,Bolivia,NC,https://brunswickcc.edu,Distant rural,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,561255943 
+198118,Caldwell Community College and Technical Institute,Hudson,NC,https://cccti.edu,Midsize suburb,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560817481 
+198154,Cape Fear Community College,Wilmington,NC,https://cfcc.edu,Midsize city,North Carolina Community College System,Blackbaud Award Management,cfcc.academicworks.com,slug-match,Competitor,False,560792881 
+198206,Carteret Community College,Morehead City,NC,https://carteret.edu,Distant town,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560894932 
+198233,Catawba Valley Community College,Hickory,NC,https://cvcc.edu,Small city,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560792028 
+198251,Central Carolina Community College,Sanford,NC,https://cccc.edu,Distant town,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560794261 
+198260,Central Piedmont Community College,Charlotte,NC,https://cpcc.edu,Large city,North Carolina Community College System,Blackbaud Award Management,cpcc.academicworks.com,slug-match,Competitor,False,560797174 
+198321,Cleveland Community College,Shelby,NC,https://clevelandcc.edu,Distant town,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560848556 
+198330,Coastal Carolina Community College,Jacksonville,NC,https://coastalcarolina.edu,Small city,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560851326 
+197814,College of the Albemarle,Elizabeth City,NC,https://albemarle.edu,Distant town,North Carolina Community College System,NextGen Scholarship Manager,albemarle.scholarships.ngwebsolutions.com,slug-match,Competitor,False,566024012 
+198367,Craven Community College,New Bern,NC,https://cravencc.edu,Distant town,North Carolina Community College System,AwardSpring,cravencc.awardspring.com,slug-match,AwardSpring customer,False,560893718 
+198376,Davidson-Davie Community College,Thomasville,NC,https://davidsondavie.edu,Fringe rural,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560792247 
+198455,Durham Technical Community College,Durham,NC,https://durhamtech.edu,Large city,North Carolina Community College System,Blackbaud Award Management,durhamtech.academicworks.com,slug-match,Competitor,False,560792513 
+198491,Edgecombe Community College,Tarboro,NC,https://edgecombe.edu,Fringe rural,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560897301 
+198534,Fayetteville Technical Community College,Fayetteville,NC,https://faytechcc.edu,Midsize city,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560791849 
+198552,Forsyth Technical Community College,Winston-Salem,NC,https://forsythtech.edu,Large city,North Carolina Community College System,ScholarshipUniverse,orsythtech.scholarshipuniverse.com,slug-match,Competitor,False,560792614 
+198570,Gaston College,Dallas,NC,https://gaston.edu,Midsize suburb,North Carolina Community College System,Blackbaud Award Management,gaston.academicworks.com,slug-match,Competitor,False,560792292 
+198622,Guilford Technical Community College,Jamestown,NC,https://gtcc.edu,Large suburb,North Carolina Community College System,AwardSpring,gtcc.awardspring.com,slug-match,AwardSpring customer,False,560792519 
+198640,Halifax Community College,Weldon,NC,https://halifaxcc.edu,Fringe rural,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560896018 
+198668,Haywood Community College,Clyde,NC,https://haywood.edu,Fringe rural,North Carolina Community College System,AwardSpring,haywood.awardspring.com,slug-match,AwardSpring customer,False,560894341 
+198710,Isothermal Community College,Spindale,NC,https://isothermal.edu,Distant town,North Carolina Community College System,AwardSpring,isothermal.awardspring.com,slug-match,AwardSpring customer,False,560841505 
+198729,James Sprunt Community College,Kenansville,NC,https://jamessprunt.edu,Distant rural,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560892755 
+198774,Johnston Community College,Smithfield,NC,https://johnstoncc.edu,Fringe town,North Carolina Community College System,AwardSpring,johnstoncc.awardspring.com,slug-match,AwardSpring customer,False,560937578 
+198817,Lenoir Community College,Kinston,NC,https://lenoircc.edu,Distant town,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560753025 
+198905,Martin Community College,Williamston,NC,https://martincc.edu,Distant town,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560895914 
+198914,Mayland Community College,Spruce Pine,NC,https://mayland.edu,Distant rural,,AwardSpring,mayland.awardspring.com,slug-match,AwardSpring customer,False,560990134 
+198923,McDowell Technical Community College,Marion,NC,https://mcdowelltech.edu,Fringe rural,North Carolina Community College System,AwardSpring,mcdowelltech.awardspring.com,slug-match,AwardSpring customer,False,560991668 
+198987,Mitchell Community College,Statesville,NC,https://mitchellcc.edu,Fringe town,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,561048429 
+199023,Montgomery Community College,Troy,NC,https://montgomery.edu,Distant rural,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560895349 
+199087,Nash Community College,Rocky Mount,NC,https://nashcc.edu,Fringe rural,North Carolina Community College System,Blackbaud Award Management,nashcc.academicworks.com,slug-match,Competitor,False,560895794 
+199263,Pamlico Community College,Grantsboro,NC,https://pamlicocc.edu,Distant rural,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560894229 
+199324,Piedmont Community College,Roxboro,NC,https://piedmontcc.edu,Fringe rural,North Carolina Community College System,Blackbaud Award Management,piedmontcc.academicworks.com,slug-match,Competitor,False,560990351 
+199333,Pitt Community College,Winterville,NC,https://pittcc.edu,Midsize suburb,North Carolina Community College System,Blackbaud Award Management,pittcc.academicworks.com,slug-match,Competitor,False,560793335 
+199421,Randolph Community College,Asheboro,NC,https://randolph.edu,Distant town,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560793680 
+199449,Richmond Community College,Hamlet,NC,https://richmondcc.edu,Distant town,North Carolina Community College System,AwardSpring,richmondcc.awardspring.com,slug-match,AwardSpring customer,False,560818376 
+199467,Roanoke-Chowan Community College,Ahoskie,NC,https://roanokechowan.edu,Fringe rural,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560891591 
+199476,Robeson Community College,Lumberton,NC,https://robeson.edu,Distant town,North Carolina Community College System,Blackbaud Award Management,robesoncc.academicworks.com,slug-match,Competitor,False,560894344 
+199485,Rockingham Community College,Wentworth,NC,https://rockinghamcc.edu,Fringe rural,North Carolina Community College System,AwardSpring,rockinghamcommunitycollege.awardspring.com,slug-match,AwardSpring customer,False,560812577 
+199494,Rowan-Cabarrus Community College,Salisbury,NC,https://rccc.edu,Large suburb,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,042326660 
+199625,Sampson Community College,Clinton,NC,https://sampsoncc.edu,Distant town,,,,"probed or crawled, nothing found",No platform found,False,560898811 
+199634,Sandhills Community College,Pinehurst,NC,https://sandhills.edu,Fringe rural,North Carolina Community College System,Blackbaud Award Management,sandhills.academicworks.com,slug-match,Competitor,False,560797051 
+197850,South Piedmont Community College,Polkton,NC,https://spcc.edu,Distant rural,,AwardSpring,spcc.awardspring.com,slug-match,AwardSpring customer,False,560893801 
+199722,Southeastern Community College,Whiteville,NC,https://sccnc.edu,Distant rural,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560815200 
+199731,Southwestern Community College,Sylva,NC,https://southwesterncc.edu,Distant town,North Carolina Community College System,AwardSpring,southwesterncc.awardspring.com,slug-match,AwardSpring customer,False,560894556 
+199740,Stanly Community College,Albemarle,NC,https://stanly.edu,Distant town,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560994111 
+199768,Surry Community College,Dobson,NC,https://surry.edu,Distant rural,North Carolina Community College System,AwardSpring,surry.awardspring.com,slug-match,AwardSpring customer,False,560841532 
+199795,Tri-County Community College,Murphy,NC,https://tricountycc.edu,Remote rural,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560896010 
+199838,Vance-Granville Community College,Henderson,NC,https://vgcc.edu,Distant town,North Carolina Community College System,Blackbaud Award Management,vgcc.academicworks.com,slug-match,Competitor,False,560937968 
+199856,Wake Technical Community College,Raleigh,NC,https://waketech.edu,Large suburb,North Carolina Community College System,Blackbaud Award Management,waketech.academicworks.com,slug-match,Competitor,False,560792775 
+199892,Wayne Community College,Goldsboro,NC,https://waynecc.edu,Small city,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,560792849 
+199908,Western Piedmont Community College,Morganton,NC,https://wpcc.edu,Small city,North Carolina Community College System,AwardSpring,wpcc.awardspring.com,slug-match,AwardSpring customer,False,560816544 
+199926,Wilkes Community College,Wilkesboro,NC,https://wilkescc.edu,Distant town,North Carolina Community College System,AwardSpring,wilkescc.awardspring.com,slug-match,AwardSpring customer,False,560846669 
+199953,Wilson Community College,Wilson,NC,https://wilsoncc.edu,Fringe town,North Carolina Community College System,,,"probed or crawled, nothing found",No platform found,False,566052568 
+200208,Cankdeska Cikana Community College,Fort Totten,ND,https://littlehoop.edu,Distant rural,,,,"probed or crawled, nothing found",No platform found,False,450350756 
+200314,Dakota College at Bottineau,Bottineau,ND,https://dakotacollege.edu,Remote rural,North Dakota University System,,,"probed or crawled, nothing found",No platform found,False,456002445 
+200192,Lake Region State College,Devils Lake,ND,https://lrsc.edu,Remote town,North Dakota University System,AwardSpring,lrsc.awardspring.com,slug-match,AwardSpring customer,False,450281889 
+200305,North Dakota State College of Science,Wahpeton,ND,https://ndscs.edu,Remote town,North Dakota University System,AwardSpring,ndscs.awardspring.com,slug-match,AwardSpring customer,False,456002451 
+200341,Williston State College,Williston,ND,https://willistonstate.edu,Remote town,North Dakota University System,AwardSpring,willistonstate.awardspring.com,slug-match,AwardSpring customer,False,450324813 
+180902,Central Community College,Grand Island,NE,https://cccneb.edu,Small city,,NextGen Scholarship Manager,cccneb.scholarships.ngwebsolutions.com,slug-match,Competitor,False,470494188 
+434016,Little Priest Tribal College,Winnebago,NE,https://littlepriest.edu,Distant rural,,,,"probed or crawled, nothing found",No platform found,False,911849962 
+181303,Metropolitan Community College Area,Omaha,NE,https://mccneb.edu,Large city,,AwardSpring,mccneb.awardspring.com,slug-match,AwardSpring customer,False,470557228 
+181312,Mid-Plains Community College,North Platte,NE,https://mpcc.edu,Fringe rural,,AwardSpring,mpcc.awardspring.com,slug-match,AwardSpring customer,False,470526576 
+181765,Nebraska College of Technical Agriculture,Curtis,NE,https://ncta.unl.edu,Remote rural,University of Nebraska,,,"probed or crawled, nothing found",No platform found,False,470049123 
+181491,Northeast Community College,Norfolk,NE,https://northeast.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,470524851 
+181640,Southeast Community College Area,Lincoln,NE,https://southeast.edu,Large city,,,,"probed or crawled, nothing found",No platform found,False,470549567 
+181817,Western Nebraska Community College,Scottsbluff,NE,https://wncc.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,476005299 
+183150,Great Bay Community College,Portsmouth,NH,https://greatbay.edu,Small suburb,Community College System of New Hampshire,AwardSpring,ccsnh.awardspring.com,district-portal,AwardSpring customer,True,900531902 
+183123,Lakes Region Community College,Laconia,NH,https://lrcc.edu,Distant town,Community College System of New Hampshire,AwardSpring,ccsnh.awardspring.com,district-portal,AwardSpring customer,True,900531902 
+183132,Manchester Community College,Manchester,NH,https://mccnh.edu,Midsize city,Community College System of New Hampshire,AwardSpring,ccsnh.awardspring.com,district-portal,AwardSpring customer,True,900531902 
+183099,NHTI-Concord's Community College,Concord,NH,https://nhti.edu,Fringe town,Community College System of New Hampshire,AwardSpring,ccsnh.awardspring.com,district-portal,AwardSpring customer,True,900531902 
+183141,Nashua Community College,Nashua,NH,https://nashuacc.edu,Small city,Community College System of New Hampshire,AwardSpring,ccsnh.awardspring.com,district-portal,AwardSpring customer,True,900531902 
+183114,River Valley Community College,Claremont,NH,https://rivervalley.edu,Fringe rural,Community College System of New Hampshire,AwardSpring,ccsnh.awardspring.com,district-portal,AwardSpring customer,True,900531902 
+183105,White Mountains Community College,Berlin,NH,https://wmcc.edu,Remote town,Community College System of New Hampshire,AwardSpring,ccsnh.awardspring.com,district-portal,AwardSpring customer,True,900531902 
+183655,Atlantic Cape Community College,Mays Landing,NJ,https://atlanticcape.edu,Fringe rural,,AwardSpring,atlantic.awardspring.com,slug-match,AwardSpring customer,False,237368159 
+183743,Bergen Community College,Paramus,NJ,https://bergen.edu,Large suburb,,Blackbaud Award Management,bergen.academicworks.com,slug-match,Competitor,False,221820506 
+183859,Brookdale Community College,Lincroft,NJ,https://brookdalecc.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,221849485 
+183938,Camden County College,Blackwood,NJ,https://camdencc.edu,Large suburb,,AwardSpring,camdencc.awardspring.com,slug-match,AwardSpring customer,False,221821290 
+184180,County College of Morris,Randolph,NJ,https://ccm.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,221817724 
+184481,Essex County College,Newark,NJ,https://essex.edu,Large city,,,,"probed or crawled, nothing found",No platform found,False,221821292 
+184995,Hudson County Community College,Jersey City,NJ,https://hccc.edu,Large city,,,,"probed or crawled, nothing found",No platform found,False,222045990 
+185509,Mercer County Community College,West Windsor,NJ,https://mccc.edu,Fringe rural,,AwardSpring,mccc.awardspring.com,slug-match,AwardSpring customer,False,221804242 
+185536,Middlesex College,Edison,NJ,https://middlesexcollege.edu,Large suburb,,AwardSpring,middlesexcc.awardspring.com,slug-match,AwardSpring customer,False,221769370 
+185873,Ocean County College,Toms River,NJ,https://ocean.edu,Large suburb,,Blackbaud Award Management,ocean.academicworks.com,slug-match,Competitor,False,221757756 
+186034,Passaic County Community College,Paterson,NJ,https://web.pccc.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,221907901 
+186645,Raritan Valley Community College,Branchburg,NJ,https://raritanval.edu,Fringe rural,,AwardSpring,raritanval.awardspring.com,slug-match,AwardSpring customer,False,221815636 
+183877,Rowan College at Burlington County,Mount Laurel,NJ,https://rcbc.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,221825538 
+184205,Rowan College of South Jersey-Cumberland Campus,Vineland,NJ,https://rcsj.edu,Small city,,AwardSpring,rcsj.awardspring.com,slug-match,AwardSpring customer,False,226088440 
+184791,Rowan College of South Jersey-Gloucester Campus,Sewell,NJ,https://rcsj.edu,Large suburb,,AwardSpring,rcsj.awardspring.com,slug-match,AwardSpring customer,False,226088440 
+186469,Salem Community College,Carneys Point,NJ,https://salemcc.edu,Large suburb,,AwardSpring,salemcc.awardspring.com,slug-match,AwardSpring customer,False,221972013 
+247603,Sussex County Community College,Newton,NJ,https://sussex.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,222379629 
+187198,"UCNJ Union College of Union County, NJ",Cranford,NJ,https://ucc.edu,Large suburb,,AwardSpring,ucc.awardspring.com,slug-match,AwardSpring customer,False,221515225 
+245625,Warren County Community College,Washington,NJ,https://warren.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,222376658 
+187532,Central New Mexico Community College,Albuquerque,NM,https://cnm.edu,Large city,,Blackbaud Award Management,cnm.academicworks.com,slug-match,Competitor,False,850172915 
+187639,Clovis Community College,Clovis,NM,https://clovis.edu,Remote town,,AwardSpring,clovis.awardspring.com,slug-match,AwardSpring customer,False,850390140 
+383996,Eastern New Mexico University Ruidoso Branch Community College,Ruidoso,NM,https://ruidoso.enmu.edu,Remote town,Eastern New Mexico University,,,"probed or crawled, nothing found",No platform found,False,856000286 
+187666,Eastern New Mexico University-Roswell Campus,Roswell,NM,https://roswell.enmu.edu,Remote town,Eastern New Mexico University,,,"probed or crawled, nothing found",No platform found,False,850400208 
+363633,Luna Community College,Las Vegas,NM,https://luna.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,850211646 
+188261,Mesalands Community College,Tucumcari,NM,https://mesalands.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,850273163 
+187903,New Mexico Junior College,Hobbs,NM,https://nmjc.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,850193990 
+187912,New Mexico Military Institute,Roswell,NM,https://nmmi.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,856000408 
+187994,New Mexico State University-Alamogordo,Alamogordo,NM,https://alamogordo.nmsu.edu,Fringe rural,New Mexico State University System,,,"probed or crawled, nothing found",No platform found,False,856000401 
+187620,New Mexico State University-Dona Ana,Las Cruces,NM,https://dacc.nmsu.edu,Midsize city,New Mexico State University System,,,"probed or crawled, nothing found",No platform found,False,856000401 
+188021,New Mexico State University-Grants,Grants,NM,https://grants.nmsu.edu,Remote town,New Mexico State University System,,,"probed or crawled, nothing found",No platform found,False,856000401 
+188100,San Juan College,Farmington,NM,https://sanjuancollege.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,850295969 
+188137,Santa Fe Community College,Santa Fe,NM,https://sfcc.edu,Fringe rural,,AwardSpring,sfcc.awardspring.com,slug-match,AwardSpring customer,False,850311615 
+188003,Southeast New Mexico College,Carlsbad,NM,https://senmc.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,863488411 
+188216,Southwestern Indian Polytechnic Institute,Albuquerque,NM,https://sipi.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,850197413 
+187958,University of New Mexico-Gallup Campus,Gallup,NM,https://gallup.unm.edu,Remote town,University of New Mexico,,,"probed or crawled, nothing found",No platform found,False,856000642 
+187976,University of New Mexico-Los Alamos Campus,Los Alamos,NM,https://losalamos.unm.edu,Distant town,University of New Mexico,,,"probed or crawled, nothing found",No platform found,False,856000642 
+188225,University of New Mexico-Taos Campus,Ranchos de Taos,NM,https://taos.unm.edu,Fringe rural,University of New Mexico,,,"probed or crawled, nothing found",No platform found,False,856000642 
+188049,University of New Mexico-Valencia County Campus,Los Lunas,NM,https://valencia.unm.edu,Fringe rural,University of New Mexico,AwardSpring,unmvalencia.awardspring.com,slug-match,AwardSpring customer,False,856000642 
+190521,CUNY Borough of Manhattan Community College,New York,NY,https://bmcc.cuny.edu,Large city,City University of New York,,,"probed or crawled, nothing found",No platform found,False,136400434 
+190530,CUNY Bronx Community College,Bronx,NY,https://bcc.cuny.edu,Large city,City University of New York,,,"probed or crawled, nothing found",No platform found,False,136017865 
+190585,CUNY Hostos Community College,Bronx,NY,https://hostos.cuny.edu,Large city,City University of New York,,,"probed or crawled, nothing found",No platform found,False,136400434 
+190619,CUNY Kingsborough Community College,Brooklyn,NY,https://kbcc.cuny.edu,Large city,City University of New York,,,"probed or crawled, nothing found",No platform found,False,131988190 
+190628,CUNY LaGuardia Community College,Long Island City,NY,https://lagcc.cuny.edu,Large city,City University of New York,,,"probed or crawled, nothing found",No platform found,False,136400434 
+190673,CUNY Queensborough Community College,Bayside,NY,https://qcc.cuny.edu,Large city,City University of New York,,,"probed or crawled, nothing found",No platform found,False,136400434 
+475565,CUNY Stella and Charles Guttman Community College,New York,NY,https://guttman.cuny.edu,Large city,City University of New York,,,"probed or crawled, nothing found",No platform found,False,136400434 
+189839,Cayuga County Community College,Auburn,NY,https://cayuga-cc.edu,Distant town,State University of New York System,,,"probed or crawled, nothing found",No platform found,False,156007451 
+190053,Clinton Community College,Plattsburgh,NY,https://clinton.edu,Distant town,State University of New York System,AwardSpring,clintonscholarships.awardspring.com,slug-match,AwardSpring customer,False,142981033 
+190169,Columbia-Greene Community College,Hudson,NY,https://sunycgcc.edu,Fringe rural,State University of New York System,,,"probed or crawled, nothing found",No platform found,False,141504452 
+190840,Dutchess Community College,Poughkeepsie,NY,https://sunydutchess.edu,Large suburb,State University of New York System,AwardSpring,sunydutchess.awardspring.com,slug-match,AwardSpring customer,False,146012314 
+191083,Erie Community College,Buffalo,NY,https://ecc.edu,Large city,State University of New York System,Blackbaud Award Management,ecc.academicworks.com,slug-match,Competitor,False,113682643 
+191199,Finger Lakes Community College,Canandaigua,NY,https://flcc.edu,Fringe rural,State University of New York System,,,"probed or crawled, nothing found",No platform found,False,161336614 
+191302,Fulton-Montgomery Community College,Johnstown,NY,https://fmcc.edu,Fringe rural,State University of New York System,,,"probed or crawled, nothing found",No platform found,False,166002650 
+191339,Genesee Community College,Batavia,NY,https://genesee.edu,Distant town,State University of New York System,,,"probed or crawled, nothing found",No platform found,False,160920402 
+191612,Herkimer County Community College,Herkimer,NY,https://herkimer.edu,Fringe town,State University of New York System,,,"probed or crawled, nothing found",No platform found,False,160919625 
+191719,Hudson Valley Community College,Troy,NY,https://hvcc.edu,Small city,State University of New York System,Blackbaud Award Management,hvcc.academicworks.com,slug-match,Competitor,False,146009464 
+191986,Jamestown Community College,Jamestown,NY,https://sunyjcc.edu,Distant town,State University of New York System,,,"probed or crawled, nothing found",No platform found,False,166002650 
+192022,Jefferson Community College,Watertown,NY,https://sunyjefferson.edu,Small city,State University of New York System,Blackbaud Award Management,sunyjefferson.academicworks.com,slug-match,Competitor,False,223065812 
+193283,Mohawk Valley Community College,Utica,NY,https://mvcc.edu,Small city,State University of New York System,,,"probed or crawled, nothing found",No platform found,False,161020948 
+193326,Monroe Community College,Rochester,NY,https://monroecc.edu,Large suburb,State University of New York System,ScholarshipUniverse,monroecc.scholarshipuniverse.com,slug-match,Competitor,False,160849590 
+193478,Nassau Community College,Garden City,NY,https://ncc.edu,Large suburb,State University of New York System,Blackbaud Award Management,ncc.academicworks.com,slug-match,Competitor,False,116000463 
+193946,Niagara County Community College,Sanborn,NY,https://niagaracc.suny.edu,Fringe rural,State University of New York System,,,"probed or crawled, nothing found",No platform found,False,160867332 
+194028,North Country Community College,Saranac Lake,NY,https://nccc.edu,Remote town,State University of New York System,,,"probed or crawled, nothing found",No platform found,False,141497536 
+194222,Onondaga Community College,Syracuse,NY,https://sunyocc.edu,Large suburb,State University of New York System,Blackbaud Award Management,sunyocc.academicworks.com,slug-match,Competitor,False,160973001 
+194240,Orange County Community College,Middletown,NY,https://sunyorange.edu,Small suburb,State University of New York System,Blackbaud Award Management,sunyorange.academicworks.com,slug-match,Competitor,False,146004242 
+195058,Rockland Community College,Suffern,NY,https://sunyrockland.edu,Large suburb,State University of New York System,AwardSpring,sunyrockland.awardspring.com,slug-match,AwardSpring customer,False,133755303 
+188438,SUNY Adirondack,Queensbury,NY,https://sunyacc.edu,Small suburb,State University of New York System,,,"probed or crawled, nothing found",No platform found,False,146013244 
+189547,SUNY Broome Community College,Binghamton,NY,https://sunybroome.edu,Midsize suburb,State University of New York System,AwardSpring,sunybroome.awardspring.com,slug-match,AwardSpring customer,False,161393336 
+190442,SUNY Corning Community College,Corning,NY,https://corning-cc.edu,Fringe rural,State University of New York System,AwardSpring,corningcc.awardspring.com,slug-match,AwardSpring customer,False,160820515 
+197294,SUNY Westchester Community College,Valhalla,NY,https://sunywcc.edu,Large suburb,State University of New York System,,,"probed or crawled, nothing found",No platform found,False,136608356 
+195322,Schenectady County Community College,Schenectady,NY,https://sunysccc.edu,Small city,State University of New York System,AwardSpring,sunysccc.awardspring.com,slug-match,AwardSpring customer,False,141503935 
+366395,Suffolk County Community College,Selden,NY,https://sunysuffolk.edu,Large suburb,State University of New York System,Blackbaud Award Management,sunysuffolk.academicworks.com,slug-match,Competitor,False,262415339 
+195988,Sullivan County Community College,Loch Sheldrake,NY,https://sunysullivan.edu,Fringe rural,State University of New York System,,,"probed or crawled, nothing found",No platform found,False,146025111 
+196565,Tompkins Cortland Community College,Dryden,NY,https://tompkinscortland.edu,Distant rural,State University of New York System,Blackbaud Award Management,tompkinscortland.academicworks.com,slug-match,Competitor,False,160928736 
+196699,Ulster County Community College,Stone Ridge,NY,https://sunyulster.edu,Fringe rural,State University of New York System,Blackbaud Award Management,sunyulster.academicworks.com,slug-match,Competitor,False,146028097 
+420468,Western Suffolk BOCES,Northport,NY,https://wilsontech.org,Large suburb,New York State Education Department,,,"probed or crawled, nothing found",No platform found,False,116000131 
+201283,Belmont College,St Clairsville,OH,https://belmontcollege.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,310803587 
+203614,Collins Career Technical Center,Chesapeake,OH,https://collins-cc.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,310749724 
+202222,Columbus State Community College,Columbus,OH,https://cscc.edu,Large city,,Blackbaud Award Management,cscc.academicworks.com,slug-match,Competitor,False,310729591 
+202356,Cuyahoga Community College District,Cleveland,OH,https://tri-c.edu,Large city,,Blackbaud Award Management,tri-c.academicworks.com,slug-match,Competitor,False,340896630 
+203331,Eastern Gateway Community College,Steubenville,OH,https://egcc.edu,Small city,,,,"probed or crawled, nothing found",No platform found,False,341015707 
+202648,Edison State Community College,Piqua,OH,https://edisonohio.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,310836468 
+203155,Hocking College,Nelsonville,OH,https://hocking.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,310794924 
+203599,Lakeland Community College,Kirtland,OH,https://lakelandcc.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,341011011 
+375407,Madison Adult Career Center,Mansfield,OH,https://madisonadultcc.org,Small suburb,,,,"probed or crawled, nothing found",No platform found,False,346004371 
+204440,Northwest State Community College,Archbold,OH,https://northweststate.edu,Distant rural,,,,"probed or crawled, nothing found",No platform found,False,341003685 
+204662,Ohio State University Agricultural Technical Institute,Wooster,OH,https://ati.osu.edu,Distant town,The Ohio State University-Main Campus,,,"probed or crawled, nothing found",No platform found,False,316025986 
+204945,Owens Community College,Perrysburg,OH,https://owens.edu,Large suburb,,Blackbaud Award Management,owens.academicworks.com,slug-match,Competitor,False,341059164 
+205966,Southern State Community College,Hillsboro,OH,https://sscc.edu,Distant town,,,,"probed or crawled, nothing found",No platform found,False,310858297 
+205841,Stark State College,North Canton,OH,https://starkstate.edu,Large suburb,The University System of Ohio,,,"probed or crawled, nothing found",No platform found,False,341055865 
+206011,Terra State Community College,Fremont,OH,https://terra.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,341054067 
+204459,Toledo Public Schools Adult and Continuing Education,Toledo,OH,https://tps.org,Large city,,,,"probed or crawled, nothing found",No platform found,False,346401449 
+200846,University of Akron Wayne College,Orrville,OH,https://wayne.uakron.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,346002924 
+365213,Autry Technology Center,Enid,OK,https://autrytech.edu,Small city,,,,"probed or crawled, nothing found",No platform found,False,730933656 
+365374,Canadian Valley Technology Center,El Reno,OK,https://cvtech.edu,Fringe rural,Oklahoma Department of Career and Technology Education,,,"probed or crawled, nothing found",No platform found,False,730778224 
+206923,Carl Albert State College,Poteau,OK,https://carlalbert.edu,Distant town,,,,"probed or crawled, nothing found",No platform found,False,736017987 
+480967,College of the Muscogee Nation,Okmulgee,OK,https://cmn.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,352357683 
+206996,Connors State College,Warner,OK,https://connorsstate.edu,Remote rural,Oklahoma State System of Higher Education,,,"probed or crawled, nothing found",No platform found,False,736017987 
+207050,Eastern Oklahoma State College,Wilburton,OK,https://eosc.edu,Remote rural,,,,"probed or crawled, nothing found",No platform found,False,474757537 
+375683,Gordon Cooper Technology Center,Shawnee,OK,https://gctech.edu,Distant town,Oklahoma Department of Career and Technology Education,,,"probed or crawled, nothing found",No platform found,False,730773117 
+418296,Indian Capital Technology Center-Muskogee,Muskogee,OK,https://ictech.edu,Distant town,Oklahoma Department of Career and Technology Education,,,"probed or crawled, nothing found",No platform found,False,730767065 
+365480,Meridian Technology Center,Stillwater,OK,https://meridiantech.edu,Distant town,,,,"probed or crawled, nothing found",No platform found,False,730953460 
+363165,Metro Technology Centers,Oklahoma City,OK,https://metrotech.edu,Large city,Oklahoma Department of Career and Technology Education,,,"probed or crawled, nothing found",No platform found,False,731094545 
+248606,Moore Norman Technology Center,Norman,OK,https://mntc.edu,Fringe rural,Oklahoma Department of Career and Technology Education,,,"probed or crawled, nothing found",No platform found,False,730953949 
+207236,Murray State College,Tishomingo,OK,https://mscok.edu,Remote rural,,Blackbaud Award Management,mscok.academicworks.com,slug-match,Competitor,False,300885267 
+207290,Northeastern Oklahoma A&M College,Miami,OK,https://neo.edu,Distant town,Oklahoma State System of Higher Education,,,"probed or crawled, nothing found",No platform found,False,736017987 
+207281,Northern Oklahoma College,Tonkawa,OK,https://noc.edu,Distant rural,,AwardSpring,noc.awardspring.com,slug-match,AwardSpring customer,False,731552496 
+207449,Oklahoma City Community College,Oklahoma City,OK,https://occc.edu,Large city,Oklahoma State System of Higher Education,AwardSpring,occc.awardspring.com,slug-match,AwardSpring customer,False,736017987 
+207069,Redlands Community College,El Reno,OK,https://redlandscc.edu,Distant town,Oklahoma State System of Higher Education,AwardSpring,redlandscc.awardspring.com,slug-match,AwardSpring customer,False,474770019 
+207670,Rose State College,Midwest City,OK,https://rose.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,474296697 
+207740,Seminole State College,Seminole,OK,https://sscok.edu,Distant town,,,,"probed or crawled, nothing found",No platform found,False,364812831 
+207935,Tulsa Community College,Tulsa,OK,https://tulsacc.edu,Large city,,AwardSpring,tulsacc.awardspring.com,slug-match,AwardSpring customer,False,736017987 
+488934,Tulsa Technology Center,Tulsa,OK,https://tulsatech.edu,Large city,Oklahoma Department of Career and Technology Education,,,"probed or crawled, nothing found",No platform found,False,730964127 
+208035,Western Oklahoma State College,Altus,OK,https://wosc.edu,Remote town,Oklahoma State System of Higher Education,,,"probed or crawled, nothing found",No platform found,False,731541762 
+208275,Blue Mountain Community College,Pendleton,OR,https://bluecc.edu,Distant town,,AwardSpring,bluecc.awardspring.com,slug-match,AwardSpring customer,False,930506536 
+208318,Central Oregon Community College,Bend,OR,https://cocc.edu,Midsize city,,,,"probed or crawled, nothing found",No platform found,False,930505827 
+208406,Clackamas Community College,Oregon City,OR,https://clackamas.edu,Large suburb,,AwardSpring,clackamas.awardspring.com,slug-match,AwardSpring customer,False,930555710 
+208415,Clatsop Community College,Astoria,OR,https://clatsopcc.edu,Remote town,,AwardSpring,clatsopcc.awardspring.com,slug-match,AwardSpring customer,False,930505508 
+420556,Columbia Gorge Community College,The Dalles,OR,https://cgcc.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,930700843 
+428392,Klamath Community College,Klamath Falls,OR,https://klamathcc.edu,Remote town,,AwardSpring,klamathcc.awardspring.com,slug-match,AwardSpring customer,False,931211933 
+209038,Lane Community College,Eugene,OR,https://lanecc.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,930546223 
+209074,Linn-Benton Community College,Albany,OR,https://linnbenton.edu,Small city,,,,"probed or crawled, nothing found",No platform found,False,930561307 
+423652,Oregon Coast Community College,Newport,OR,https://oregoncoastcc.org,Distant town,,,,"probed or crawled, nothing found",No platform found,False,930951996 
+209746,Portland Community College,Portland,OR,https://pcc.edu,Large city,,,,"probed or crawled, nothing found",No platform found,False,930575187 
+209940,Rogue Community College,Grants Pass,OR,https://roguecc.edu,Small suburb,,,,"probed or crawled, nothing found",No platform found,False,930591783 
+210155,Southwestern Oregon Community College,Coos Bay,OR,https://socc.edu,Remote town,,AwardSpring,socc.awardspring.com,slug-match,AwardSpring customer,False,936015621 
+420723,Tillamook Bay Community College,Tillamook,OR,https://tillamookbaycc.edu,Distant town,,,,"probed or crawled, nothing found",No platform found,False,930792039 
+210234,Treasure Valley Community College,Ontario,OR,https://tvcc.cc,Distant town,,AwardSpring,tvcc.awardspring.com,slug-match,AwardSpring customer,False,930507187 
+210270,Umpqua Community College,Roseburg,OR,https://umpqua.edu,Remote town,,AwardSpring,umpqua.awardspring.com,slug-match,AwardSpring customer,False,930519151 
+211307,Bucks County Community College,Newtown,PA,https://bucks.edu,Fringe rural,,ScholarshipUniverse,bucks.scholarshipuniverse.com,slug-match,Competitor,False,231646982 
+211343,Butler County Community College,Butler,PA,https://bc3.edu,Fringe town,,AwardSpring,bc3.awardspring.com,slug-match,AwardSpring customer,False,251154027 
+369668,Central Pennsylvania Institute of Science and Technology,Pleasant Gap,PA,https://cpi.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,251158058 
+210605,Community College of Allegheny County,Pittsburgh,PA,https://ccac.edu,Large city,,AwardSpring,ccac.awardspring.com,slug-match,AwardSpring customer,False,256075057 
+211079,Community College of Beaver County,Monaca,PA,https://ccbc.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,251180375 
+215239,Community College of Philadelphia,Philadelphia,PA,https://ccp.edu,Large city,,,,"probed or crawled, nothing found",No platform found,False,236391672 
+211927,Delaware County Community College,Media,PA,https://dccc.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,231685591 
+212878,Harrisburg Area Community College,Harrisburg,PA,https://hacc.edu,Small city,,Blackbaud Award Management,hacc.academicworks.com,slug-match,Competitor,False,231639151 
+418533,Lancaster County Career and Technology Center,Willow Street,PA,https://lancasterctc.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,231740421 
+213525,Lehigh Carbon Community College,Schnecksville,PA,https://lccc.edu,Fringe rural,,NextGen Scholarship Manager,lccc.scholarships.ngwebsolutions.com,slug-match,Competitor,False,231670163 
+213659,Luzerne County Community College,Nanticoke,PA,https://luzerne.edu,Large suburb,,AwardSpring,luzerne.awardspring.com,slug-match,AwardSpring customer,False,231678363 
+214111,Montgomery County Community College,Blue Bell,PA,https://mc3.edu,Large suburb,,NextGen Scholarship Manager,mc3.scholarships.ngwebsolutions.com,slug-match,Competitor,False,231670325 
+214379,Northampton County Area Community College,Bethlehem,PA,https://northampton.edu,Large suburb,,Blackbaud Award Management,northampton.academicworks.com,slug-match,Competitor,False,236417444 
+494959,Northern Pennsylvania Regional College,Warren,PA,https://regionalcollegepa.org,Remote town,,,,"probed or crawled, nothing found",No platform found,False,473530185 
+414911,Pennsylvania Highlands Community College,Johnstown,PA,https://pennhighlands.edu,Fringe rural,,AwardSpring,pennhighlands.awardspring.com,slug-match,AwardSpring customer,False,251721929 
+215585,Reading Area Community College,Reading,PA,https://racc.edu,Small city,,,,"probed or crawled, nothing found",No platform found,False,231745816 
+216296,Thaddeus Stevens College of Technology,Lancaster,PA,https://stevenscollege.edu,Small city,,ScholarshipUniverse,stevenscollege.scholarshipuniverse.com,slug-match,Competitor,False,270060517 
+215309,University of Pittsburgh-Titusville,Titusville,PA,https://titusville.pitt.edu,Distant town,University of Pittsburgh,,,"probed or crawled, nothing found",No platform found,False,250965591 
+216825,Westmoreland County Community College,Youngwood,PA,https://westmoreland.edu,Large suburb,,Blackbaud Award Management,westmoreland.academicworks.com,slug-match,Competitor,False,251208182 
+217475,Community College of Rhode Island,Warwick,RI,https://ccri.edu,Small city,Rhode Island Board of Education,AwardSpring,ccri.awardspring.com,slug-match,AwardSpring customer,False,050353872 
+217615,Aiken Technical College,Graniteville,SC,https://atc.edu,Large suburb,South Carolina Technical College System,,,"probed or crawled, nothing found",No platform found,False,570523399 
+218858,Central Carolina Technical College,Sumter,SC,https://cctech.edu,Small city,South Carolina Technical College System,,,"probed or crawled, nothing found",No platform found,False,570425905 
+217989,Denmark Technical College,Denmark,SC,https://denmarktech.edu,Remote rural,South Carolina Technical College System,,,"probed or crawled, nothing found",No platform found,False,570529056 
+218025,Florence-Darlington Technical College,Florence,SC,https://fdtc.edu,Fringe rural,South Carolina Technical College System,,,"probed or crawled, nothing found",No platform found,False,570424007 
+218140,Horry-Georgetown Technical College,Conway,SC,https://hgtc.edu,Small city,South Carolina Technical College System,,,"probed or crawled, nothing found",No platform found,False,570477152 
+218353,Midlands Technical College,West Columbia,SC,https://midlandstech.edu,Large suburb,South Carolina Technical College System,AwardSpring,midlandstech.awardspring.com,slug-match,AwardSpring customer,False,570427788 
+217837,Northeastern Technical College,Cheraw,SC,https://netc.edu,Fringe rural,South Carolina Technical College System,,,"probed or crawled, nothing found",No platform found,False,570510554 
+218487,Orangeburg Calhoun Technical College,Orangeburg,SC,https://octech.edu,Distant town,South Carolina Technical College System,,,"probed or crawled, nothing found",No platform found,False,570481987 
+218520,Piedmont Technical College,Greenwood,SC,https://ptc.edu,Distant town,South Carolina Technical College System,,,"probed or crawled, nothing found",No platform found,False,570476862 
+218830,Spartanburg Community College,Spartanburg,SC,https://sccsc.edu,Midsize suburb,South Carolina Technical College System,,,"probed or crawled, nothing found",No platform found,False,570439615 
+217712,Technical College of the Lowcountry,Beaufort,SC,https://tcl.edu,Small city,South Carolina Technical College System,AwardSpring,tcl.awardspring.com,slug-match,AwardSpring customer,False,570781070 
+218885,Tri-County Technical College,Pendleton,SC,https://tctc.edu,Midsize suburb,South Carolina Technical College System,,,"probed or crawled, nothing found",No platform found,False,570428018 
+218894,Trident Technical College,Charleston,SC,https://tridenttech.edu,Midsize city,South Carolina Technical College System,,,"probed or crawled, nothing found",No platform found,False,570440170 
+218672,University of South Carolina-Lancaster,Lancaster,SC,https://sc.edu,Distant town,University of South Carolina,,,"probed or crawled, nothing found",No platform found,False,576001153 
+218681,University of South Carolina-Salkehatchie,Allendale,SC,https://sc.edu,Remote rural,University of South Carolina,,,"probed or crawled, nothing found",No platform found,False,576001153 
+218690,University of South Carolina-Sumter,Sumter,SC,https://sc.edu,Small city,University of South Carolina,,,"probed or crawled, nothing found",No platform found,False,576001153 
+218706,University of South Carolina-Union,Union,SC,https://sc.edu,Distant town,University of South Carolina,,,"probed or crawled, nothing found",No platform found,False,576001153 
+218955,Williamsburg Technical College,Kingstree,SC,https://wiltech.edu,Distant town,South Carolina Technical College System,,,"probed or crawled, nothing found",No platform found,False,570518264 
+218991,York Technical College,Rock Hill,SC,https://yorktech.edu,Small city,South Carolina Technical College System,AwardSpring,yorktech.awardspring.com,slug-match,AwardSpring customer,False,576024198 
+219143,Lake Area Technical College,Watertown,SD,https://lakeareatech.edu,Remote town,South Dakota Board of Technical Education,AwardSpring,lakeareatech.awardspring.com,slug-match,AwardSpring customer,False,466001273 
+219189,Mitchell Technical College,Mitchell,SD,https://mitchelltech.edu,Remote town,South Dakota Board of Technical Education,AwardSpring,mitchelltech.awardspring.com,slug-match,AwardSpring customer,False,466001338 
+219426,Southeast Technical College,Sioux Falls,SD,https://southeasttech.edu,Midsize city,South Dakota Board of Technical Education,AwardSpring,southeasttech.awardspring.com,slug-match,AwardSpring customer,False,466002586 
+219480,Western Dakota Technical College,Rapid City,SD,https://wdt.edu,Small city,South Dakota Board of Technical Education,,,"probed or crawled, nothing found",No platform found,False,862647921 
+219824,Chattanooga State Community College,Chattanooga,TN,https://chattanoogastate.edu,Midsize city,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,620725362 
+219879,Cleveland State Community College,Cleveland,TN,https://clevelandstatecc.edu,Small city,TBR - The College System of Tennessee,NextGen Scholarship Manager,clevelandstatecc.scholarships.ngwebsolutions.com,slug-match,Competitor,False,620762876 
+219888,Columbia State Community College,Columbia,TN,https://columbiastate.edu,Fringe town,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,620753450 
+220057,Dyersburg State Community College,Dyersburg,TN,https://dscc.edu,Remote town,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,620800930 
+220400,Jackson State Community College,Jackson,TN,https://jscc.edu,Small city,TBR - The College System of Tennessee,AwardSpring,jscc.awardspring.com,slug-match,AwardSpring customer,False,620762815 
+221096,Motlow State Community College,Tullahoma,TN,https://mscc.edu,Fringe rural,TBR - The College System of Tennessee,AwardSpring,mscc.awardspring.com,slug-match,AwardSpring customer,False,620800916 
+221184,Nashville State Community College,Nashville,TN,https://nscc.edu,Large city,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,620808901 
+221908,Northeast State Community College,Blountville,TN,https://northeaststate.edu,Fringe rural,TBR - The College System of Tennessee,AwardSpring,northeaststate.awardspring.com,slug-match,AwardSpring customer,False,621033870 
+221643,Pellissippi State Community College,Knoxville,TN,https://pstcc.edu,Large suburb,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,620938734 
+221397,Roane State Community College,Harriman,TN,https://roanestate.edu,Distant town,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,620819102 
+221485,Southwest Tennessee Community College,Memphis,TN,https://southwest.tn.edu,Large city,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,621834818 
+409379,Tennessee Board of Regents,Nashville,TN,https://tbr.edu,Large city,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,620877872 
+248925,Tennessee College of Applied Technology Nashville,Nashville,TN,https://tcatnashville.edu,Large city,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,562654369 
+221236,Tennessee College of Applied Technology Northwest,Newbern,TN,https://tcatnorthwest.edu,Distant rural,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,621175265 
+219596,Tennessee College of Applied Technology-Athens,Athens,TN,https://tcatathens.edu,Distant town,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,371559128 
+219921,Tennessee College of Applied Technology-Covington,Covington,TN,https://tcatcovington.edu,Distant town,,,,"probed or crawled, nothing found",No platform found,False,621175267 
+221591,Tennessee College of Applied Technology-Crossville,Crossville,TN,https://tcatcrossville.edu,Remote town,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,621173750 
+221430,Tennessee College of Applied Technology-Crump,Crump,TN,https://tcatcrump.edu,Distant rural,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,621179459 
+219994,Tennessee College of Applied Technology-Dickson,Dickson,TN,https://tcatdickson.edu,Fringe rural,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,621201668 
+220127,Tennessee College of Applied Technology-Elizabethton,Elizabethton,TN,https://tcatelizabethton.edu,Midsize suburb,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,621113186 
+220251,Tennessee College of Applied Technology-Harriman,Harriman,TN,https://tcatharriman.edu,Fringe rural,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,621173860 
+220279,Tennessee College of Applied Technology-Hartsville,Hartsville,TN,https://tcathartsville.edu,Distant rural,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,621186170 
+221281,Tennessee College of Applied Technology-Henry/Carroll,Paris,TN,https://tcathenrycarroll.edu,Remote town,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,621179444 
+220321,Tennessee College of Applied Technology-Hohenwald,Hohenwald,TN,https://tcathohenwald.edu,Remote rural,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,621187300 
+220394,Tennessee College of Applied Technology-Jacksboro,Jacksboro,TN,https://tcatjacksboro.edu,Distant town,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,621173748 
+221616,Tennessee College of Applied Technology-Jackson,Jackson,TN,https://tcatjackson.edu,Fringe rural,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,621179447 
+221625,Tennessee College of Applied Technology-Knoxville,Knoxville,TN,https://tcatknoxville.edu,Midsize city,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,621218952 
+220640,Tennessee College of Applied Technology-Livingston,Livingston,TN,https://tcatlivingston.edu,Remote rural,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,621188195 
+220756,Tennessee College of Applied Technology-McKenzie,McKenzie,TN,https://tcatmckenzie.edu,Fringe rural,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,621183243 
+221607,Tennessee College of Applied Technology-McMinnville,McMinnville,TN,https://tcatmcminnville.edu,Distant town,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,621199309 
+220853,Tennessee College of Applied Technology-Memphis,Memphis,TN,https://tcatmemphis.edu,Large city,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,621237951 
+221050,Tennessee College of Applied Technology-Morristown,Morristown,TN,https://tcatmorristown.edu,Small city,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,621172289 
+221102,Tennessee College of Applied Technology-Murfreesboro,Murfreesboro,TN,https://tcatmurfreesboro.edu,Midsize city,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,621203232 
+221582,Tennessee College of Applied Technology-Oneida-Huntsville,Huntsville,TN,https://tcatoneida.edu,Remote rural,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,621173859 
+221333,Tennessee College of Applied Technology-Pulaski,Pulaski,TN,https://tcatpulaski.edu,Distant town,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,621187305 
+221388,Tennessee College of Applied Technology-Ripley,Ripley,TN,,Distant town,,,,"probed or crawled, nothing found",No platform found,False,-1        
+221494,Tennessee College of Applied Technology-Shelbyville,Shelbyville,TN,https://tcatshelbyville.edu,Distant town,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,270615592 
+222053,Volunteer State Community College,Gallatin,TN,https://volstate.edu,Large suburb,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,620818836 
+222062,Walters State Community College,Morristown,TN,https://ws.edu,Small city,TBR - The College System of Tennessee,,,"probed or crawled, nothing found",No platform found,False,620807429 
+222567,Alvin Community College,Alvin,TX,https://alvincollege.edu,Large suburb,,Blackbaud Award Management,alvincollege.academicworks.com,slug-match,Competitor,False,741405330 
+222576,Amarillo College,Amarillo,TX,https://actx.edu,Midsize city,,,,"probed or crawled, nothing found",No platform found,False,756000031 
+222822,Angelina College,Lufkin,TX,https://angelina.edu,Remote town,,Blackbaud Award Management,angelina.academicworks.com,slug-match,Competitor,False,751244347 
+223427,Blinn College District,Brenham,TX,https://blinn.edu,Distant town,,NextGen Scholarship Manager,blinn.scholarships.ngwebsolutions.com,slug-match,Competitor,False,746000400 
+223816,Central Texas College,Killeen,TX,https://ctcd.edu,Large suburb,,AwardSpring,ctcd.awardspring.com,slug-match,AwardSpring customer,False,741539003 
+223898,Cisco College,Cisco,TX,https://cisco.edu,Remote rural,,,,"probed or crawled, nothing found",No platform found,False,751164343 
+223922,Clarendon College,Clarendon,TX,https://clarendoncollege.edu,Remote rural,,,,"probed or crawled, nothing found",No platform found,False,756055652 
+223320,Coastal Bend College,Beeville,TX,https://coastalbend.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,741542306 
+224642,El Paso Community College,El Paso,TX,https://epcc.edu,Large city,,,,"probed or crawled, nothing found",No platform found,False,741690850 
+224891,Frank Phillips College,Borger,TX,https://fpctx.edu,Distant town,,,,"probed or crawled, nothing found",No platform found,False,756001630 
+225371,Hill College,Hillsboro,TX,https://hillcollege.edu,Distant town,,AwardSpring,hillcollege.awardspring.com,slug-match,AwardSpring customer,False,741404239 
+225520,Howard College,Big Spring,TX,https://howardcollege.edu,Remote town,,AwardSpring,howardcollege.awardspring.com,slug-match,AwardSpring customer,False,756001827 
+226019,Kilgore College,Kilgore,TX,https://kilgore.edu,Fringe town,,,,"probed or crawled, nothing found",No platform found,False,756001909 
+441760,Lamar Institute of Technology,Beaumont,TX,https://lit.edu,Midsize city,Texas State University System,,,"probed or crawled, nothing found",No platform found,False,760694136 
+226107,Lamar State College-Orange,Orange,TX,https://lsco.edu,Fringe town,Texas State University System,,,"probed or crawled, nothing found",No platform found,False,746000298 
+226116,Lamar State College-Port Arthur,Port Arthur,TX,https://lamarpa.edu,Small city,Texas State University System,NextGen Scholarship Manager,lamarpa.scholarships.ngwebsolutions.com,slug-match,Competitor,False,760658056 
+226204,Lee College,Baytown,TX,https://lee.edu,Small city,,Blackbaud Award Management,lee.academicworks.com,slug-match,Competitor,False,746025566 
+226578,McLennan Community College,Waco,TX,https://mclennan.edu,Midsize city,,AwardSpring,mclennan.awardspring.com,slug-match,AwardSpring customer,False,741541260 
+224110,North Central Texas College,Gainesville,TX,https://nctc.edu,Distant town,,Blackbaud Award Management,nctc.academicworks.com,slug-match,Competitor,False,751050382 
+488730,Northeast Lakeview College,Universal City,TX,https://alamo.edu,Large suburb,Alamo Colleges,Blackbaud Award Management,alamo.academicworks.com,slug-match,Competitor,False,746002173 
+227225,Northeast Texas Community College,Mount Pleasant,TX,https://ntcc.edu,Distant rural,,AwardSpring,ntcc.awardspring.com,slug-match,AwardSpring customer,False,751963242 
+420398,Northwest Vista College,San Antonio,TX,https://alamo.edu,Large city,Alamo Colleges,Blackbaud Award Management,alamo.academicworks.com,slug-match,Competitor,False,746002173 
+246354,Palo Alto College,San Antonio,TX,https://alamo.edu,Large city,Alamo Colleges,Blackbaud Award Management,alamo.academicworks.com,slug-match,Competitor,False,746002173 
+227386,Panola College,Carthage,TX,https://panola.edu,Distant town,,AwardSpring,panola.awardspring.com,slug-match,AwardSpring customer,False,751854775 
+227401,Paris Junior College,Paris,TX,https://parisjc.edu,Remote town,,Blackbaud Award Management,parisjc.academicworks.com,slug-match,Competitor,False,756002205 
+227687,Ranger College,Ranger,TX,https://rangercollege.edu,Remote rural,,,,"probed or crawled, nothing found",No platform found,False,756002296 
+228158,South Plains College,Levelland,TX,https://southplainscollege.edu,Distant town,,Blackbaud Award Management,southplainscollege.academicworks.com,slug-match,Competitor,False,756004667 
+382911,Southwest College for the Deaf,Big Spring,TX,https://howardcollege.edu,Remote town,,AwardSpring,howardcollege.awardspring.com,slug-match,AwardSpring customer,False,751914499 
+228316,Southwest Texas Junior College,Uvalde,TX,https://swtjc.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,746002420 
+227854,St Philip's College,San Antonio,TX,https://alamo.edu,Large city,Alamo Colleges,Blackbaud Award Management,alamo.academicworks.com,slug-match,Competitor,False,746002173 
+228547,Tarrant County College District,Fort Worth,TX,https://tccd.edu,Large city,,Blackbaud Award Management,tccd.academicworks.com,slug-match,Competitor,False,751217163 
+228608,Temple College,Temple,TX,https://templejc.edu,Small city,,,,"probed or crawled, nothing found",No platform found,False,746020689 
+228699,Texarkana College,Texarkana,TX,https://texarkanacollege.edu,Small city,,AwardSpring,texarkanacollege.awardspring.com,slug-match,AwardSpring customer,False,756004413 
+227377,Texas Southmost College,Brownsville,TX,https://tsc.edu,Midsize city,,AwardSpring,tsc.awardspring.com,slug-match,AwardSpring customer,False,746002593 
+487320,Texas State Technical College,Waco,TX,https://tstc.edu,Midsize city,Texas State Technical College System,,,"probed or crawled, nothing found",No platform found,False,741646989 
+229504,Vernon College,Vernon,TX,https://vernoncollege.edu,Remote town,,Blackbaud Award Management,vernoncollege.academicworks.com,slug-match,Competitor,False,751325933 
+229540,Victoria College,Victoria,TX,https://victoriacollege.edu,Small city,,AwardSpring,victoriacollege.awardspring.com,slug-match,AwardSpring customer,False,746002452 
+229832,Western Texas College,Snyder,TX,https://wtc.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,751310636 
+229841,Wharton County Junior College,Wharton,TX,https://wcjc.edu,Distant town,,,,"probed or crawled, nothing found",No platform found,False,746002562 
+230746,Salt Lake Community College,Salt Lake City,UT,https://slcc.edu,Large suburb,Utah System of Higher Education,ScholarshipUniverse,slcc.scholarshipuniverse.com,slug-match,Competitor,False,876000448 
+231536,Blue Ridge Community College,Weyers Cave,VA,https://brcc.edu,Fringe rural,Virginia Community College System,AwardSpring,brcc.awardspring.com,slug-match,AwardSpring customer,False,541268283 
+232450,Brightpoint Community College,Chester,VA,https://brightpoint.edu,Large suburb,Virginia Community College System,AwardSpring,brightpoint.awardspring.com,slug-match,AwardSpring customer,False,541268277 
+231697,Central Virginia Community College,Lynchburg,VA,https://centralvirginia.edu,Small city,Virginia Community College System,,,"probed or crawled, nothing found",No platform found,False,008170630 
+231882,Danville Community College,Danville,VA,https://danville.edu,Distant town,Virginia Community College System,,,"probed or crawled, nothing found",No platform found,False,541268258 
+232052,Eastern Shore Community College,Melfa,VA,https://es.vccs.edu,Remote rural,Virginia Community College System,,,"probed or crawled, nothing found",No platform found,False,541268269 
+232195,Germanna Community College,Locust Grove,VA,https://germanna.edu,Fringe rural,Virginia Community College System,,,"probed or crawled, nothing found",No platform found,False,541268292 
+232414,J Sargeant Reynolds Community College,Richmond,VA,https://reynolds.edu,Large suburb,Virginia Community College System,,,"probed or crawled, nothing found",No platform found,False,541268266 
+232575,Laurel Ridge Community College,Middletown,VA,https://laurelridge.edu,Fringe rural,Virginia Community College System,AwardSpring,laurelridge.awardspring.com,slug-match,AwardSpring customer,False,541268293 
+232788,Mountain Empire Community College,Big Stone Gap,VA,https://mecc.edu,Distant town,Virginia Community College System,,,"probed or crawled, nothing found",No platform found,False,541268294 
+231873,Mountain Gateway Community College,Clifton Forge,VA,https://mgcc.edu,Fringe rural,Virginia Community College System,AwardSpring,vccsscholarships.awardspring.com,district-portal,AwardSpring customer,True,541268274 
+232867,New River Community College,Dublin,VA,https://nr.edu,Distant town,Virginia Community College System,,,"probed or crawled, nothing found",No platform found,False,541268256 
+232946,Northern Virginia Community College,Annandale,VA,https://nvcc.edu,Large suburb,Virginia Community College System,,,"probed or crawled, nothing found",No platform found,False,541268263 
+233019,Patrick & Henry Community College,Martinsville,VA,https://patrickhenry.edu,Fringe rural,Virginia Community College System,AwardSpring,patrickhenry.awardspring.com,slug-match,AwardSpring customer,False,541268271 
+233037,Paul D Camp Community College,Franklin,VA,https://pdc.edu,Distant town,Virginia Community College System,,,"probed or crawled, nothing found",No platform found,False,541268245 
+233116,Piedmont Virginia Community College,Charlottesville,VA,https://pvcc.edu,Midsize suburb,Virginia Community College System,,,"probed or crawled, nothing found",No platform found,False,541268264 
+233310,Rappahannock Community College,Glenns,VA,https://rappahannock.edu,Distant rural,Virginia Community College System,Blackbaud Award Management,rappahannock.academicworks.com,slug-match,Competitor,False,541268257 
+233338,Richard Bland College,South Prince George,VA,https://rbc.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,546026876 
+233639,Southside Virginia Community College,Alberta,VA,https://southside.edu,Remote rural,Virginia Community College System,,,"probed or crawled, nothing found",No platform found,False,541268239 
+233648,Southwest Virginia Community College,Cedar Bluff,VA,https://sw.edu,Distant rural,Virginia Community College System,AwardSpring,vccsscholarships.awardspring.com,district-portal,AwardSpring customer,True,541269325 
+233772,Tidewater Community College,Norfolk,VA,https://tcc.edu,Midsize city,Virginia Community College System,,,"probed or crawled, nothing found",No platform found,False,541268286 
+233903,Virginia Highlands Community College,Abingdon,VA,https://vhcc.edu,Small suburb,Virginia Community College System,AwardSpring,vccsscholarships.awardspring.com,district-portal,AwardSpring customer,True,541268289 
+233754,Virginia Peninsula Community College,Hampton,VA,https://vpcc.edu,Large suburb,Virginia Community College System,,,"probed or crawled, nothing found",No platform found,False,541268284 
+233949,Virginia Western Community College,Roanoke,VA,https://virginiawestern.edu,Small city,Virginia Community College System,,,"probed or crawled, nothing found",No platform found,False,541268273 
+234377,Wytheville Community College,Wytheville,VA,https://wcc.vccs.edu,Remote town,Virginia Community College System,,,"probed or crawled, nothing found",No platform found,False,541268276 
+230861,Community College of Vermont,Montpelier,VT,https://ccv.edu,Fringe rural,Vermont State Colleges,,,"probed or crawled, nothing found",No platform found,False,030213787 
+235671,Bates Technical College,Tacoma,WA,https://batestech.edu,Midsize city,Washington State Board for Community and Technical Colleges,AwardSpring,batesfoundation.awardspring.com,slug-match,AwardSpring customer,False,911526457 
+236610,Shoreline Community College,Shoreline,WA,https://shoreline.edu,Large suburb,Washington State Board for Community and Technical Colleges,AwardSpring,shoreline.awardspring.com,slug-match,AwardSpring customer,False,965362995 
+236656,South Puget Sound Community College,Olympia,WA,https://spscc.edu,Small city,Washington State Board for Community and Technical Colleges,Blackbaud Award Management,spscc.academicworks.com,slug-match,Competitor,False,911409321 
+238397,Blackhawk Technical College,Janesville,WI,https://blackhawk.edu,Small suburb,,NextGen Scholarship Manager,blackhawk.scholarships.ngwebsolutions.com,slug-match,Competitor,False,391104235 
+240116,Chippewa Valley Technical College,Eau Claire,WI,https://cvtc.edu,Small city,Wisconsin Technical College System,Blackbaud Award Management,cvtc.academicworks.com,slug-match,Competitor,False,391096972 
+238722,Fox Valley Technical College,Appleton,WI,https://fvtc.edu,Midsize suburb,Wisconsin Technical College System,,,"probed or crawled, nothing found",No platform found,False,391087276 
+238759,Gateway Technical College,Kenosha,WI,https://gtc.edu,Small city,,NextGen Scholarship Manager,gtc.scholarships.ngwebsolutions.com,slug-match,Competitor,False,396002792 
+239008,Lakeshore Technical College,Cleveland,WI,https://gotoltc.edu,Distant rural,Wisconsin Technical College System,AwardSpring,gotoltc.awardspring.com,slug-match,AwardSpring customer,False,391086823 
+239220,Mid-State Technical College,Wisconsin Rapids,WI,https://mstc.edu,Distant town,,Blackbaud Award Management,mstc.academicworks.com,slug-match,Competitor,False,391089584 
+239248,Milwaukee Area Technical College,Milwaukee,WI,https://matc.edu,Large city,Wisconsin Technical College System,,,"probed or crawled, nothing found",No platform found,False,396003459 
+239372,Moraine Park Technical College,Fond du Lac,WI,https://morainepark.edu,Small city,Wisconsin Technical College System,NextGen Scholarship Manager,morainepark.scholarships.ngwebsolutions.com,slug-match,Competitor,False,391088212 
+239442,Nicolet Area Technical College,Rhinelander,WI,https://nicoletcollege.edu,Fringe rural,Wisconsin Technical College System,ScholarshipUniverse,nicoletcollege.scholarshipuniverse.com,slug-match,Competitor,False,391086910 
+239460,Northcentral Technical College,Wausau,WI,https://ntc.edu,Small city,Wisconsin Technical College System,Blackbaud Award Management,ntc.academicworks.com,slug-match,Competitor,False,391077093 
+239488,Northeast Wisconsin Technical College,Green Bay,WI,https://nwtc.edu,Midsize city,Wisconsin Technical College System,,,"probed or crawled, nothing found",No platform found,False,391087141 
+240198,Northwood Technical College,Rice Lake,WI,https://northwoodtech.edu,Remote town,Wisconsin Technical College System,,,"probed or crawled, nothing found",No platform found,False,391176625 
+239910,Southwest Wisconsin Technical College,Fennimore,WI,https://swtc.edu,Remote rural,Wisconsin Technical College System,,,"probed or crawled, nothing found",No platform found,False,391088496 
+240125,Waukesha County Technical College,Pewaukee,WI,https://wctc.edu,Large suburb,Wisconsin Technical College System,Blackbaud Award Management,wctc.academicworks.com,slug-match,Competitor,False,396005054 
+240170,Western Technical College,La Crosse,WI,https://westerntc.edu,Small city,Wisconsin Technical College System,Blackbaud Award Management,westerntc.academicworks.com,slug-match,Competitor,False,396002842 
+446774,Blue Ridge Community and Technical College,Martinsburg,WV,https://blueridgectc.edu,Fringe rural,West Virginia Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,412167984 
+498386,Boone Career and Technical Center,Foster,WV,https://gobctc.com,Distant rural,,,,"probed or crawled, nothing found",No platform found,False,556000299 
+484932,BridgeValley Community & Technical College,South  Charleston,WV,https://bridgevalley.edu,Midsize suburb,West Virginia Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,465109796 
+430795,Carver Career Center,Charleston,WV,https://carvercareercenter.edu,Midsize suburb,,,,"probed or crawled, nothing found",No platform found,False,556000337 
+438708,Eastern West Virginia Community and Technical College,Moorefield,WV,https://easternwv.edu,Remote rural,,,,"probed or crawled, nothing found",No platform found,False,550773516 
+237844,Fred W Eberle Technical Center,Buckhannon,WV,https://fetc.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,556000407 
+237543,Mercer County Technical Education Center,Princeton,WV,https://mercercountyschools.sites.thrillshare.com,Distant town,Mercer County Schools,,,"probed or crawled, nothing found",No platform found,False,556000358 
+444954,Mountwest Community and Technical College,Huntington,WV,https://mctc.edu,Midsize suburb,West Virginia Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,472045326 
+447582,New River Community and Technical College,Beaver,WV,https://newriver.edu,Fringe rural,West Virginia Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,113742937 
+443492,Pierpont Community and Technical College,Fairmont,WV,https://pierpont.edu,Distant town,West Virginia Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,320260490 
+364575,Roane-Jackson Technical Center,Leroy,WV,https://rjtcwv.com,Distant rural,,,,"probed or crawled, nothing found",No platform found,False,556000332 
+237817,Southern West Virginia Community and Technical College,Logan,WV,https://southernwv.edu,Distant town,,,,"probed or crawled, nothing found",No platform found,False,550524702 
+238014,West Virginia Northern Community College,Wheeling,WV,https://wvncc.edu,Small city,West Virginia Community and Technical College System,,,"probed or crawled, nothing found",No platform found,False,550530182 
+240505,Casper College,Casper,WY,https://caspercollege.edu,Small city,,,,"probed or crawled, nothing found",No platform found,False,836001132 
+240596,Eastern Wyoming College,Torrington,WY,https://ewc.wy.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,836000874 
+240666,Northern Wyoming Community College District,Sheridan,WY,https://sheridan.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,836000221 
