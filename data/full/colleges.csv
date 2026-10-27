@@ -1,7 +1,7 @@
 unitid,name,city,state,website,locale,system,vendor,portal,evidence,status,shared_portal,ein
 102429,Bevill State Community College,Jasper,AL,https://bscc.edu,Distant town,Alabama Community College System,,,"probed or crawled, nothing found",No platform found,False,631102108 
 102030,Bishop State Community College,Mobile,AL,https://bishop.edu,Midsize city,Alabama Community College System,NextGen Scholarship Manager,bishop.scholarships.ngwebsolutions.com,slug-match,Competitor,False,630507477 
-100760,Central Alabama Community College,Alexander City,AL,https://cacc.edu,Distant town,Alabama Community College System,NextGen Scholarship Manager,cacc.scholarships.ngwebsolutions.com,slug-match,Competitor,True,631022757 
+100760,Central Alabama Community College,Alexander City,AL,https://cacc.edu,Distant town,Alabama Community College System,NextGen Scholarship Manager,cacc.scholarships.ngwebsolutions.com,slug-match,Competitor,False,631022757 
 101028,Chattahoochee Valley Community College,Phenix City,AL,https://cv.edu,Large suburb,Alabama Community College System,,,"probed or crawled, nothing found",No platform found,False,630657380 
 101161,Coastal Alabama Community College,Bay Minette,AL,https://coastalalabama.edu,Distant town,Alabama Community College System,NextGen Scholarship Manager,coastalalabama.scholarships.ngwebsolutions.com,slug-match,Competitor,False,630501805 
 101143,Enterprise State Community College,Enterprise,AL,https://escc.edu,Distant town,Alabama Community College System,,,"probed or crawled, nothing found",No platform found,False,630504851 
@@ -71,7 +71,7 @@ unitid,name,city,state,website,locale,system,vendor,portal,evidence,status,share
 111434,Canada College,Redwood City,CA,https://canadacollege.edu,Large suburb,San Mateo County Community College District,Blackbaud Award Management,smccd.academicworks.com,district-portal,Competitor,True,943084147 
 111887,Cerritos College,Norwalk,CA,https://cerritos.edu,Large suburb,California Community College System,AwardSpring,cerritoscollegefoundation.awardspring.com,slug-match,AwardSpring customer,False,956005521 
 111896,Cerro Coso Community College,Ridgecrest,CA,https://cerrocoso.edu,Fringe rural,California Community College System,AwardSpring,cerrocoso.awardspring.com,slug-match,AwardSpring customer,False,956006644 
-111920,Chabot College,Hayward,CA,https://chabotcollege.edu,Large suburb,California Community College System,AwardSpring,chabotcollege.awardspring.com,slug-match,AwardSpring customer,True,941670563 
+111920,Chabot College,Hayward,CA,https://chabotcollege.edu,Large suburb,California Community College System,AwardSpring,chabotcollege.awardspring.com,slug-match,AwardSpring customer,False,941670563 
 111939,Chaffey College,Rancho Cucamonga,CA,https://chaffey.edu,Large suburb,California Community College System,AwardSpring,chaffeycollegefoundation.awardspring.com,slug-match,AwardSpring customer,False,956000558 
 112172,Citrus College,Glendora,CA,https://citruscollege.edu,Large suburb,,Blackbaud Award Management,citruscollege.academicworks.com,direct-probe,Competitor,False,956006670 
 112190,City College of San Francisco,San Francisco,CA,https://ccsf.edu,Large city,,ScholarshipUniverse,ccsf.scholarshipuniverse.com,slug-match,Competitor,False,941721925 
@@ -131,7 +131,7 @@ unitid,name,city,state,website,locale,system,vendor,portal,evidence,status,share
 117900,Los Rios Community College District Office,Sacramento,CA,https://losrios.edu,Large suburb,California Community College System,Blackbaud Award Management,losrios.academicworks.com,slug-match,Competitor,True,941576340 
 497046,Madera Community College,Madera,CA,https://maderacollege.edu,Fringe rural,California Community College System,,,"probed or crawled, nothing found",No platform found,False,941574802 
 118684,Mendocino College,Ukiah,CA,https://mendocino.edu,Fringe rural,California Community College System,AwardSpring,mendocinocollege.awardspring.com,slug-match,AwardSpring customer,False,946002711 
-118718,Merced College,Merced,CA,https://mccd.edu,Small city,California Community College System,Blackbaud Award Management,iu.academicworks.com,district-portal,Competitor,True,770362218 
+118718,Merced College,Merced,CA,https://mccd.edu,Small city,California Community College System,,,"crawled, portal could not be attributed",No platform found,False,770362218 
 118772,Merritt College,Oakland,CA,https://merritt.edu,Large city,California Community College System,NextGen Scholarship Manager,pcf.scholarships.ngwebsolutions.com,district-portal,Competitor,True,941590799 
 118930,Mission College,Santa Clara,CA,https://missioncollege.edu,Midsize city,California Community College System,AwardSpring,missioncollege.awardspring.com,slug-match,AwardSpring customer,False,946020929 
 119067,Monterey Peninsula College,Monterey,CA,https://mpc.edu,Midsize suburb,California Community College System,AwardSpring,mpc.awardspring.com,slug-match,AwardSpring customer,False,942314506 
@@ -161,7 +161,7 @@ unitid,name,city,state,website,locale,system,vendor,portal,evidence,status,share
 122746,San Jose City College,San Jose,CA,https://sjcc.edu,Large city,California Community College System,,,"probed or crawled, nothing found",No platform found,False,770100756 
 122737,San Jose-Evergreen Community College District,San Jose,CA,https://sjeccd.edu,Large city,California Community College System,Blackbaud Award Management,sjeccd.academicworks.com,slug-match,Competitor,True,770100756 
 122889,Santa Barbara City College,Santa Barbara,CA,https://sbcc.edu,Small city,,Blackbaud Award Management,sbcc.academicworks.com,slug-match,Competitor,False,770070782 
-123013,Santa Rosa Junior College,Santa Rosa,CA,https://santarosa.edu,Midsize city,California Community College System,AwardSpring,santarosa.awardspring.com,slug-match,AwardSpring customer,True,946033759 
+123013,Santa Rosa Junior College,Santa Rosa,CA,https://santarosa.edu,Midsize city,California Community College System,AwardSpring,santarosa.awardspring.com,slug-match,AwardSpring customer,False,946033759 
 399212,Santiago Canyon College,Orange,CA,https://sccollege.edu,Midsize city,California Community College System,NextGen Scholarship Manager,sccollege.scholarships.ngwebsolutions.com,slug-match,Competitor,False,952696799 
 123341,Sierra College,Rocklin,CA,https://sierracollege.edu,Large suburb,California Community College System,NextGen Scholarship Manager,sierracollege.scholarships.ngwebsolutions.com,slug-match,Competitor,False,946031260 
 432144,South Orange County Community College District,Mission Viejo,CA,https://socccd.edu,Large suburb,California Community College System,,,"probed or crawled, nothing found",No platform found,False,952479872 
@@ -173,15 +173,15 @@ unitid,name,city,state,website,locale,system,vendor,portal,evidence,status,share
 125019,Ventura County Community College System Office,Camarillo,CA,https://vcccd.edu,Small city,California Community College System,,,"probed or crawled, nothing found",No platform found,False,952224338 
 125091,Victor Valley College,Victorville,CA,https://vvc.edu,Large suburb,California Community College System,,,"probed or crawled, nothing found",No platform found,False,956006576 
 448637,West Hills Community College District,Coalinga,CA,https://westhillscollege.com,Remote town,California Community College System,,,"probed or crawled, nothing found",No platform found,False,770323447 
-125499,West Valley College,Saratoga,CA,https://westvalley.edu,Large suburb,California Community College System,AwardSpring,westvalley.awardspring.com,slug-match,AwardSpring customer,False,770268786 
-125222,West Valley Mission Community College District Office,Saratoga,CA,https://westvalley.edu,Large suburb,West Valley Mission Community College District,AwardSpring,westvalley.awardspring.com,slug-match,AwardSpring customer,False,770268786 
+125499,West Valley College,Saratoga,CA,https://westvalley.edu,Large suburb,California Community College System,AwardSpring,westvalley.awardspring.com,slug-match,AwardSpring customer,True,770268786 
+125222,West Valley Mission Community College District Office,Saratoga,CA,https://westvalley.edu,Large suburb,West Valley Mission Community College District,AwardSpring,westvalley.awardspring.com,slug-match,AwardSpring customer,True,770268786 
 455512,Woodland Community College,Woodland,CA,https://wcc.yccd.edu,Small suburb,Yuba Community College District,NextGen Scholarship Manager,yccd.scholarships.ngwebsolutions.com,district-portal,Competitor,True,680447767 
 126119,Yuba College,Marysville,CA,https://yc.yccd.edu,Midsize suburb,Yuba Community College District,NextGen Scholarship Manager,yccd.scholarships.ngwebsolutions.com,district-portal,Competitor,True,680447767 
 126748,Colorado Northwestern Community College,Rangely,CO,https://cncc.edu,Remote rural,Colorado Community College System,AwardSpring,cncc.awardspring.com,slug-match,AwardSpring customer,False,383721881 
 126863,Community College of Aurora,Aurora,CO,https://ccaurora.edu,Large city,Colorado Community College System,AwardSpring,ccaurora.awardspring.com,slug-match,AwardSpring customer,False,383721881 
 127389,Lamar Community College,Lamar,CO,https://lamarcc.edu,Remote town,Colorado Community College System,,,"probed or crawled, nothing found",No platform found,False,840644739 
 127732,Northeastern Junior College,Sterling,CO,https://njc.edu,Remote town,Colorado Community College System,NextGen Scholarship Manager,njc.scholarships.ngwebsolutions.com,slug-match,Competitor,False,383721881 
-127778,Otero College,La Junta,CO,https://otero.edu,Remote town,Colorado Community College System,NextGen Scholarship Manager,cccs.scholarships.ngwebsolutions.com,district-portal,Competitor,True,840644739 
+127778,Otero College,La Junta,CO,https://otero.edu,Remote town,Colorado Community College System,NextGen Scholarship Manager,cccs.scholarships.ngwebsolutions.com,district-portal (system acronym match),Competitor,False,840644739 
 128151,Pickens Technical College,Aurora,CO,https://pickenstech.org,Large city,,,,"probed or crawled, nothing found",No platform found,False,846000870 
 128577,Asnuntuck Community College,Enfield,CT,https://asnuntuck.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,066000798 
 417248,CT Aerotech,Hartford,CT,https://ctaero.cttech.org,Midsize city,Connecticut Technical High School System,,,"probed or crawled, nothing found",No platform found,False,066000798 
@@ -253,14 +253,14 @@ unitid,name,city,state,website,locale,system,vendor,portal,evidence,status,share
 141990,Windward Community College,Kaneohe,HI,https://windward.hawaii.edu,Midsize suburb,University of Hawaii Board of Regents,NextGen Scholarship Manager,uhsys.scholarships.ngwebsolutions.com,district-portal,Competitor,True,996000354 
 153214,Des Moines Area Community College,Ankeny,IA,https://dmacc.edu,Large suburb,,Blackbaud Award Management,dmacc.academicworks.com,slug-match,Competitor,False,420926354 
 153311,Eastern Iowa Community College District,Davenport,IA,https://eicc.edu,Midsize city,,,,"probed or crawled, nothing found",No platform found,False,420924364 
-153296,Ellsworth Community College,Iowa Falls,IA,https://ecc.iavalley.edu,Remote town,Iowa Valley Community College District,Blackbaud Award Management,ecc.academicworks.com,direct-probe,Competitor,False,420926714 
+153296,Ellsworth Community College,Iowa Falls,IA,https://ecc.iavalley.edu,Remote town,Iowa Valley Community College District,,,"probed, portal belongs to a different college",No platform found,False,420926714 
 153445,Hawkeye Community College,Waterloo,IA,https://hawkeyecollege.edu,Fringe rural,,ScholarshipUniverse,hawkeyecollege.scholarshipuniverse.com,slug-match,Competitor,False,420925362 
 153472,Indian Hills Community College,Ottumwa,IA,https://indianhills.edu,Remote town,,NextGen Scholarship Manager,indianhills.scholarships.ngwebsolutions.com,slug-match,Competitor,False,420923689 
 153524,Iowa Central Community College,Fort Dodge,IA,https://iowacentral.edu,Remote town,,AwardSpring,iowacentral.awardspring.com,slug-match,AwardSpring customer,False,410906391 
 153533,Iowa Lakes Community College,Estherville,IA,https://iowalakes.edu,Remote town,,AwardSpring,iowalakes.awardspring.com,slug-match,AwardSpring customer,False,420929936 
 153630,Iowa Western Community College,Council Bluffs,IA,https://iwcc.edu,Large suburb,,NextGen Scholarship Manager,iwcc.scholarships.ngwebsolutions.com,slug-match,Competitor,False,420925013 
 153737,Kirkwood Community College,Cedar Rapids,IA,https://kirkwood.edu,Midsize city,,NextGen Scholarship Manager,kirkwood.scholarships.ngwebsolutions.com,slug-match,Competitor,False,420924685 
-153922,Marshalltown Community College,Marshalltown,IA,https://mcc.iavalley.edu,Distant town,Iowa Valley Community College District,Blackbaud Award Management,mcc.academicworks.com,direct-probe,Competitor,False,420926714 
+153922,Marshalltown Community College,Marshalltown,IA,https://mcc.iavalley.edu,Distant town,Iowa Valley Community College District,,,"probed, portal belongs to a different college",No platform found,False,420926714 
 154059,North Iowa Area Community College,Mason City,IA,https://niacc.edu,Fringe rural,,NextGen Scholarship Manager,niacc.scholarships.ngwebsolutions.com,slug-match,Competitor,False,420930155 
 154110,Northeast Iowa Community College,Calmar,IA,https://nicc.edu,Distant rural,,,,"probed or crawled, nothing found",No platform found,False,420924711 
 154129,Northwest Iowa Community College,Sheldon,IA,https://nwicc.edu,Remote town,,NextGen Scholarship Manager,nwicc.scholarships.ngwebsolutions.com,slug-match,Competitor,False,420926341 
@@ -269,17 +269,17 @@ unitid,name,city,state,website,locale,system,vendor,portal,evidence,status,share
 154572,Western Iowa Tech Community College,Sioux City,IA,https://witcc.edu,Small city,,,,"probed or crawled, nothing found",No platform found,False,420926922 
 142179,College of Eastern Idaho,Idaho Falls,ID,https://cei.edu,Small city,,,,"probed or crawled, nothing found",No platform found,False,822124304 
 455114,College of Western Idaho,Nampa,ID,https://cwi.edu,Fringe rural,,ScholarshipUniverse,cwi.scholarshipuniverse.com,slug-match,Competitor,False,260684268 
-142443,North Idaho College,Coeur d'Alene,ID,https://nic.edu,Small city,,ScholarshipUniverse,nic.scholarshipuniverse.com,slug-match,Competitor,True,826000936 
+142443,North Idaho College,Coeur d'Alene,ID,https://nic.edu,Small city,,ScholarshipUniverse,nic.scholarshipuniverse.com,slug-match,Competitor,False,826000936 
 143279,Black Hawk College,Moline,IL,https://bhc.edu,Small city,,,,"probed or crawled, nothing found",No platform found,False,362482309 
 143613,Carl Sandburg College,Galesburg,IL,https://sandburg.edu,Distant town,Illinois Community College System,NextGen Scholarship Manager,sandburg.scholarships.ngwebsolutions.com,slug-match,Competitor,False,370896983 
-144500,City Colleges of Chicago-District Office,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,False,362606236 
-144209,City Colleges of Chicago-Harold Washington College,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,False,362606236 
-144184,City Colleges of Chicago-Harry S Truman College,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,False,362606236 
-144157,City Colleges of Chicago-Kennedy-King College,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,False,362606230 
-144166,City Colleges of Chicago-Malcolm X College,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,False,362606236 
-144175,City Colleges of Chicago-Olive-Harvey College,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,False,362606236 
-144193,City Colleges of Chicago-Richard J Daley College,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,False,362606236 
-144218,City Colleges of Chicago-Wilbur Wright College,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,False,362606236 
+144500,City Colleges of Chicago-District Office,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,True,362606236 
+144209,City Colleges of Chicago-Harold Washington College,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,True,362606236 
+144184,City Colleges of Chicago-Harry S Truman College,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,True,362606236 
+144157,City Colleges of Chicago-Kennedy-King College,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,True,362606230 
+144166,City Colleges of Chicago-Malcolm X College,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,True,362606236 
+144175,City Colleges of Chicago-Olive-Harvey College,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,True,362606236 
+144193,City Colleges of Chicago-Richard J Daley College,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,True,362606236 
+144218,City Colleges of Chicago-Wilbur Wright College,Chicago,IL,https://ccc.edu,Large city,City Colleges of Chicago,Blackbaud Award Management,ccc.academicworks.com,slug-match,Competitor,True,362606236 
 144865,College of DuPage,Glen Ellyn,IL,https://cod.edu,Large suburb,,Blackbaud Award Management,cod.academicworks.com,slug-match,Competitor,False,362594972 
 146472,College of Lake County,Grayslake,IL,https://clcillinois.edu,Large suburb,,Blackbaud Award Management,clcillinois.academicworks.com,slug-match,Competitor,False,362648760 
 144564,Danville Area Community College,Danville,IL,https://dacc.edu,Distant town,,Blackbaud Award Management,dacc.academicworks.com,slug-match,Competitor,False,370889813 
@@ -313,7 +313,7 @@ unitid,name,city,state,website,locale,system,vendor,portal,evidence,status,share
 148672,Sauk Valley Community College,Dixon,IL,https://svcc.edu,Fringe rural,,AwardSpring,svcc.awardspring.com,slug-match,AwardSpring customer,False,362588599 
 148821,Shawnee Community College,Ullin,IL,https://shawneecc.edu,Distant rural,,Blackbaud Award Management,shawneecc.academicworks.com,slug-match,Competitor,False,370903840 
 149365,South Suburban College,South Holland,IL,https://ssc.edu,Large suburb,,AwardSpring,ssc.awardspring.com,slug-match,AwardSpring customer,False,362597699 
-148937,Southeastern Illinois College,Harrisburg,IL,https://sic.edu,Distant rural,Illinois Community College System,ScholarshipUniverse,nic.scholarshipuniverse.com,district-portal,Competitor,True,370906582 
+148937,Southeastern Illinois College,Harrisburg,IL,https://sic.edu,Distant rural,Illinois Community College System,,,"crawled, portal belongs to a different college",No platform found,False,370906582 
 143215,Southwestern Illinois College,Belleville,IL,https://swic.edu,Large suburb,,AwardSpring,swic.awardspring.com,slug-match,AwardSpring customer,False,370896981 
 148991,Spoon River College,Canton,IL,https://src.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,370895488 
 149532,Triton College,River Grove,IL,https://triton.edu,Large suburb,Illinois Community College System,AwardSpring,triton.awardspring.com,slug-match,AwardSpring customer,False,362537114 
@@ -410,7 +410,7 @@ unitid,name,city,state,website,locale,system,vendor,portal,evidence,status,share
 164313,Wor-Wic Community College,Salisbury,MD,https://worwic.edu,Fringe rural,,NextGen Scholarship Manager,worwic.scholarships.ngwebsolutions.com,slug-match,Competitor,False,521048147 
 161077,Central Maine Community College,Auburn,ME,https://cmcc.edu,Small city,Maine Community College System,,,"probed or crawled, nothing found",No platform found,False,010416015 
 161138,Eastern Maine Community College,Bangor,ME,https://emcc.edu,Small city,Maine Community College System,,,"probed or crawled, nothing found",No platform found,False,010416015 
-161192,Kennebec Valley Community College,Fairfield,ME,https://kvcc.me.edu,Remote town,Maine Community College System,Blackbaud Award Management,kvcc.academicworks.com,direct-probe,Competitor,False,010416015 
+161192,Kennebec Valley Community College,Fairfield,ME,https://kvcc.me.edu,Remote town,Maine Community College System,,,"probed, portal belongs to a different college",No platform found,False,010416015 
 161484,Northern Maine Community College,Presque Isle,ME,https://nmcc.edu,Remote town,Maine Community College System,,,"probed or crawled, nothing found",No platform found,False,010416015 
 161545,Southern Maine Community College,South Portland,ME,https://smccme.edu,Small city,Maine Community College System,,,"probed or crawled, nothing found",No platform found,False,010416015 
 161581,Washington County Community College,Calais,ME,https://wccc.me.edu,Remote rural,Maine Community College System,,,"probed or crawled, nothing found",No platform found,False,010416015 
@@ -596,8 +596,8 @@ unitid,name,city,state,website,locale,system,vendor,portal,evidence,status,share
 186034,Passaic County Community College,Paterson,NJ,https://web.pccc.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,221907901 
 186645,Raritan Valley Community College,Branchburg,NJ,https://raritanval.edu,Fringe rural,,AwardSpring,raritanval.awardspring.com,slug-match,AwardSpring customer,False,221815636 
 183877,Rowan College at Burlington County,Mount Laurel,NJ,https://rcbc.edu,Large suburb,,,,"probed or crawled, nothing found",No platform found,False,221825538 
-184205,Rowan College of South Jersey-Cumberland Campus,Vineland,NJ,https://rcsj.edu,Small city,,AwardSpring,rcsj.awardspring.com,slug-match,AwardSpring customer,False,226088440 
-184791,Rowan College of South Jersey-Gloucester Campus,Sewell,NJ,https://rcsj.edu,Large suburb,,AwardSpring,rcsj.awardspring.com,slug-match,AwardSpring customer,False,226088440 
+184205,Rowan College of South Jersey-Cumberland Campus,Vineland,NJ,https://rcsj.edu,Small city,,AwardSpring,rcsj.awardspring.com,slug-match,AwardSpring customer,True,226088440 
+184791,Rowan College of South Jersey-Gloucester Campus,Sewell,NJ,https://rcsj.edu,Large suburb,,AwardSpring,rcsj.awardspring.com,slug-match,AwardSpring customer,True,226088440 
 186469,Salem Community College,Carneys Point,NJ,https://salemcc.edu,Large suburb,,AwardSpring,salemcc.awardspring.com,slug-match,AwardSpring customer,False,221972013 
 247603,Sussex County Community College,Newton,NJ,https://sussex.edu,Fringe rural,,,,"probed or crawled, nothing found",No platform found,False,222379629 
 187198,"UCNJ Union College of Union County, NJ",Cranford,NJ,https://ucc.edu,Large suburb,,AwardSpring,ucc.awardspring.com,slug-match,AwardSpring customer,False,221515225 
@@ -804,7 +804,7 @@ unitid,name,city,state,website,locale,system,vendor,portal,evidence,status,share
 224642,El Paso Community College,El Paso,TX,https://epcc.edu,Large city,,,,"probed or crawled, nothing found",No platform found,False,741690850 
 224891,Frank Phillips College,Borger,TX,https://fpctx.edu,Distant town,,,,"probed or crawled, nothing found",No platform found,False,756001630 
 225371,Hill College,Hillsboro,TX,https://hillcollege.edu,Distant town,,AwardSpring,hillcollege.awardspring.com,slug-match,AwardSpring customer,False,741404239 
-225520,Howard College,Big Spring,TX,https://howardcollege.edu,Remote town,,AwardSpring,howardcollege.awardspring.com,slug-match,AwardSpring customer,False,756001827 
+225520,Howard College,Big Spring,TX,https://howardcollege.edu,Remote town,,AwardSpring,howardcollege.awardspring.com,slug-match,AwardSpring customer,True,756001827 
 226019,Kilgore College,Kilgore,TX,https://kilgore.edu,Fringe town,,,,"probed or crawled, nothing found",No platform found,False,756001909 
 441760,Lamar Institute of Technology,Beaumont,TX,https://lit.edu,Midsize city,Texas State University System,,,"probed or crawled, nothing found",No platform found,False,760694136 
 226107,Lamar State College-Orange,Orange,TX,https://lsco.edu,Fringe town,Texas State University System,,,"probed or crawled, nothing found",No platform found,False,746000298 
@@ -812,17 +812,17 @@ unitid,name,city,state,website,locale,system,vendor,portal,evidence,status,share
 226204,Lee College,Baytown,TX,https://lee.edu,Small city,,Blackbaud Award Management,lee.academicworks.com,slug-match,Competitor,False,746025566 
 226578,McLennan Community College,Waco,TX,https://mclennan.edu,Midsize city,,AwardSpring,mclennan.awardspring.com,slug-match,AwardSpring customer,False,741541260 
 224110,North Central Texas College,Gainesville,TX,https://nctc.edu,Distant town,,Blackbaud Award Management,nctc.academicworks.com,slug-match,Competitor,False,751050382 
-488730,Northeast Lakeview College,Universal City,TX,https://alamo.edu,Large suburb,Alamo Colleges,Blackbaud Award Management,alamo.academicworks.com,slug-match,Competitor,False,746002173 
+488730,Northeast Lakeview College,Universal City,TX,https://alamo.edu,Large suburb,Alamo Colleges,Blackbaud Award Management,alamo.academicworks.com,slug-match,Competitor,True,746002173 
 227225,Northeast Texas Community College,Mount Pleasant,TX,https://ntcc.edu,Distant rural,,AwardSpring,ntcc.awardspring.com,slug-match,AwardSpring customer,False,751963242 
-420398,Northwest Vista College,San Antonio,TX,https://alamo.edu,Large city,Alamo Colleges,Blackbaud Award Management,alamo.academicworks.com,slug-match,Competitor,False,746002173 
-246354,Palo Alto College,San Antonio,TX,https://alamo.edu,Large city,Alamo Colleges,Blackbaud Award Management,alamo.academicworks.com,slug-match,Competitor,False,746002173 
+420398,Northwest Vista College,San Antonio,TX,https://alamo.edu,Large city,Alamo Colleges,Blackbaud Award Management,alamo.academicworks.com,slug-match,Competitor,True,746002173 
+246354,Palo Alto College,San Antonio,TX,https://alamo.edu,Large city,Alamo Colleges,Blackbaud Award Management,alamo.academicworks.com,slug-match,Competitor,True,746002173 
 227386,Panola College,Carthage,TX,https://panola.edu,Distant town,,AwardSpring,panola.awardspring.com,slug-match,AwardSpring customer,False,751854775 
 227401,Paris Junior College,Paris,TX,https://parisjc.edu,Remote town,,Blackbaud Award Management,parisjc.academicworks.com,slug-match,Competitor,False,756002205 
 227687,Ranger College,Ranger,TX,https://rangercollege.edu,Remote rural,,,,"probed or crawled, nothing found",No platform found,False,756002296 
 228158,South Plains College,Levelland,TX,https://southplainscollege.edu,Distant town,,Blackbaud Award Management,southplainscollege.academicworks.com,slug-match,Competitor,False,756004667 
-382911,Southwest College for the Deaf,Big Spring,TX,https://howardcollege.edu,Remote town,,AwardSpring,howardcollege.awardspring.com,slug-match,AwardSpring customer,False,751914499 
+382911,Southwest College for the Deaf,Big Spring,TX,https://howardcollege.edu,Remote town,,AwardSpring,howardcollege.awardspring.com,slug-match,AwardSpring customer,True,751914499 
 228316,Southwest Texas Junior College,Uvalde,TX,https://swtjc.edu,Remote town,,,,"probed or crawled, nothing found",No platform found,False,746002420 
-227854,St Philip's College,San Antonio,TX,https://alamo.edu,Large city,Alamo Colleges,Blackbaud Award Management,alamo.academicworks.com,slug-match,Competitor,False,746002173 
+227854,St Philip's College,San Antonio,TX,https://alamo.edu,Large city,Alamo Colleges,Blackbaud Award Management,alamo.academicworks.com,slug-match,Competitor,True,746002173 
 228547,Tarrant County College District,Fort Worth,TX,https://tccd.edu,Large city,,Blackbaud Award Management,tccd.academicworks.com,slug-match,Competitor,False,751217163 
 228608,Temple College,Temple,TX,https://templejc.edu,Small city,,,,"probed or crawled, nothing found",No platform found,False,746020689 
 228699,Texarkana College,Texarkana,TX,https://texarkanacollege.edu,Small city,,AwardSpring,texarkanacollege.awardspring.com,slug-match,AwardSpring customer,False,756004413 

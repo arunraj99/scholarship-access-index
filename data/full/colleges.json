@@ -11,7 +11,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "631102108 "
  },
  {
@@ -26,7 +26,7 @@
   "portal": "bishop.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "630507477 "
  },
  {
@@ -41,7 +41,7 @@
   "portal": "cacc.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "False",
   "ein": "631022757 "
  },
  {
@@ -56,7 +56,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "630657380 "
  },
  {
@@ -71,7 +71,7 @@
   "portal": "coastalalabama.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "630501805 "
  },
  {
@@ -86,7 +86,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "630504851 "
  },
  {
@@ -101,7 +101,7 @@
   "portal": "gadsdenstate.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "630501425 "
  },
  {
@@ -116,7 +116,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "630507618 "
  },
  {
@@ -131,7 +131,7 @@
   "portal": "wallacestate.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "630498828 "
  },
  {
@@ -146,7 +146,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "630600375 "
  },
  {
@@ -161,7 +161,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "630510750 "
  },
  {
@@ -176,7 +176,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "630439942 "
  },
  {
@@ -191,7 +191,7 @@
   "portal": "jeffersonstate.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "630501357 "
  },
  {
@@ -206,7 +206,7 @@
   "portal": "calhoun.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "630505871 "
  },
  {
@@ -221,7 +221,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "630641064 "
  },
  {
@@ -236,7 +236,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "630576487 "
  },
  {
@@ -251,7 +251,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "630288853 "
  },
  {
@@ -266,7 +266,7 @@
   "portal": "nacc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "630504999 "
  },
  {
@@ -281,7 +281,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "630513822 "
  },
  {
@@ -296,7 +296,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "630510731 "
  },
  {
@@ -311,7 +311,7 @@
   "portal": "sheltonstate.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "636002149 "
  },
  {
@@ -326,7 +326,7 @@
   "portal": "snead.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "630521412 "
  },
  {
@@ -341,7 +341,7 @@
   "portal": "suscc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "630494681 "
  },
  {
@@ -356,7 +356,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "710460696 "
  },
  {
@@ -371,7 +371,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "710533838 "
  },
  {
@@ -386,7 +386,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "710411511 "
  },
  {
@@ -401,7 +401,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "710421333 "
  },
  {
@@ -416,7 +416,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621687591 "
  },
  {
@@ -431,7 +431,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "710855933 "
  },
  {
@@ -446,7 +446,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "710416918 "
  },
  {
@@ -461,7 +461,7 @@
   "portal": "cccua.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "710445507 "
  },
  {
@@ -476,7 +476,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "710450242 "
  },
  {
@@ -491,7 +491,7 @@
   "portal": "np.scholarshipuniverse.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "710445211 "
  },
  {
@@ -506,7 +506,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "710451862 "
  },
  {
@@ -521,7 +521,7 @@
   "portal": "nwacc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "710068554 "
  },
  {
@@ -536,7 +536,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "710443460 "
  },
  {
@@ -551,7 +551,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "690710001 "
  },
  {
@@ -566,7 +566,7 @@
   "portal": "southark.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "710718948 "
  },
  {
@@ -581,7 +581,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "716047504 "
  },
  {
@@ -596,7 +596,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "710400038 "
  },
  {
@@ -611,7 +611,7 @@
   "portal": "uarichmountain.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "710444027 "
  },
  {
@@ -626,7 +626,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "710445264 "
  },
  {
@@ -641,7 +641,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "710353619 "
  },
  {
@@ -656,7 +656,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "710392370 "
  },
  {
@@ -671,7 +671,7 @@
   "portal": "uaptc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "710411512 "
  },
  {
@@ -686,7 +686,7 @@
   "portal": "azwestern.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "860179321 "
  },
  {
@@ -701,7 +701,7 @@
   "portal": "centralaz.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "860180838 "
  },
  {
@@ -716,7 +716,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "860185552 "
  },
  {
@@ -731,7 +731,7 @@
   "portal": "cochise.scholarshipuniverse.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "860183151 "
  },
  {
@@ -746,7 +746,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "860686666 "
  },
  {
@@ -761,7 +761,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "866000754 "
  },
  {
@@ -776,7 +776,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "860185552 "
  },
  {
@@ -791,7 +791,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "860185552 "
  },
  {
@@ -806,7 +806,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "860185552 "
  },
  {
@@ -821,7 +821,7 @@
   "portal": "mohave.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "860287804 "
  },
  {
@@ -836,7 +836,7 @@
   "portal": "npc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "860277526 "
  },
  {
@@ -851,7 +851,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "860185552 "
  },
  {
@@ -866,7 +866,7 @@
   "portal": "pima.scholarshipuniverse.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "860208787 "
  },
  {
@@ -881,7 +881,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "860185552 "
  },
  {
@@ -896,7 +896,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "860185552 "
  },
  {
@@ -911,7 +911,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "860931108 "
  },
  {
@@ -926,7 +926,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "421582295 "
  },
  {
@@ -941,7 +941,7 @@
   "portal": "hancockcollege.academicworks.com",
   "evidence": "direct-probe",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "521692042 "
  },
  {
@@ -956,7 +956,7 @@
   "portal": "losrios.academicworks.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "941576340 "
  },
  {
@@ -971,7 +971,7 @@
   "portal": "barstow.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "956006415 "
  },
  {
@@ -986,7 +986,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "941590799 "
  },
  {
@@ -1001,7 +1001,7 @@
   "portal": "butte.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "941637174 "
  },
  {
@@ -1016,7 +1016,7 @@
   "portal": "cabrillo.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "946002633 "
  },
  {
@@ -1031,7 +1031,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "824308876 "
  },
  {
@@ -1046,7 +1046,7 @@
   "portal": "smccd.academicworks.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "943084147 "
  },
  {
@@ -1061,7 +1061,7 @@
   "portal": "cerritoscollegefoundation.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "956005521 "
  },
  {
@@ -1076,7 +1076,7 @@
   "portal": "cerrocoso.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "956006644 "
  },
  {
@@ -1091,7 +1091,7 @@
   "portal": "chabotcollege.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": true,
+  "shared_portal": "False",
   "ein": "941670563 "
  },
  {
@@ -1106,7 +1106,7 @@
   "portal": "chaffeycollegefoundation.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "956000558 "
  },
  {
@@ -1121,7 +1121,7 @@
   "portal": "citruscollege.academicworks.com",
   "evidence": "direct-probe",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "956006670 "
  },
  {
@@ -1136,7 +1136,7 @@
   "portal": "ccsf.scholarshipuniverse.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "941721925 "
  },
  {
@@ -1151,7 +1151,7 @@
   "portal": "cloviscollege.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "941574802 "
  },
  {
@@ -1166,7 +1166,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "770323447 "
  },
  {
@@ -1181,7 +1181,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "956002272 "
  },
  {
@@ -1196,7 +1196,7 @@
   "portal": "coastline.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "956002272 "
  },
  {
@@ -1211,7 +1211,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "941590799 "
  },
  {
@@ -1226,7 +1226,7 @@
   "portal": "marin.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "680194359 "
  },
  {
@@ -1241,7 +1241,7 @@
   "portal": "smccd.academicworks.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "943084147 "
  },
  {
@@ -1256,7 +1256,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "952561360 "
  },
  {
@@ -1271,7 +1271,7 @@
   "portal": "collegeofthedesert.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "330535430 "
  },
  {
@@ -1286,7 +1286,7 @@
   "portal": "redwoods.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "946002186 "
  },
  {
@@ -1301,7 +1301,7 @@
   "portal": "cos.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "946003004 "
  },
  {
@@ -1316,7 +1316,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "680321440 "
  },
  {
@@ -1331,7 +1331,7 @@
   "portal": "gocolumbia.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "521566989 "
  },
  {
@@ -1346,7 +1346,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "956004983 "
  },
  {
@@ -1361,7 +1361,7 @@
   "portal": "contracosta.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "680342035 "
  },
  {
@@ -1376,7 +1376,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "680342035 "
  },
  {
@@ -1391,7 +1391,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "330838252 "
  },
  {
@@ -1406,7 +1406,7 @@
   "portal": "losrios.academicworks.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "941576340 "
  },
  {
@@ -1421,7 +1421,7 @@
   "portal": "sbccd.academicworks.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "956002754 "
  },
  {
@@ -1436,7 +1436,7 @@
   "portal": "cuesta.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "956000938 "
  },
  {
@@ -1451,7 +1451,7 @@
   "portal": "gcccd.academicworks.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "956006652 "
  },
  {
@@ -1466,7 +1466,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "941597718 "
  },
  {
@@ -1481,7 +1481,7 @@
   "portal": "dvc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "680342035 "
  },
  {
@@ -1496,7 +1496,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "956006586 "
  },
  {
@@ -1511,7 +1511,7 @@
   "portal": "oundation4lacolleges.scholarships.ngwebsolutions.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "952587353 "
  },
  {
@@ -1526,7 +1526,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "956001060 "
  },
  {
@@ -1541,7 +1541,7 @@
   "portal": "sjeccd.academicworks.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "770100756 "
  },
  {
@@ -1556,7 +1556,7 @@
   "portal": "losrios.academicworks.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "941576340 "
  },
  {
@@ -1571,7 +1571,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "941574802 "
  },
  {
@@ -1586,7 +1586,7 @@
   "portal": "oundationfullcoll.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "952394131 "
  },
  {
@@ -1601,7 +1601,7 @@
   "portal": "gavilan.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "942278279 "
  },
  {
@@ -1616,7 +1616,7 @@
   "portal": "glendale.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "952668744 "
  },
  {
@@ -1631,7 +1631,7 @@
   "portal": "goldenwestcollege.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "956002272 "
  },
  {
@@ -1646,7 +1646,7 @@
   "portal": "gcccd.academicworks.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "956006652 "
  },
  {
@@ -1661,7 +1661,7 @@
   "portal": "gcccd.academicworks.com",
   "evidence": "direct-probe",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "956006652 "
  },
  {
@@ -1676,7 +1676,7 @@
   "portal": "hartnell.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "770086025 "
  },
  {
@@ -1691,7 +1691,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "956006350 "
  },
  {
@@ -1706,7 +1706,7 @@
   "portal": "ivc.scholarshipuniverse.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "952479872 "
  },
  {
@@ -1721,7 +1721,7 @@
   "portal": "ltcc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "942317114 "
  },
  {
@@ -1736,7 +1736,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "941590799 "
  },
  {
@@ -1751,7 +1751,7 @@
   "portal": "laspositascollege.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "941670563 "
  },
  {
@@ -1766,7 +1766,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "161644590 "
  },
  {
@@ -1781,7 +1781,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "770323447 "
  },
  {
@@ -1796,7 +1796,7 @@
   "portal": "lbcc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "952654140 "
  },
  {
@@ -1811,7 +1811,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "952587353 "
  },
  {
@@ -1826,7 +1826,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "956000927 "
  },
  {
@@ -1841,7 +1841,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "952587353 "
  },
  {
@@ -1856,7 +1856,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "952587353 "
  },
  {
@@ -1871,7 +1871,7 @@
   "portal": "oundation4lacolleges.scholarships.ngwebsolutions.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "952587353 "
  },
  {
@@ -1886,7 +1886,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "952587353 "
  },
  {
@@ -1901,7 +1901,7 @@
   "portal": "oundation4lacolleges.scholarships.ngwebsolutions.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "952587353 "
  },
  {
@@ -1916,7 +1916,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "952587353 "
  },
  {
@@ -1931,7 +1931,7 @@
   "portal": "losmedanos.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "680342035 "
  },
  {
@@ -1946,7 +1946,7 @@
   "portal": "losrios.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "941576340 "
  },
  {
@@ -1961,7 +1961,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "941574802 "
  },
  {
@@ -1976,7 +1976,7 @@
   "portal": "mendocinocollege.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "946002711 "
  },
  {
@@ -1987,11 +1987,11 @@
   "website": "https://mccd.edu",
   "locale": "Small city",
   "system": "California Community College System",
-  "vendor": "Blackbaud Award Management",
-  "portal": "iu.academicworks.com",
-  "evidence": "district-portal",
-  "status": "Competitor",
-  "shared_portal": true,
+  "vendor": "",
+  "portal": "",
+  "evidence": "crawled, portal could not be attributed",
+  "status": "No platform found",
+  "shared_portal": "False",
   "ein": "770362218 "
  },
  {
@@ -2006,7 +2006,7 @@
   "portal": "pcf.scholarships.ngwebsolutions.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "941590799 "
  },
  {
@@ -2021,7 +2021,7 @@
   "portal": "missioncollege.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "946020929 "
  },
  {
@@ -2036,7 +2036,7 @@
   "portal": "mpc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "942314506 "
  },
  {
@@ -2051,7 +2051,7 @@
   "portal": "moorparkcollege.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "952224338 "
  },
  {
@@ -2066,7 +2066,7 @@
   "portal": "rcc.academicworks.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "330831357 "
  },
  {
@@ -2081,7 +2081,7 @@
   "portal": "mtsac.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "956002131 "
  },
  {
@@ -2096,7 +2096,7 @@
   "portal": "msjc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "956000929 "
  },
  {
@@ -2111,7 +2111,7 @@
   "portal": "napavalley.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "680314463 "
  },
  {
@@ -2126,7 +2126,7 @@
   "portal": "rcc.academicworks.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "330831357 "
  },
  {
@@ -2141,7 +2141,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "942378181 "
  },
  {
@@ -2156,7 +2156,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "956002272 "
  },
  {
@@ -2171,7 +2171,7 @@
   "portal": "oxnardcollegefoundation.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "952224338 "
  },
  {
@@ -2186,7 +2186,7 @@
   "portal": "paloverde.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "330833195 "
  },
  {
@@ -2201,7 +2201,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "956002227 "
  },
  {
@@ -2216,7 +2216,7 @@
   "portal": "pasadena.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "952505000 "
  },
  {
@@ -2231,7 +2231,7 @@
   "portal": "pcf.scholarships.ngwebsolutions.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "941590799 "
  },
  {
@@ -2246,7 +2246,7 @@
   "portal": "portervillecollege.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "956006644 "
  },
  {
@@ -2261,7 +2261,7 @@
   "portal": "reedleycollege.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "941574802 "
  },
  {
@@ -2276,7 +2276,7 @@
   "portal": "rcc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "330831357 "
  },
  {
@@ -2291,7 +2291,7 @@
   "portal": "losrios.academicworks.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "941576340 "
  },
  {
@@ -2306,7 +2306,7 @@
   "portal": "saddleback.scholarshipuniverse.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "952479872 "
  },
  {
@@ -2321,7 +2321,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "956002754 "
  },
  {
@@ -2336,7 +2336,7 @@
   "portal": "sbccd.academicworks.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "956002754 "
  },
  {
@@ -2351,7 +2351,7 @@
   "portal": "sdcity.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "952644299 "
  },
  {
@@ -2366,7 +2366,7 @@
   "portal": "sdmiramar.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "952644299 "
  },
  {
@@ -2381,7 +2381,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "941044400 "
  },
  {
@@ -2396,7 +2396,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "770100756 "
  },
  {
@@ -2411,7 +2411,7 @@
   "portal": "sjeccd.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "770100756 "
  },
  {
@@ -2426,7 +2426,7 @@
   "portal": "sbcc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "770070782 "
  },
  {
@@ -2441,7 +2441,7 @@
   "portal": "santarosa.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": true,
+  "shared_portal": "False",
   "ein": "946033759 "
  },
  {
@@ -2456,7 +2456,7 @@
   "portal": "sccollege.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "952696799 "
  },
  {
@@ -2471,7 +2471,7 @@
   "portal": "sierracollege.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "946031260 "
  },
  {
@@ -2486,7 +2486,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "952479872 "
  },
  {
@@ -2501,7 +2501,7 @@
   "portal": "swccd.scholarshipuniverse.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "956006659 "
  },
  {
@@ -2516,7 +2516,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "941574802 "
  },
  {
@@ -2531,7 +2531,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "952266481 "
  },
  {
@@ -2546,7 +2546,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "956006406 "
  },
  {
@@ -2561,7 +2561,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "952224338 "
  },
  {
@@ -2576,7 +2576,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "952224338 "
  },
  {
@@ -2591,7 +2591,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "956006576 "
  },
  {
@@ -2606,7 +2606,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "770323447 "
  },
  {
@@ -2621,7 +2621,7 @@
   "portal": "westvalley.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "True",
   "ein": "770268786 "
  },
  {
@@ -2636,7 +2636,7 @@
   "portal": "westvalley.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "True",
   "ein": "770268786 "
  },
  {
@@ -2651,7 +2651,7 @@
   "portal": "yccd.scholarships.ngwebsolutions.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "680447767 "
  },
  {
@@ -2666,7 +2666,7 @@
   "portal": "yccd.scholarships.ngwebsolutions.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "680447767 "
  },
  {
@@ -2681,7 +2681,7 @@
   "portal": "cncc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "383721881 "
  },
  {
@@ -2696,7 +2696,7 @@
   "portal": "ccaurora.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "383721881 "
  },
  {
@@ -2711,7 +2711,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "840644739 "
  },
  {
@@ -2726,7 +2726,7 @@
   "portal": "njc.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "383721881 "
  },
  {
@@ -2739,9 +2739,9 @@
   "system": "Colorado Community College System",
   "vendor": "NextGen Scholarship Manager",
   "portal": "cccs.scholarships.ngwebsolutions.com",
-  "evidence": "district-portal",
+  "evidence": "district-portal (system acronym match)",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "False",
   "ein": "840644739 "
  },
  {
@@ -2756,7 +2756,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "846000870 "
  },
  {
@@ -2771,7 +2771,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "066000798 "
  },
  {
@@ -2786,7 +2786,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "066000798 "
  },
  {
@@ -2801,7 +2801,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "061398052 "
  },
  {
@@ -2816,7 +2816,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "066000798 "
  },
  {
@@ -2831,7 +2831,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "134310869 "
  },
  {
@@ -2846,7 +2846,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "066000798 "
  },
  {
@@ -2861,7 +2861,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "066000798 "
  },
  {
@@ -2876,7 +2876,7 @@
   "portal": "manchestercc.academicworks.com",
   "evidence": "direct-probe",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "061269050 "
  },
  {
@@ -2891,7 +2891,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "320159889 "
  },
  {
@@ -2906,7 +2906,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "061307006 "
  },
  {
@@ -2921,7 +2921,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "066000789 "
  },
  {
@@ -2936,7 +2936,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "061359687 "
  },
  {
@@ -2951,7 +2951,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "066000798 "
  },
  {
@@ -2966,7 +2966,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "061422762 "
  },
  {
@@ -2981,7 +2981,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000530 "
  },
  {
@@ -2996,7 +2996,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000660 "
  },
  {
@@ -3011,7 +3011,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000609 "
  },
  {
@@ -3026,7 +3026,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000701 "
  },
  {
@@ -3041,7 +3041,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000792 "
  },
  {
@@ -3056,7 +3056,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000597 "
  },
  {
@@ -3071,7 +3071,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000660 "
  },
  {
@@ -3086,7 +3086,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000557 "
  },
  {
@@ -3101,7 +3101,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000572 "
  },
  {
@@ -3116,7 +3116,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000728 "
  },
  {
@@ -3131,7 +3131,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000734 "
  },
  {
@@ -3146,7 +3146,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000572 "
  },
  {
@@ -3161,7 +3161,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000771 "
  },
  {
@@ -3176,7 +3176,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000771 "
  },
  {
@@ -3191,7 +3191,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000771 "
  },
  {
@@ -3206,7 +3206,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000799 "
  },
  {
@@ -3221,7 +3221,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000799 "
  },
  {
@@ -3236,7 +3236,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000845 "
  },
  {
@@ -3251,7 +3251,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000872 "
  },
  {
@@ -3266,7 +3266,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000572 "
  },
  {
@@ -3281,7 +3281,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000530 "
  },
  {
@@ -3296,7 +3296,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000847 "
  },
  {
@@ -3311,7 +3311,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000530 "
  },
  {
@@ -3326,7 +3326,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "596000546 "
  },
  {
@@ -3341,7 +3341,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "581788487 "
  },
  {
@@ -3356,7 +3356,7 @@
   "portal": "athenstechfoundation.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "581722080 "
  },
  {
@@ -3371,7 +3371,7 @@
   "portal": "atlantatech.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "586000134 "
  },
  {
@@ -3386,7 +3386,7 @@
   "portal": "augustatech.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "581723458 "
  },
  {
@@ -3401,7 +3401,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "581839434 "
  },
  {
@@ -3416,7 +3416,7 @@
   "portal": "chattahoochee.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "581788754 "
  },
  {
@@ -3431,7 +3431,7 @@
   "portal": "coastalpines.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "580974519 "
  },
  {
@@ -3446,7 +3446,7 @@
   "portal": "columbustech.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "581739966 "
  },
  {
@@ -3461,7 +3461,7 @@
   "portal": "gntc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "581026995 "
  },
  {
@@ -3476,7 +3476,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "582223600 "
  },
  {
@@ -3491,7 +3491,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "581845423 "
  },
  {
@@ -3506,7 +3506,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "262037695 "
  },
  {
@@ -3521,7 +3521,7 @@
   "portal": "gwinnetttech.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "223894837 "
  },
  {
@@ -3536,7 +3536,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "580964324 "
  },
  {
@@ -3551,7 +3551,7 @@
   "portal": "northgatech.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "581733358 "
  },
  {
@@ -3566,7 +3566,7 @@
   "portal": "oftc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "582182006 "
  },
  {
@@ -3581,7 +3581,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "581859938 "
  },
  {
@@ -3596,7 +3596,7 @@
   "portal": "savannahtech.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "582292713 "
  },
  {
@@ -3611,7 +3611,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "581728667 "
  },
  {
@@ -3626,7 +3626,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "581865531 "
  },
  {
@@ -3641,7 +3641,7 @@
   "portal": "sctech.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "580907873 "
  },
  {
@@ -3656,7 +3656,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "581790567 "
  },
  {
@@ -3671,7 +3671,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "581656795 "
  },
  {
@@ -3686,7 +3686,7 @@
   "portal": "wiregrass.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "581774017 "
  },
  {
@@ -3701,7 +3701,7 @@
   "portal": "uhsys.scholarships.ngwebsolutions.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "996000354 "
  },
  {
@@ -3716,7 +3716,7 @@
   "portal": "uhsys.scholarships.ngwebsolutions.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "996000354 "
  },
  {
@@ -3731,7 +3731,7 @@
   "portal": "hcf.scholarships.ngwebsolutions.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "996000354 "
  },
  {
@@ -3746,7 +3746,7 @@
   "portal": "hcf.scholarships.ngwebsolutions.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "996000354 "
  },
  {
@@ -3761,7 +3761,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "996000354 "
  },
  {
@@ -3776,7 +3776,7 @@
   "portal": "uhsys.scholarships.ngwebsolutions.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "996000354 "
  },
  {
@@ -3791,7 +3791,7 @@
   "portal": "dmacc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "420926354 "
  },
  {
@@ -3806,7 +3806,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "420924364 "
  },
  {
@@ -3817,11 +3817,11 @@
   "website": "https://ecc.iavalley.edu",
   "locale": "Remote town",
   "system": "Iowa Valley Community College District",
-  "vendor": "Blackbaud Award Management",
-  "portal": "ecc.academicworks.com",
-  "evidence": "direct-probe",
-  "status": "Competitor",
-  "shared_portal": false,
+  "vendor": "",
+  "portal": "",
+  "evidence": "probed, portal belongs to a different college",
+  "status": "No platform found",
+  "shared_portal": "False",
   "ein": "420926714 "
  },
  {
@@ -3836,7 +3836,7 @@
   "portal": "hawkeyecollege.scholarshipuniverse.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "420925362 "
  },
  {
@@ -3851,7 +3851,7 @@
   "portal": "indianhills.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "420923689 "
  },
  {
@@ -3866,7 +3866,7 @@
   "portal": "iowacentral.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "410906391 "
  },
  {
@@ -3881,7 +3881,7 @@
   "portal": "iowalakes.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "420929936 "
  },
  {
@@ -3896,7 +3896,7 @@
   "portal": "iwcc.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "420925013 "
  },
  {
@@ -3911,7 +3911,7 @@
   "portal": "kirkwood.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "420924685 "
  },
  {
@@ -3922,11 +3922,11 @@
   "website": "https://mcc.iavalley.edu",
   "locale": "Distant town",
   "system": "Iowa Valley Community College District",
-  "vendor": "Blackbaud Award Management",
-  "portal": "mcc.academicworks.com",
-  "evidence": "direct-probe",
-  "status": "Competitor",
-  "shared_portal": false,
+  "vendor": "",
+  "portal": "",
+  "evidence": "probed, portal belongs to a different college",
+  "status": "No platform found",
+  "shared_portal": "False",
   "ein": "420926714 "
  },
  {
@@ -3941,7 +3941,7 @@
   "portal": "niacc.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "420930155 "
  },
  {
@@ -3956,7 +3956,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "420924711 "
  },
  {
@@ -3971,7 +3971,7 @@
   "portal": "nwicc.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "420926341 "
  },
  {
@@ -3986,7 +3986,7 @@
   "portal": "scciowa.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "420926823 "
  },
  {
@@ -4001,7 +4001,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "420927778 "
  },
  {
@@ -4016,7 +4016,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "420926922 "
  },
  {
@@ -4031,7 +4031,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "822124304 "
  },
  {
@@ -4046,7 +4046,7 @@
   "portal": "cwi.scholarshipuniverse.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "260684268 "
  },
  {
@@ -4061,7 +4061,7 @@
   "portal": "nic.scholarshipuniverse.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "False",
   "ein": "826000936 "
  },
  {
@@ -4076,7 +4076,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "362482309 "
  },
  {
@@ -4091,7 +4091,7 @@
   "portal": "sandburg.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "370896983 "
  },
  {
@@ -4106,7 +4106,7 @@
   "portal": "ccc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "True",
   "ein": "362606236 "
  },
  {
@@ -4121,7 +4121,7 @@
   "portal": "ccc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "True",
   "ein": "362606236 "
  },
  {
@@ -4136,7 +4136,7 @@
   "portal": "ccc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "True",
   "ein": "362606236 "
  },
  {
@@ -4151,7 +4151,7 @@
   "portal": "ccc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "True",
   "ein": "362606230 "
  },
  {
@@ -4166,7 +4166,7 @@
   "portal": "ccc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "True",
   "ein": "362606236 "
  },
  {
@@ -4181,7 +4181,7 @@
   "portal": "ccc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "True",
   "ein": "362606236 "
  },
  {
@@ -4196,7 +4196,7 @@
   "portal": "ccc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "True",
   "ein": "362606236 "
  },
  {
@@ -4211,7 +4211,7 @@
   "portal": "ccc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "True",
   "ein": "362606236 "
  },
  {
@@ -4226,7 +4226,7 @@
   "portal": "cod.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "362594972 "
  },
  {
@@ -4241,7 +4241,7 @@
   "portal": "clcillinois.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "362648760 "
  },
  {
@@ -4256,7 +4256,7 @@
   "portal": "dacc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "370889813 "
  },
  {
@@ -4271,7 +4271,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "362600170 "
  },
  {
@@ -4286,7 +4286,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "370906196 "
  },
  {
@@ -4301,7 +4301,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "371271517 "
  },
  {
@@ -4316,7 +4316,7 @@
   "portal": "highland.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "362616076 "
  },
  {
@@ -4331,7 +4331,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "370892531 "
  },
  {
@@ -4346,7 +4346,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "370906196 "
  },
  {
@@ -4361,7 +4361,7 @@
   "portal": "ivcc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "362614257 "
  },
  {
@@ -4376,7 +4376,7 @@
   "portal": "jalc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "370905504 "
  },
  {
@@ -4391,7 +4391,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "421027794 "
  },
  {
@@ -4406,7 +4406,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "362638684 "
  },
  {
@@ -4421,7 +4421,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "362612340 "
  },
  {
@@ -4436,7 +4436,7 @@
   "portal": "kaskaskiascholarships.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "370892167 "
  },
  {
@@ -4451,7 +4451,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "362610920 "
  },
  {
@@ -4466,7 +4466,7 @@
   "portal": "lakelandcollege.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "370896233 "
  },
  {
@@ -4481,7 +4481,7 @@
   "portal": "lc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "370919339 "
  },
  {
@@ -4496,7 +4496,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "370900960 "
  },
  {
@@ -4511,7 +4511,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "370906196 "
  },
  {
@@ -4526,7 +4526,7 @@
   "portal": "mchenry.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "362640702 "
  },
  {
@@ -4541,7 +4541,7 @@
   "portal": "morainevalley.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "362614971 "
  },
  {
@@ -4556,7 +4556,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "362615274 "
  },
  {
@@ -4571,7 +4571,7 @@
   "portal": "oakton.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "362681999 "
  },
  {
@@ -4586,7 +4586,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "370906196 "
  },
  {
@@ -4601,7 +4601,7 @@
   "portal": "parkland.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "370892090 "
  },
  {
@@ -4616,7 +4616,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "362603931 "
  },
  {
@@ -4631,7 +4631,7 @@
   "portal": "rlc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "370899219 "
  },
  {
@@ -4646,7 +4646,7 @@
   "portal": "richland.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "370953403 "
  },
  {
@@ -4661,7 +4661,7 @@
   "portal": "rockvalleycollege.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "362557781 "
  },
  {
@@ -4676,7 +4676,7 @@
   "portal": "svcc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "362588599 "
  },
  {
@@ -4691,7 +4691,7 @@
   "portal": "shawneecc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "370903840 "
  },
  {
@@ -4706,7 +4706,7 @@
   "portal": "ssc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "362597699 "
  },
  {
@@ -4717,11 +4717,11 @@
   "website": "https://sic.edu",
   "locale": "Distant rural",
   "system": "Illinois Community College System",
-  "vendor": "ScholarshipUniverse",
-  "portal": "nic.scholarshipuniverse.com",
-  "evidence": "district-portal",
-  "status": "Competitor",
-  "shared_portal": true,
+  "vendor": "",
+  "portal": "",
+  "evidence": "crawled, portal belongs to a different college",
+  "status": "No platform found",
+  "shared_portal": "False",
   "ein": "370906582 "
  },
  {
@@ -4736,7 +4736,7 @@
   "portal": "swic.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "370896981 "
  },
  {
@@ -4751,7 +4751,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "370895488 "
  },
  {
@@ -4766,7 +4766,7 @@
   "portal": "triton.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "362537114 "
  },
  {
@@ -4781,7 +4781,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "370906196 "
  },
  {
@@ -4796,7 +4796,7 @@
   "portal": "waubonsee.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "366153030 "
  },
  {
@@ -4811,7 +4811,7 @@
   "portal": "harpercollege.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "362582782 "
  },
  {
@@ -4826,7 +4826,7 @@
   "portal": "ivytechsystem.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "351180631 "
  },
  {
@@ -4841,7 +4841,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "480697480 "
  },
  {
@@ -4856,7 +4856,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "480720175 "
  },
  {
@@ -4871,7 +4871,7 @@
   "portal": "butlercc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "480690383 "
  },
  {
@@ -4886,7 +4886,7 @@
   "portal": "cloudcountycommunitycollege.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "480732624 "
  },
  {
@@ -4901,7 +4901,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "480698570 "
  },
  {
@@ -4916,7 +4916,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "480698000 "
  },
  {
@@ -4931,7 +4931,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "480720889 "
  },
  {
@@ -4946,7 +4946,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "521718586 "
  },
  {
@@ -4961,7 +4961,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "522441491 "
  },
  {
@@ -4976,7 +4976,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "480723448 "
  },
  {
@@ -4991,7 +4991,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "480698107 "
  },
  {
@@ -5006,7 +5006,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "486025822 "
  },
  {
@@ -5021,7 +5021,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "480697529 "
  },
  {
@@ -5036,7 +5036,7 @@
   "portal": "indycc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "480720287 "
  },
  {
@@ -5051,7 +5051,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "480735009 "
  },
  {
@@ -5066,7 +5066,7 @@
   "portal": "kckccfoundation.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "480697720 "
  },
  {
@@ -5081,7 +5081,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "480698218 "
  },
  {
@@ -5096,7 +5096,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "830393371 "
  },
  {
@@ -5111,7 +5111,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "480698341 "
  },
  {
@@ -5126,7 +5126,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "480691131 "
  },
  {
@@ -5141,7 +5141,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "480690968 "
  },
  {
@@ -5156,7 +5156,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "480699112 "
  },
  {
@@ -5171,7 +5171,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "264364610 "
  },
  {
@@ -5186,7 +5186,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "480756704 "
  },
  {
@@ -5201,7 +5201,7 @@
   "portal": "wsutechfoundation.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "201027060 "
  },
  {
@@ -5216,7 +5216,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "611320380 "
  },
  {
@@ -5231,7 +5231,7 @@
   "portal": "kctcs.academicworks.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "611320380 "
  },
  {
@@ -5246,7 +5246,7 @@
   "portal": "kctcs.academicworks.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "611320380 "
  },
  {
@@ -5261,7 +5261,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "611320380 "
  },
  {
@@ -5276,7 +5276,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "611320380 "
  },
  {
@@ -5291,7 +5291,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "611320380 "
  },
  {
@@ -5306,7 +5306,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "611320380 "
  },
  {
@@ -5321,7 +5321,7 @@
   "portal": "kctcs.academicworks.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "611320380 "
  },
  {
@@ -5336,7 +5336,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "616001218 "
  },
  {
@@ -5351,7 +5351,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "611320380 "
  },
  {
@@ -5366,7 +5366,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "611320380 "
  },
  {
@@ -5381,7 +5381,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "611320380 "
  },
  {
@@ -5396,7 +5396,7 @@
   "portal": "kctcs.academicworks.com",
   "evidence": "district-portal",
   "status": "Competitor",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "611320380 "
  },
  {
@@ -5411,7 +5411,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "611320380 "
  },
  {
@@ -5426,7 +5426,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "611320380 "
  },
  {
@@ -5441,7 +5441,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "611320380 "
  },
  {
@@ -5456,7 +5456,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "611320380 "
  },
  {
@@ -5471,7 +5471,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "721334786 "
  },
  {
@@ -5486,7 +5486,7 @@
   "portal": "bpcc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "721380259 "
  },
  {
@@ -5501,7 +5501,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "272961167 "
  },
  {
@@ -5516,7 +5516,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "726012995 "
  },
  {
@@ -5531,7 +5531,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "720772772 "
  },
  {
@@ -5546,7 +5546,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "721506851 "
  },
  {
@@ -5561,7 +5561,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "726000848 "
  },
  {
@@ -5576,7 +5576,7 @@
   "portal": "northshorecollege.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "721470584 "
  },
  {
@@ -5591,7 +5591,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "721470584 "
  },
  {
@@ -5606,7 +5606,7 @@
   "portal": "nunez.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "721215360 "
  },
  {
@@ -5621,7 +5621,7 @@
   "portal": "rpcc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "721424618 "
  },
  {
@@ -5636,7 +5636,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "721470584 "
  },
  {
@@ -5651,7 +5651,7 @@
   "portal": "solacc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "721425264 "
  },
  {
@@ -5666,7 +5666,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "726000817 "
  },
  {
@@ -5681,7 +5681,7 @@
   "portal": "berkshirecc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "046002284 "
  },
  {
@@ -5696,7 +5696,7 @@
   "portal": "bristolcc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "046278794 "
  },
  {
@@ -5711,7 +5711,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "046002284 "
  },
  {
@@ -5726,7 +5726,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "046002284 "
  },
  {
@@ -5741,7 +5741,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "237090085 "
  },
  {
@@ -5756,7 +5756,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "042719849 "
  },
  {
@@ -5771,7 +5771,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "046002284 "
  },
  {
@@ -5786,7 +5786,7 @@
   "portal": "massasoit.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "046002284 "
  },
  {
@@ -5801,7 +5801,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "046002284 "
  },
  {
@@ -5816,7 +5816,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "046002284 "
  },
  {
@@ -5831,7 +5831,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "042687444 "
  },
  {
@@ -5846,7 +5846,7 @@
   "portal": "necc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "042498732 "
  },
  {
@@ -5861,7 +5861,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "042492727 "
  },
  {
@@ -5876,7 +5876,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "042726857 "
  },
  {
@@ -5891,7 +5891,7 @@
   "portal": "stcc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "042444774 "
  },
  {
@@ -5906,7 +5906,7 @@
   "portal": "allegany.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "520846757 "
  },
  {
@@ -5921,7 +5921,7 @@
   "portal": "aacc.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "520905706 "
  },
  {
@@ -5936,7 +5936,7 @@
   "portal": "bccc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "526002033 "
  },
  {
@@ -5951,7 +5951,7 @@
   "portal": "carrollcc.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "521806923 "
  },
  {
@@ -5966,7 +5966,7 @@
   "portal": "cecil.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "520908863 "
  },
  {
@@ -5981,7 +5981,7 @@
   "portal": "chesapeake.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "520824728 "
  },
  {
@@ -5996,7 +5996,7 @@
   "portal": "csmd.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "520848273 "
  },
  {
@@ -6011,7 +6011,7 @@
   "portal": "ccbcmd.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "521977456 "
  },
  {
@@ -6026,7 +6026,7 @@
   "portal": "rederick.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "520743590 "
  },
  {
@@ -6041,7 +6041,7 @@
   "portal": "garrett.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "520906659 "
  },
  {
@@ -6056,7 +6056,7 @@
   "portal": "hagerstowncc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "520945289 "
  },
  {
@@ -6071,7 +6071,7 @@
   "portal": "harford.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "520912842 "
  },
  {
@@ -6086,7 +6086,7 @@
   "portal": "howardcc.scholarshipuniverse.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "520900106 "
  },
  {
@@ -6101,7 +6101,7 @@
   "portal": "montgomerycollege.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "520891845 "
  },
  {
@@ -6116,7 +6116,7 @@
   "portal": "pgcc.academicworks.com",
   "evidence": "direct-probe",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "237011243 "
  },
  {
@@ -6131,7 +6131,7 @@
   "portal": "worwic.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "521048147 "
  },
  {
@@ -6146,7 +6146,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "010416015 "
  },
  {
@@ -6161,7 +6161,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "010416015 "
  },
  {
@@ -6172,11 +6172,11 @@
   "website": "https://kvcc.me.edu",
   "locale": "Remote town",
   "system": "Maine Community College System",
-  "vendor": "Blackbaud Award Management",
-  "portal": "kvcc.academicworks.com",
-  "evidence": "direct-probe",
-  "status": "Competitor",
-  "shared_portal": false,
+  "vendor": "",
+  "portal": "",
+  "evidence": "probed, portal belongs to a different college",
+  "status": "No platform found",
+  "shared_portal": "False",
   "ein": "010416015 "
  },
  {
@@ -6191,7 +6191,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "010416015 "
  },
  {
@@ -6206,7 +6206,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "010416015 "
  },
  {
@@ -6221,7 +6221,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "010416015 "
  },
  {
@@ -6236,7 +6236,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "010416015 "
  },
  {
@@ -6251,7 +6251,7 @@
   "portal": "baycollege.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "381711021 "
  },
  {
@@ -6266,7 +6266,7 @@
   "portal": "delta.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "386034011 "
  },
  {
@@ -6281,7 +6281,7 @@
   "portal": "glenoaks.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "381800033 "
  },
  {
@@ -6296,7 +6296,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "381816843 "
  },
  {
@@ -6311,7 +6311,7 @@
   "portal": "grcc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "382980195 "
  },
  {
@@ -6326,7 +6326,7 @@
   "portal": "kvcc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "381850178 "
  },
  {
@@ -6341,7 +6341,7 @@
   "portal": "kellogg.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "381942332 "
  },
  {
@@ -6356,7 +6356,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "010678043 "
  },
  {
@@ -6371,7 +6371,7 @@
   "portal": "kirtland.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "381855318 "
  },
  {
@@ -6386,7 +6386,7 @@
   "portal": "lakemichigancollege.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "381738980 "
  },
  {
@@ -6401,7 +6401,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "381787641 "
  },
  {
@@ -6416,7 +6416,7 @@
   "portal": "macomb.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "381717622 "
  },
  {
@@ -6431,7 +6431,7 @@
   "portal": "midmich.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "381812272 "
  },
  {
@@ -6446,7 +6446,7 @@
   "portal": "monroeccc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "386096311 "
  },
  {
@@ -6461,7 +6461,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "381790920 "
  },
  {
@@ -6476,7 +6476,7 @@
   "portal": "mcc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "381914697 "
  },
  {
@@ -6491,7 +6491,7 @@
   "portal": "muskegoncc.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "381717800 "
  },
  {
@@ -6506,7 +6506,7 @@
   "portal": "ncmich.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "381586760 "
  },
  {
@@ -6521,7 +6521,7 @@
   "portal": "oaklandcc.scholarshipuniverse.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "381751522 "
  },
  {
@@ -6536,7 +6536,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "386178758 "
  },
  {
@@ -6551,7 +6551,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "381786120 "
  },
  {
@@ -6566,7 +6566,7 @@
   "portal": "sc4.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "381857017 "
  },
  {
@@ -6581,7 +6581,7 @@
   "portal": "wccnet.scholarshipuniverse.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "381784300 "
  },
  {
@@ -6596,7 +6596,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "386157869 "
  },
  {
@@ -6611,7 +6611,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "381852447 "
  },
  {
@@ -6626,7 +6626,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "411687754 "
  },
  {
@@ -6641,7 +6641,7 @@
   "portal": "arcc-atc.awardspring.com",
   "evidence": "district-portal",
   "status": "AwardSpring customer",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "411687554 "
  },
  {
@@ -6656,7 +6656,7 @@
   "portal": "arcc-atc.awardspring.com",
   "evidence": "district-portal",
   "status": "AwardSpring customer",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "411687554 "
  },
  {
@@ -6671,7 +6671,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "416007162 "
  },
  {
@@ -6686,7 +6686,7 @@
   "portal": "centurycollege.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "411687554 "
  },
  {
@@ -6701,7 +6701,7 @@
   "portal": "dctcihcc.awardspring.com",
   "evidence": "district-portal",
   "status": "AwardSpring customer",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "411687554 "
  },
  {
@@ -6716,7 +6716,7 @@
   "portal": "hennepintechnicalcollege.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "411687554 "
  },
  {
@@ -6731,7 +6731,7 @@
   "portal": "dctcihcc.awardspring.com",
   "evidence": "district-portal",
   "status": "AwardSpring customer",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "411687554 "
  },
  {
@@ -6746,7 +6746,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "411687554 "
  },
  {
@@ -6761,7 +6761,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "411242052 "
  },
  {
@@ -6776,7 +6776,7 @@
   "portal": "minneapolis.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "411687554 "
  },
  {
@@ -6791,7 +6791,7 @@
   "portal": "minnesotanorth.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "411687554 "
  },
  {
@@ -6806,7 +6806,7 @@
   "portal": "southeastmn.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "411687554 "
  },
  {
@@ -6821,7 +6821,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "416007162 "
  },
  {
@@ -6836,7 +6836,7 @@
   "portal": "mnwest.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "411687554 "
  },
  {
@@ -6851,7 +6851,7 @@
   "portal": "normandale.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "411687554 "
  },
  {
@@ -6866,7 +6866,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "411687554 "
  },
  {
@@ -6881,7 +6881,7 @@
   "portal": "northland.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "411687554 "
  },
  {
@@ -6896,7 +6896,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "411687554 "
  },
  {
@@ -6911,7 +6911,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "411687554 "
  },
  {
@@ -6926,7 +6926,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "263031521 "
  },
  {
@@ -6941,7 +6941,7 @@
   "portal": "ridgewater.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "411687554 "
  },
  {
@@ -6956,7 +6956,7 @@
   "portal": "riverland.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "411687554 "
  },
  {
@@ -6971,7 +6971,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "411687554 "
  },
  {
@@ -6986,7 +6986,7 @@
   "portal": "saintpaul.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "411687554 "
  },
  {
@@ -7001,7 +7001,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "411687554 "
  },
  {
@@ -7016,7 +7016,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "411687554 "
  },
  {
@@ -7031,7 +7031,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "436000601 "
  },
  {
@@ -7046,7 +7046,7 @@
   "portal": "crowder.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "440668521 "
  },
  {
@@ -7061,7 +7061,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "430910391 "
  },
  {
@@ -7076,7 +7076,7 @@
   "portal": "jeffco.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "430793993 "
  },
  {
@@ -7091,7 +7091,7 @@
   "portal": "mcckc.scholarshipuniverse.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "430813703 "
  },
  {
@@ -7106,7 +7106,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "430829175 "
  },
  {
@@ -7121,7 +7121,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "431641443 "
  },
  {
@@ -7136,7 +7136,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "430908094 "
  },
  {
@@ -7151,7 +7151,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "431172503 "
  },
  {
@@ -7166,7 +7166,7 @@
   "portal": "stchas.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "431408103 "
  },
  {
@@ -7181,7 +7181,7 @@
   "portal": "sfccmo.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "430899766 "
  },
  {
@@ -7196,7 +7196,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "431731010 "
  },
  {
@@ -7211,7 +7211,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "430862849 "
  },
  {
@@ -7226,7 +7226,7 @@
   "portal": "coahomacc.scholarshipuniverse.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "640437624 "
  },
  {
@@ -7241,7 +7241,7 @@
   "portal": "colin.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "646000293 "
  },
  {
@@ -7256,7 +7256,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "646000329 "
  },
  {
@@ -7271,7 +7271,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "646000330 "
  },
  {
@@ -7286,7 +7286,7 @@
   "portal": "hindscc.scholarshipuniverse.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "646000453 "
  },
  {
@@ -7301,7 +7301,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "646011102 "
  },
  {
@@ -7316,7 +7316,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "646000500 "
  },
  {
@@ -7331,7 +7331,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "646000538 "
  },
  {
@@ -7346,7 +7346,7 @@
   "portal": "meridiancc.scholarshipuniverse.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "646035781 "
  },
  {
@@ -7361,7 +7361,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "640897726 "
  },
  {
@@ -7376,7 +7376,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "646001101 "
  },
  {
@@ -7391,7 +7391,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "646000964 "
  },
  {
@@ -7406,7 +7406,7 @@
   "portal": "nemcc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "646000913 "
  },
  {
@@ -7421,7 +7421,7 @@
   "portal": "northwestms.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "646001616 "
  },
  {
@@ -7436,7 +7436,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "646000960 "
  },
  {
@@ -7451,7 +7451,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "646001081 "
  },
  {
@@ -7466,7 +7466,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "810351900 "
  },
  {
@@ -7481,7 +7481,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "816000240 "
  },
  {
@@ -7496,7 +7496,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "810299199 "
  },
  {
@@ -7511,7 +7511,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "810374399 "
  },
  {
@@ -7526,7 +7526,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "810522790 "
  },
  {
@@ -7541,7 +7541,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "810302402 "
  },
  {
@@ -7556,7 +7556,7 @@
   "portal": "mtech.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "816001654 "
  },
  {
@@ -7571,7 +7571,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "810331905 "
  },
  {
@@ -7586,7 +7586,7 @@
   "portal": "milescc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "816000208 "
  },
  {
@@ -7601,7 +7601,7 @@
   "portal": "alamancecc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "566052379 "
  },
  {
@@ -7616,7 +7616,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560792170 "
  },
  {
@@ -7631,7 +7631,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560894923 "
  },
  {
@@ -7646,7 +7646,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560894927 "
  },
  {
@@ -7661,7 +7661,7 @@
   "portal": "blueridge.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560941830 "
  },
  {
@@ -7676,7 +7676,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "561255943 "
  },
  {
@@ -7691,7 +7691,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560817481 "
  },
  {
@@ -7706,7 +7706,7 @@
   "portal": "cfcc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560792881 "
  },
  {
@@ -7721,7 +7721,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560894932 "
  },
  {
@@ -7736,7 +7736,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560792028 "
  },
  {
@@ -7751,7 +7751,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560794261 "
  },
  {
@@ -7766,7 +7766,7 @@
   "portal": "cpcc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560797174 "
  },
  {
@@ -7781,7 +7781,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560848556 "
  },
  {
@@ -7796,7 +7796,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560851326 "
  },
  {
@@ -7811,7 +7811,7 @@
   "portal": "albemarle.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "566024012 "
  },
  {
@@ -7826,7 +7826,7 @@
   "portal": "cravencc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560893718 "
  },
  {
@@ -7841,7 +7841,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560792247 "
  },
  {
@@ -7856,7 +7856,7 @@
   "portal": "durhamtech.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560792513 "
  },
  {
@@ -7871,7 +7871,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560897301 "
  },
  {
@@ -7886,7 +7886,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560791849 "
  },
  {
@@ -7901,7 +7901,7 @@
   "portal": "orsythtech.scholarshipuniverse.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560792614 "
  },
  {
@@ -7916,7 +7916,7 @@
   "portal": "gaston.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560792292 "
  },
  {
@@ -7931,7 +7931,7 @@
   "portal": "gtcc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560792519 "
  },
  {
@@ -7946,7 +7946,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560896018 "
  },
  {
@@ -7961,7 +7961,7 @@
   "portal": "haywood.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560894341 "
  },
  {
@@ -7976,7 +7976,7 @@
   "portal": "isothermal.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560841505 "
  },
  {
@@ -7991,7 +7991,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560892755 "
  },
  {
@@ -8006,7 +8006,7 @@
   "portal": "johnstoncc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560937578 "
  },
  {
@@ -8021,7 +8021,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560753025 "
  },
  {
@@ -8036,7 +8036,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560895914 "
  },
  {
@@ -8051,7 +8051,7 @@
   "portal": "mayland.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560990134 "
  },
  {
@@ -8066,7 +8066,7 @@
   "portal": "mcdowelltech.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560991668 "
  },
  {
@@ -8081,7 +8081,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "561048429 "
  },
  {
@@ -8096,7 +8096,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560895349 "
  },
  {
@@ -8111,7 +8111,7 @@
   "portal": "nashcc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560895794 "
  },
  {
@@ -8126,7 +8126,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560894229 "
  },
  {
@@ -8141,7 +8141,7 @@
   "portal": "piedmontcc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560990351 "
  },
  {
@@ -8156,7 +8156,7 @@
   "portal": "pittcc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560793335 "
  },
  {
@@ -8171,7 +8171,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560793680 "
  },
  {
@@ -8186,7 +8186,7 @@
   "portal": "richmondcc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560818376 "
  },
  {
@@ -8201,7 +8201,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560891591 "
  },
  {
@@ -8216,7 +8216,7 @@
   "portal": "robesoncc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560894344 "
  },
  {
@@ -8231,7 +8231,7 @@
   "portal": "rockinghamcommunitycollege.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560812577 "
  },
  {
@@ -8246,7 +8246,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "042326660 "
  },
  {
@@ -8261,7 +8261,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560898811 "
  },
  {
@@ -8276,7 +8276,7 @@
   "portal": "sandhills.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560797051 "
  },
  {
@@ -8291,7 +8291,7 @@
   "portal": "spcc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560893801 "
  },
  {
@@ -8306,7 +8306,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560815200 "
  },
  {
@@ -8321,7 +8321,7 @@
   "portal": "southwesterncc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560894556 "
  },
  {
@@ -8336,7 +8336,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560994111 "
  },
  {
@@ -8351,7 +8351,7 @@
   "portal": "surry.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560841532 "
  },
  {
@@ -8366,7 +8366,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560896010 "
  },
  {
@@ -8381,7 +8381,7 @@
   "portal": "vgcc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560937968 "
  },
  {
@@ -8396,7 +8396,7 @@
   "portal": "waketech.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560792775 "
  },
  {
@@ -8411,7 +8411,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560792849 "
  },
  {
@@ -8426,7 +8426,7 @@
   "portal": "wpcc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560816544 "
  },
  {
@@ -8441,7 +8441,7 @@
   "portal": "wilkescc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "560846669 "
  },
  {
@@ -8456,7 +8456,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "566052568 "
  },
  {
@@ -8471,7 +8471,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "450350756 "
  },
  {
@@ -8486,7 +8486,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "456002445 "
  },
  {
@@ -8501,7 +8501,7 @@
   "portal": "lrsc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "450281889 "
  },
  {
@@ -8516,7 +8516,7 @@
   "portal": "ndscs.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "456002451 "
  },
  {
@@ -8531,7 +8531,7 @@
   "portal": "willistonstate.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "450324813 "
  },
  {
@@ -8546,7 +8546,7 @@
   "portal": "cccneb.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "470494188 "
  },
  {
@@ -8561,7 +8561,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "911849962 "
  },
  {
@@ -8576,7 +8576,7 @@
   "portal": "mccneb.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "470557228 "
  },
  {
@@ -8591,7 +8591,7 @@
   "portal": "mpcc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "470526576 "
  },
  {
@@ -8606,7 +8606,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "470049123 "
  },
  {
@@ -8621,7 +8621,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "470524851 "
  },
  {
@@ -8636,7 +8636,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "470549567 "
  },
  {
@@ -8651,7 +8651,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "476005299 "
  },
  {
@@ -8666,7 +8666,7 @@
   "portal": "ccsnh.awardspring.com",
   "evidence": "district-portal",
   "status": "AwardSpring customer",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "900531902 "
  },
  {
@@ -8681,7 +8681,7 @@
   "portal": "ccsnh.awardspring.com",
   "evidence": "district-portal",
   "status": "AwardSpring customer",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "900531902 "
  },
  {
@@ -8696,7 +8696,7 @@
   "portal": "ccsnh.awardspring.com",
   "evidence": "district-portal",
   "status": "AwardSpring customer",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "900531902 "
  },
  {
@@ -8711,7 +8711,7 @@
   "portal": "ccsnh.awardspring.com",
   "evidence": "district-portal",
   "status": "AwardSpring customer",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "900531902 "
  },
  {
@@ -8726,7 +8726,7 @@
   "portal": "ccsnh.awardspring.com",
   "evidence": "district-portal",
   "status": "AwardSpring customer",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "900531902 "
  },
  {
@@ -8741,7 +8741,7 @@
   "portal": "ccsnh.awardspring.com",
   "evidence": "district-portal",
   "status": "AwardSpring customer",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "900531902 "
  },
  {
@@ -8756,7 +8756,7 @@
   "portal": "ccsnh.awardspring.com",
   "evidence": "district-portal",
   "status": "AwardSpring customer",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "900531902 "
  },
  {
@@ -8771,7 +8771,7 @@
   "portal": "atlantic.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "237368159 "
  },
  {
@@ -8786,7 +8786,7 @@
   "portal": "bergen.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "221820506 "
  },
  {
@@ -8801,7 +8801,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "221849485 "
  },
  {
@@ -8816,7 +8816,7 @@
   "portal": "camdencc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "221821290 "
  },
  {
@@ -8831,7 +8831,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "221817724 "
  },
  {
@@ -8846,7 +8846,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "221821292 "
  },
  {
@@ -8861,7 +8861,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "222045990 "
  },
  {
@@ -8876,7 +8876,7 @@
   "portal": "mccc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "221804242 "
  },
  {
@@ -8891,7 +8891,7 @@
   "portal": "middlesexcc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "221769370 "
  },
  {
@@ -8906,7 +8906,7 @@
   "portal": "ocean.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "221757756 "
  },
  {
@@ -8921,7 +8921,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "221907901 "
  },
  {
@@ -8936,7 +8936,7 @@
   "portal": "raritanval.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "221815636 "
  },
  {
@@ -8951,7 +8951,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "221825538 "
  },
  {
@@ -8966,7 +8966,7 @@
   "portal": "rcsj.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "True",
   "ein": "226088440 "
  },
  {
@@ -8981,7 +8981,7 @@
   "portal": "rcsj.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "True",
   "ein": "226088440 "
  },
  {
@@ -8996,7 +8996,7 @@
   "portal": "salemcc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "221972013 "
  },
  {
@@ -9011,7 +9011,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "222379629 "
  },
  {
@@ -9026,7 +9026,7 @@
   "portal": "ucc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "221515225 "
  },
  {
@@ -9041,7 +9041,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "222376658 "
  },
  {
@@ -9056,7 +9056,7 @@
   "portal": "cnm.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "850172915 "
  },
  {
@@ -9071,7 +9071,7 @@
   "portal": "clovis.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "850390140 "
  },
  {
@@ -9086,7 +9086,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "856000286 "
  },
  {
@@ -9101,7 +9101,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "850400208 "
  },
  {
@@ -9116,7 +9116,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "850211646 "
  },
  {
@@ -9131,7 +9131,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "850273163 "
  },
  {
@@ -9146,7 +9146,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "850193990 "
  },
  {
@@ -9161,7 +9161,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "856000408 "
  },
  {
@@ -9176,7 +9176,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "856000401 "
  },
  {
@@ -9191,7 +9191,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "856000401 "
  },
  {
@@ -9206,7 +9206,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "856000401 "
  },
  {
@@ -9221,7 +9221,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "850295969 "
  },
  {
@@ -9236,7 +9236,7 @@
   "portal": "sfcc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "850311615 "
  },
  {
@@ -9251,7 +9251,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "863488411 "
  },
  {
@@ -9266,7 +9266,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "850197413 "
  },
  {
@@ -9281,7 +9281,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "856000642 "
  },
  {
@@ -9296,7 +9296,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "856000642 "
  },
  {
@@ -9311,7 +9311,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "856000642 "
  },
  {
@@ -9326,7 +9326,7 @@
   "portal": "unmvalencia.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "856000642 "
  },
  {
@@ -9341,7 +9341,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "136400434 "
  },
  {
@@ -9356,7 +9356,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "136017865 "
  },
  {
@@ -9371,7 +9371,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "136400434 "
  },
  {
@@ -9386,7 +9386,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "131988190 "
  },
  {
@@ -9401,7 +9401,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "136400434 "
  },
  {
@@ -9416,7 +9416,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "136400434 "
  },
  {
@@ -9431,7 +9431,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "136400434 "
  },
  {
@@ -9446,7 +9446,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "156007451 "
  },
  {
@@ -9461,7 +9461,7 @@
   "portal": "clintonscholarships.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "142981033 "
  },
  {
@@ -9476,7 +9476,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "141504452 "
  },
  {
@@ -9491,7 +9491,7 @@
   "portal": "sunydutchess.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "146012314 "
  },
  {
@@ -9506,7 +9506,7 @@
   "portal": "ecc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "113682643 "
  },
  {
@@ -9521,7 +9521,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "161336614 "
  },
  {
@@ -9536,7 +9536,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "166002650 "
  },
  {
@@ -9551,7 +9551,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "160920402 "
  },
  {
@@ -9566,7 +9566,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "160919625 "
  },
  {
@@ -9581,7 +9581,7 @@
   "portal": "hvcc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "146009464 "
  },
  {
@@ -9596,7 +9596,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "166002650 "
  },
  {
@@ -9611,7 +9611,7 @@
   "portal": "sunyjefferson.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "223065812 "
  },
  {
@@ -9626,7 +9626,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "161020948 "
  },
  {
@@ -9641,7 +9641,7 @@
   "portal": "monroecc.scholarshipuniverse.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "160849590 "
  },
  {
@@ -9656,7 +9656,7 @@
   "portal": "ncc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "116000463 "
  },
  {
@@ -9671,7 +9671,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "160867332 "
  },
  {
@@ -9686,7 +9686,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "141497536 "
  },
  {
@@ -9701,7 +9701,7 @@
   "portal": "sunyocc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "160973001 "
  },
  {
@@ -9716,7 +9716,7 @@
   "portal": "sunyorange.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "146004242 "
  },
  {
@@ -9731,7 +9731,7 @@
   "portal": "sunyrockland.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "133755303 "
  },
  {
@@ -9746,7 +9746,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "146013244 "
  },
  {
@@ -9761,7 +9761,7 @@
   "portal": "sunybroome.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "161393336 "
  },
  {
@@ -9776,7 +9776,7 @@
   "portal": "corningcc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "160820515 "
  },
  {
@@ -9791,7 +9791,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "136608356 "
  },
  {
@@ -9806,7 +9806,7 @@
   "portal": "sunysccc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "141503935 "
  },
  {
@@ -9821,7 +9821,7 @@
   "portal": "sunysuffolk.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "262415339 "
  },
  {
@@ -9836,7 +9836,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "146025111 "
  },
  {
@@ -9851,7 +9851,7 @@
   "portal": "tompkinscortland.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "160928736 "
  },
  {
@@ -9866,7 +9866,7 @@
   "portal": "sunyulster.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "146028097 "
  },
  {
@@ -9881,7 +9881,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "116000131 "
  },
  {
@@ -9896,7 +9896,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "310803587 "
  },
  {
@@ -9911,7 +9911,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "310749724 "
  },
  {
@@ -9926,7 +9926,7 @@
   "portal": "cscc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "310729591 "
  },
  {
@@ -9941,7 +9941,7 @@
   "portal": "tri-c.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "340896630 "
  },
  {
@@ -9956,7 +9956,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "341015707 "
  },
  {
@@ -9971,7 +9971,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "310836468 "
  },
  {
@@ -9986,7 +9986,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "310794924 "
  },
  {
@@ -10001,7 +10001,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "341011011 "
  },
  {
@@ -10016,7 +10016,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "346004371 "
  },
  {
@@ -10031,7 +10031,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "341003685 "
  },
  {
@@ -10046,7 +10046,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "316025986 "
  },
  {
@@ -10061,7 +10061,7 @@
   "portal": "owens.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "341059164 "
  },
  {
@@ -10076,7 +10076,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "310858297 "
  },
  {
@@ -10091,7 +10091,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "341055865 "
  },
  {
@@ -10106,7 +10106,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "341054067 "
  },
  {
@@ -10121,7 +10121,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "346401449 "
  },
  {
@@ -10136,7 +10136,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "346002924 "
  },
  {
@@ -10151,7 +10151,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "730933656 "
  },
  {
@@ -10166,7 +10166,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "730778224 "
  },
  {
@@ -10181,7 +10181,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "736017987 "
  },
  {
@@ -10196,7 +10196,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "352357683 "
  },
  {
@@ -10211,7 +10211,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "736017987 "
  },
  {
@@ -10226,7 +10226,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "474757537 "
  },
  {
@@ -10241,7 +10241,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "730773117 "
  },
  {
@@ -10256,7 +10256,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "730767065 "
  },
  {
@@ -10271,7 +10271,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "730953460 "
  },
  {
@@ -10286,7 +10286,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "731094545 "
  },
  {
@@ -10301,7 +10301,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "730953949 "
  },
  {
@@ -10316,7 +10316,7 @@
   "portal": "mscok.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "300885267 "
  },
  {
@@ -10331,7 +10331,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "736017987 "
  },
  {
@@ -10346,7 +10346,7 @@
   "portal": "noc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "731552496 "
  },
  {
@@ -10361,7 +10361,7 @@
   "portal": "occc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "736017987 "
  },
  {
@@ -10376,7 +10376,7 @@
   "portal": "redlandscc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "474770019 "
  },
  {
@@ -10391,7 +10391,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "474296697 "
  },
  {
@@ -10406,7 +10406,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "364812831 "
  },
  {
@@ -10421,7 +10421,7 @@
   "portal": "tulsacc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "736017987 "
  },
  {
@@ -10436,7 +10436,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "730964127 "
  },
  {
@@ -10451,7 +10451,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "731541762 "
  },
  {
@@ -10466,7 +10466,7 @@
   "portal": "bluecc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "930506536 "
  },
  {
@@ -10481,7 +10481,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "930505827 "
  },
  {
@@ -10496,7 +10496,7 @@
   "portal": "clackamas.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "930555710 "
  },
  {
@@ -10511,7 +10511,7 @@
   "portal": "clatsopcc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "930505508 "
  },
  {
@@ -10526,7 +10526,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "930700843 "
  },
  {
@@ -10541,7 +10541,7 @@
   "portal": "klamathcc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "931211933 "
  },
  {
@@ -10556,7 +10556,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "930546223 "
  },
  {
@@ -10571,7 +10571,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "930561307 "
  },
  {
@@ -10586,7 +10586,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "930951996 "
  },
  {
@@ -10601,7 +10601,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "930575187 "
  },
  {
@@ -10616,7 +10616,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "930591783 "
  },
  {
@@ -10631,7 +10631,7 @@
   "portal": "socc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "936015621 "
  },
  {
@@ -10646,7 +10646,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "930792039 "
  },
  {
@@ -10661,7 +10661,7 @@
   "portal": "tvcc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "930507187 "
  },
  {
@@ -10676,7 +10676,7 @@
   "portal": "umpqua.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "930519151 "
  },
  {
@@ -10691,7 +10691,7 @@
   "portal": "bucks.scholarshipuniverse.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "231646982 "
  },
  {
@@ -10706,7 +10706,7 @@
   "portal": "bc3.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "251154027 "
  },
  {
@@ -10721,7 +10721,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "251158058 "
  },
  {
@@ -10736,7 +10736,7 @@
   "portal": "ccac.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "256075057 "
  },
  {
@@ -10751,7 +10751,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "251180375 "
  },
  {
@@ -10766,7 +10766,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "236391672 "
  },
  {
@@ -10781,7 +10781,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "231685591 "
  },
  {
@@ -10796,7 +10796,7 @@
   "portal": "hacc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "231639151 "
  },
  {
@@ -10811,7 +10811,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "231740421 "
  },
  {
@@ -10826,7 +10826,7 @@
   "portal": "lccc.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "231670163 "
  },
  {
@@ -10841,7 +10841,7 @@
   "portal": "luzerne.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "231678363 "
  },
  {
@@ -10856,7 +10856,7 @@
   "portal": "mc3.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "231670325 "
  },
  {
@@ -10871,7 +10871,7 @@
   "portal": "northampton.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "236417444 "
  },
  {
@@ -10886,7 +10886,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "473530185 "
  },
  {
@@ -10901,7 +10901,7 @@
   "portal": "pennhighlands.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "251721929 "
  },
  {
@@ -10916,7 +10916,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "231745816 "
  },
  {
@@ -10931,7 +10931,7 @@
   "portal": "stevenscollege.scholarshipuniverse.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "270060517 "
  },
  {
@@ -10946,7 +10946,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "250965591 "
  },
  {
@@ -10961,7 +10961,7 @@
   "portal": "westmoreland.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "251208182 "
  },
  {
@@ -10976,7 +10976,7 @@
   "portal": "ccri.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "050353872 "
  },
  {
@@ -10991,7 +10991,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "570523399 "
  },
  {
@@ -11006,7 +11006,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "570425905 "
  },
  {
@@ -11021,7 +11021,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "570529056 "
  },
  {
@@ -11036,7 +11036,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "570424007 "
  },
  {
@@ -11051,7 +11051,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "570477152 "
  },
  {
@@ -11066,7 +11066,7 @@
   "portal": "midlandstech.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "570427788 "
  },
  {
@@ -11081,7 +11081,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "570510554 "
  },
  {
@@ -11096,7 +11096,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "570481987 "
  },
  {
@@ -11111,7 +11111,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "570476862 "
  },
  {
@@ -11126,7 +11126,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "570439615 "
  },
  {
@@ -11141,7 +11141,7 @@
   "portal": "tcl.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "570781070 "
  },
  {
@@ -11156,7 +11156,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "570428018 "
  },
  {
@@ -11171,7 +11171,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "570440170 "
  },
  {
@@ -11186,7 +11186,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "576001153 "
  },
  {
@@ -11201,7 +11201,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "576001153 "
  },
  {
@@ -11216,7 +11216,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "576001153 "
  },
  {
@@ -11231,7 +11231,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "576001153 "
  },
  {
@@ -11246,7 +11246,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "570518264 "
  },
  {
@@ -11261,7 +11261,7 @@
   "portal": "yorktech.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "576024198 "
  },
  {
@@ -11276,7 +11276,7 @@
   "portal": "lakeareatech.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "466001273 "
  },
  {
@@ -11291,7 +11291,7 @@
   "portal": "mitchelltech.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "466001338 "
  },
  {
@@ -11306,7 +11306,7 @@
   "portal": "southeasttech.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "466002586 "
  },
  {
@@ -11321,7 +11321,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "862647921 "
  },
  {
@@ -11336,7 +11336,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "620725362 "
  },
  {
@@ -11351,7 +11351,7 @@
   "portal": "clevelandstatecc.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "620762876 "
  },
  {
@@ -11366,7 +11366,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "620753450 "
  },
  {
@@ -11381,7 +11381,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "620800930 "
  },
  {
@@ -11396,7 +11396,7 @@
   "portal": "jscc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "620762815 "
  },
  {
@@ -11411,7 +11411,7 @@
   "portal": "mscc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "620800916 "
  },
  {
@@ -11426,7 +11426,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "620808901 "
  },
  {
@@ -11441,7 +11441,7 @@
   "portal": "northeaststate.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621033870 "
  },
  {
@@ -11456,7 +11456,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "620938734 "
  },
  {
@@ -11471,7 +11471,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "620819102 "
  },
  {
@@ -11486,7 +11486,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621834818 "
  },
  {
@@ -11501,7 +11501,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "620877872 "
  },
  {
@@ -11516,7 +11516,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "562654369 "
  },
  {
@@ -11531,7 +11531,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621175265 "
  },
  {
@@ -11546,7 +11546,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "371559128 "
  },
  {
@@ -11561,7 +11561,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621175267 "
  },
  {
@@ -11576,7 +11576,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621173750 "
  },
  {
@@ -11591,7 +11591,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621179459 "
  },
  {
@@ -11606,7 +11606,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621201668 "
  },
  {
@@ -11621,7 +11621,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621113186 "
  },
  {
@@ -11636,7 +11636,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621173860 "
  },
  {
@@ -11651,7 +11651,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621186170 "
  },
  {
@@ -11666,7 +11666,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621179444 "
  },
  {
@@ -11681,7 +11681,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621187300 "
  },
  {
@@ -11696,7 +11696,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621173748 "
  },
  {
@@ -11711,7 +11711,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621179447 "
  },
  {
@@ -11726,7 +11726,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621218952 "
  },
  {
@@ -11741,7 +11741,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621188195 "
  },
  {
@@ -11756,7 +11756,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621183243 "
  },
  {
@@ -11771,7 +11771,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621199309 "
  },
  {
@@ -11786,7 +11786,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621237951 "
  },
  {
@@ -11801,7 +11801,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621172289 "
  },
  {
@@ -11816,7 +11816,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621203232 "
  },
  {
@@ -11831,7 +11831,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621173859 "
  },
  {
@@ -11846,7 +11846,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "621187305 "
  },
  {
@@ -11861,7 +11861,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "-1        "
  },
  {
@@ -11876,7 +11876,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "270615592 "
  },
  {
@@ -11891,7 +11891,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "620818836 "
  },
  {
@@ -11906,7 +11906,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "620807429 "
  },
  {
@@ -11921,7 +11921,7 @@
   "portal": "alvincollege.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "741405330 "
  },
  {
@@ -11936,7 +11936,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "756000031 "
  },
  {
@@ -11951,7 +11951,7 @@
   "portal": "angelina.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "751244347 "
  },
  {
@@ -11966,7 +11966,7 @@
   "portal": "blinn.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "746000400 "
  },
  {
@@ -11981,7 +11981,7 @@
   "portal": "ctcd.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "741539003 "
  },
  {
@@ -11996,7 +11996,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "751164343 "
  },
  {
@@ -12011,7 +12011,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "756055652 "
  },
  {
@@ -12026,7 +12026,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "741542306 "
  },
  {
@@ -12041,7 +12041,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "741690850 "
  },
  {
@@ -12056,7 +12056,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "756001630 "
  },
  {
@@ -12071,7 +12071,7 @@
   "portal": "hillcollege.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "741404239 "
  },
  {
@@ -12086,7 +12086,7 @@
   "portal": "howardcollege.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "True",
   "ein": "756001827 "
  },
  {
@@ -12101,7 +12101,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "756001909 "
  },
  {
@@ -12116,7 +12116,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "760694136 "
  },
  {
@@ -12131,7 +12131,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "746000298 "
  },
  {
@@ -12146,7 +12146,7 @@
   "portal": "lamarpa.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "760658056 "
  },
  {
@@ -12161,7 +12161,7 @@
   "portal": "lee.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "746025566 "
  },
  {
@@ -12176,7 +12176,7 @@
   "portal": "mclennan.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "741541260 "
  },
  {
@@ -12191,7 +12191,7 @@
   "portal": "nctc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "751050382 "
  },
  {
@@ -12206,7 +12206,7 @@
   "portal": "alamo.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "True",
   "ein": "746002173 "
  },
  {
@@ -12221,7 +12221,7 @@
   "portal": "ntcc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "751963242 "
  },
  {
@@ -12236,7 +12236,7 @@
   "portal": "alamo.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "True",
   "ein": "746002173 "
  },
  {
@@ -12251,7 +12251,7 @@
   "portal": "alamo.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "True",
   "ein": "746002173 "
  },
  {
@@ -12266,7 +12266,7 @@
   "portal": "panola.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "751854775 "
  },
  {
@@ -12281,7 +12281,7 @@
   "portal": "parisjc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "756002205 "
  },
  {
@@ -12296,7 +12296,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "756002296 "
  },
  {
@@ -12311,7 +12311,7 @@
   "portal": "southplainscollege.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "756004667 "
  },
  {
@@ -12326,7 +12326,7 @@
   "portal": "howardcollege.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "True",
   "ein": "751914499 "
  },
  {
@@ -12341,7 +12341,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "746002420 "
  },
  {
@@ -12356,7 +12356,7 @@
   "portal": "alamo.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "True",
   "ein": "746002173 "
  },
  {
@@ -12371,7 +12371,7 @@
   "portal": "tccd.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "751217163 "
  },
  {
@@ -12386,7 +12386,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "746020689 "
  },
  {
@@ -12401,7 +12401,7 @@
   "portal": "texarkanacollege.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "756004413 "
  },
  {
@@ -12416,7 +12416,7 @@
   "portal": "tsc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "746002593 "
  },
  {
@@ -12431,7 +12431,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "741646989 "
  },
  {
@@ -12446,7 +12446,7 @@
   "portal": "vernoncollege.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "751325933 "
  },
  {
@@ -12461,7 +12461,7 @@
   "portal": "victoriacollege.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "746002452 "
  },
  {
@@ -12476,7 +12476,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "751310636 "
  },
  {
@@ -12491,7 +12491,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "746002562 "
  },
  {
@@ -12506,7 +12506,7 @@
   "portal": "slcc.scholarshipuniverse.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "876000448 "
  },
  {
@@ -12521,7 +12521,7 @@
   "portal": "brcc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "541268283 "
  },
  {
@@ -12536,7 +12536,7 @@
   "portal": "brightpoint.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "541268277 "
  },
  {
@@ -12551,7 +12551,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "008170630 "
  },
  {
@@ -12566,7 +12566,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "541268258 "
  },
  {
@@ -12581,7 +12581,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "541268269 "
  },
  {
@@ -12596,7 +12596,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "541268292 "
  },
  {
@@ -12611,7 +12611,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "541268266 "
  },
  {
@@ -12626,7 +12626,7 @@
   "portal": "laurelridge.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "541268293 "
  },
  {
@@ -12641,7 +12641,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "541268294 "
  },
  {
@@ -12656,7 +12656,7 @@
   "portal": "vccsscholarships.awardspring.com",
   "evidence": "district-portal",
   "status": "AwardSpring customer",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "541268274 "
  },
  {
@@ -12671,7 +12671,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "541268256 "
  },
  {
@@ -12686,7 +12686,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "541268263 "
  },
  {
@@ -12701,7 +12701,7 @@
   "portal": "patrickhenry.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "541268271 "
  },
  {
@@ -12716,7 +12716,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "541268245 "
  },
  {
@@ -12731,7 +12731,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "541268264 "
  },
  {
@@ -12746,7 +12746,7 @@
   "portal": "rappahannock.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "541268257 "
  },
  {
@@ -12761,7 +12761,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "546026876 "
  },
  {
@@ -12776,7 +12776,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "541268239 "
  },
  {
@@ -12791,7 +12791,7 @@
   "portal": "vccsscholarships.awardspring.com",
   "evidence": "district-portal",
   "status": "AwardSpring customer",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "541269325 "
  },
  {
@@ -12806,7 +12806,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "541268286 "
  },
  {
@@ -12821,7 +12821,7 @@
   "portal": "vccsscholarships.awardspring.com",
   "evidence": "district-portal",
   "status": "AwardSpring customer",
-  "shared_portal": true,
+  "shared_portal": "True",
   "ein": "541268289 "
  },
  {
@@ -12836,7 +12836,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "541268284 "
  },
  {
@@ -12851,7 +12851,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "541268273 "
  },
  {
@@ -12866,7 +12866,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "541268276 "
  },
  {
@@ -12881,7 +12881,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "030213787 "
  },
  {
@@ -12896,7 +12896,7 @@
   "portal": "batesfoundation.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "911526457 "
  },
  {
@@ -12911,7 +12911,7 @@
   "portal": "shoreline.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "965362995 "
  },
  {
@@ -12926,7 +12926,7 @@
   "portal": "spscc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "911409321 "
  },
  {
@@ -12941,7 +12941,7 @@
   "portal": "blackhawk.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "391104235 "
  },
  {
@@ -12956,7 +12956,7 @@
   "portal": "cvtc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "391096972 "
  },
  {
@@ -12971,7 +12971,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "391087276 "
  },
  {
@@ -12986,7 +12986,7 @@
   "portal": "gtc.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "396002792 "
  },
  {
@@ -13001,7 +13001,7 @@
   "portal": "gotoltc.awardspring.com",
   "evidence": "slug-match",
   "status": "AwardSpring customer",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "391086823 "
  },
  {
@@ -13016,7 +13016,7 @@
   "portal": "mstc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "391089584 "
  },
  {
@@ -13031,7 +13031,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "396003459 "
  },
  {
@@ -13046,7 +13046,7 @@
   "portal": "morainepark.scholarships.ngwebsolutions.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "391088212 "
  },
  {
@@ -13061,7 +13061,7 @@
   "portal": "nicoletcollege.scholarshipuniverse.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "391086910 "
  },
  {
@@ -13076,7 +13076,7 @@
   "portal": "ntc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "391077093 "
  },
  {
@@ -13091,7 +13091,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "391087141 "
  },
  {
@@ -13106,7 +13106,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "391176625 "
  },
  {
@@ -13121,7 +13121,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "391088496 "
  },
  {
@@ -13136,7 +13136,7 @@
   "portal": "wctc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "396005054 "
  },
  {
@@ -13151,7 +13151,7 @@
   "portal": "westerntc.academicworks.com",
   "evidence": "slug-match",
   "status": "Competitor",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "396002842 "
  },
  {
@@ -13166,7 +13166,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "412167984 "
  },
  {
@@ -13181,7 +13181,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "556000299 "
  },
  {
@@ -13196,7 +13196,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "465109796 "
  },
  {
@@ -13211,7 +13211,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "556000337 "
  },
  {
@@ -13226,7 +13226,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "550773516 "
  },
  {
@@ -13241,7 +13241,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "556000407 "
  },
  {
@@ -13256,7 +13256,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "556000358 "
  },
  {
@@ -13271,7 +13271,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "472045326 "
  },
  {
@@ -13286,7 +13286,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "113742937 "
  },
  {
@@ -13301,7 +13301,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "320260490 "
  },
  {
@@ -13316,7 +13316,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "556000332 "
  },
  {
@@ -13331,7 +13331,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "550524702 "
  },
  {
@@ -13346,7 +13346,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "550530182 "
  },
  {
@@ -13361,7 +13361,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "836001132 "
  },
  {
@@ -13376,7 +13376,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "836000874 "
  },
  {
@@ -13391,7 +13391,7 @@
   "portal": "",
   "evidence": "probed or crawled, nothing found",
   "status": "No platform found",
-  "shared_portal": false,
+  "shared_portal": "False",
   "ein": "836000221 "
  }
 ]

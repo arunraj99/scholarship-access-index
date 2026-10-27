@@ -55,13 +55,16 @@ address the college would have if it were a customer. This produces evidence in 
 directions, which is the single most useful property of the method. A college that is
 not a Blackbaud customer gets redirected to Blackbaud's own marketing page, with an
 identical page size every time. So one request returns either a confirmed customer
-or a **confirmed non-customer**. 435 such probes were run.
+or a **confirmed non-customer**. 435 such probes were run across two passes.
 
-**3. Verification.** Every probe hit must carry the institution's own name in the
-resulting page title. This caught a real error: the address `rbc.academicworks.com`
-resolves to a live portal, but it belongs to Red Bank Catholic, a high school, not to
-Richard Bland College. Without the name check that would have been a false
-identification.
+**3. Verification.** Every identification must carry the institution's own name in
+the resulting page title, or sit on a portal belonging to its own state system. Two
+colleges can share a short abbreviation, so this check matters more than it looks:
+`rbc.academicworks.com` is a live portal belonging to Red Bank Catholic, a high
+school, not to Richard Bland College. `ecc.academicworks.com` belongs to SUNY Erie,
+not to Ellsworth Community College in Iowa. `kvcc.academicworks.com` belongs to
+Kalamazoo Valley, not to Kennebec Valley in Maine. Five such collisions were
+caught and removed; each one would have been a false identification.
 
 ---
 
@@ -72,8 +75,10 @@ Those scholarships are often hosted on another institution's or a community
 foundation's portal. A naive text match counts those as the college's own software
 and inflates every figure.
 
-**119 colleges were rejected** on exactly this basis. Examples of addresses that
-appear on college pages but are not that college's system:
+**119 colleges were rejected** during the crawl for one of three reasons: roughly
+half linked only a generic form tool, roughly half linked a third-party funder's
+portal, and a handful linked a portal shared across unrelated states. Examples of
+addresses that appear on college pages but are not that college's system:
 
 - `stlouisgraduates.academicworks.com` — a St. Louis community foundation's scholarship
 - `dar.academicworks.com` — Daughters of the American Revolution
@@ -95,16 +100,16 @@ form is not a scholarship management system.
 
 ## Reading the three statuses
 
-**On a platform (408 campuses).** The college's own scholarship portal was found on a
+**On a platform (403 campuses).** The college's own scholarship portal was found on a
 vendor's domain, or it shares a portal with other campuses in its own district or
 system.
 
-**No platform found (485 campuses).** Nothing was found by crawl, and for a large
+**No platform found (490 campuses).** Nothing was found by crawl, and for a large
 share of these a direct probe returned positive confirmation that the college is not
 a customer. These colleges run their scholarship programs on spreadsheets, paper,
 PDF forms, generic form tools, or software built in-house.
 
-**Competitor (219 campuses).** A subset of "on a platform": the college runs a
+**Competitor (214 campuses).** A subset of "on a platform": the college runs a
 platform other than AwardSpring.
 
 ---
@@ -114,16 +119,16 @@ platform other than AwardSpring.
 | platform | campuses |
 |---|---|
 | AwardSpring | 189 |
-| Blackbaud Award Management | 140 |
+| Blackbaud Award Management | 136 |
 | NextGen Scholarship Manager | 55 |
-| ScholarshipUniverse | 24 |
+| ScholarshipUniverse | 23 |
 
 **These are detection floors, not customer counts.** The method only confirms a
 customer when the portal is reachable and verifiable from public pages, so it
 undercounts every vendor. AwardSpring states publicly that it serves about 300
 two-year colleges; this analysis identifies 189 of them. Both can be true.
 
-The "no platform found" figure of 485 is the more reliable number, because it rests
+The "no platform found" figure of 490 is the more reliable number, because it rests
 on confirmed negative evidence rather than on absence of evidence.
 
 A small number of colleges show evidence of two platforms, usually a college with its
@@ -134,27 +139,28 @@ preferring the portal whose address matches the college's own domain.
 
 ## How colleges buy
 
-Among the 408 campuses on a platform there are 360 distinct portals. Only 25 portals
-are shared, covering 73 campuses. That is **1.13 campuses per portal**.
+Among the 403 campuses on a platform there are 359 distinct portals. Only 21 portals
+are shared, covering 65 campuses. That is **1.12 campuses per portal**.
 
 Community colleges buy scholarship software per campus, not per district. This is
 worth stating because the obvious shortcut gives the wrong answer: collapsing
-campuses using the IPEDS system field suggests 759 buying entities, but that field
-records governance rather than purchasing. The California Community College System is
-a single row in IPEDS and roughly 96 independent buyers in practice.
+campuses using the IPEDS system field suggests 417 buying entities across this
+population, but that field records governance rather than purchasing. The California Community College System covers
+82 of these campuses under a single IPEDS row, and they buy independently.
 
 Across all 893 campuses the estimated number of distinct buying entities is **about
-845**.
+849**.
 
 ---
 
 ## Known limits
 
-- A platform was identified in **43 of the 47 states** that have qualifying
-  campuses. The four states where no campus was found on any platform are Florida
-  (24 campuses), West Virginia (13), Wyoming (3) and Vermont (1). Florida and West
-  Virginia were probed directly and the absence was confirmed; Wyoming and Vermont
-  have too few campuses for the result to carry weight either way.
+- A platform was identified in **42 of the 47 states** that have qualifying
+  campuses. The five states where no campus was found on any platform are Florida
+  (24 campuses), West Virginia (13), Maine (7), Wyoming (3) and Vermont (1). Florida
+  and West Virginia were probed directly and the absence was confirmed; Maine,
+  Wyoming and Vermont have few enough campuses that the result carries little
+  weight either way.
 - Florida, West Virginia and Connecticut initially showed zero detections. All three
   were probed directly. Only one customer was found across 72 probes, confirming the
   absence is real: Florida's entries in this population are district-run technical
