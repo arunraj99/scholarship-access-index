@@ -18,7 +18,7 @@ same detection method found 1 platform in 424 campuses. Those segments do not bu
 this software. Against the real buying universe of 893, ~300 customers is ~34%
 penetration, not ~23%.
 
-## Who the 395 run
+## Who the 408 run
 
 | vendor | campuses |
 |---|---|
@@ -52,15 +52,15 @@ Foundant GrantInterface, Submittable) or homegrown web forms.
 
 | | |
 |---|---|
-| detected campuses | 388 |
-| distinct portal hosts | 369 |
-| shared district portals | 21, covering 57 campuses |
-| **campuses per buyer** | **1.05** |
+| campuses on a platform | 408 |
+| distinct portal hosts | 360 |
+| shared district portals | 25, covering 73 campuses |
+| **campuses per buyer** | **1.13** |
 
 Community colleges buy per campus, not per district. An IPEDS system-field
 collapse gives 759 buyers and is wrong: it conflates governance with purchasing
 (California Community College System is one IPEDS row and ~96 independent
-buyers). Applied to 893, the buying universe is ~850 entities.
+buyers). Applied to 893, the buying universe is ~845 entities.
 
 ## What this is worth to a seller in this category
 
@@ -69,7 +69,7 @@ buyers). Applied to 893, the buying universe is ~850 entities.
 2. 485 named colleges run no platform at all. That is the largest single
    opportunity in the category and it is a list, not an estimate.
 3. 219 named colleges run a competitor and can be approached on renewal.
-4. NextGen is an unrecognised number-three competitor holding ~60 campuses.
+4. NextGen is an unrecognised number-three competitor holding ~55 campuses.
 5. Per-campus buying means territory and quota design should be per campus.
 
 ## Note on counting
