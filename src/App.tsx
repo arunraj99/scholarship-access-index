@@ -31,12 +31,15 @@ export default function App() {
 
   return (
     <div className="flex min-h-screen flex-col">
-      <header className="fixed inset-x-0 top-0 z-30 flex h-12 items-center justify-between bg-navy px-5 text-white">
-        <span className="text-sm font-semibold tracking-tight">Scholarship Access Index</span>
+      <header className="fixed inset-x-0 top-0 z-30 flex h-14 items-center justify-between bg-navy px-5 text-white">
+        <div className="leading-tight">
+          <div className="text-sm font-semibold tracking-tight">Community College Scholarship Access Index</div>
+          <div className="text-xs text-white/70">What 893 US public two-year colleges use to run their scholarship programs.</div>
+        </div>
         <span className="text-xs text-white/80">Built by Arun Raju Nandyala · October 2026</span>
       </header>
 
-      <nav className="fixed bottom-0 left-0 top-12 z-20 w-44 border-r border-line bg-white py-3">
+      <nav className="fixed bottom-0 left-0 top-14 z-20 w-44 border-r border-line bg-white py-3">
         {PAGES.map((p) => (
           <a
             key={p.id}
@@ -52,7 +55,7 @@ export default function App() {
         ))}
       </nav>
 
-      <div className="ml-44 flex min-w-0 flex-1 flex-col pt-12">
+      <div className="ml-44 flex min-w-0 flex-1 flex-col pt-14">
         <main className="flex-1 p-5">
           {page === 'colleges' && <CollegesPage />}
           {page === 'opportunity' && <OpportunityPage />}

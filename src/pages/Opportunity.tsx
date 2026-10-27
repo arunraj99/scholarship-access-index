@@ -100,7 +100,7 @@ function NoPlatformTab() {
       </div>
 
       <TableToolbar shown={rows.length} total={noPlatform.length} filterLabel={state} onClear={() => setState(null)} rows={rows} />
-      <CollegeTable rows={rows} sort={t.sort} onSort={t.onSort} onRowClick={t.setSelected} selectedId={t.selected?.unitid} height="calc(100vh - 140px)" />
+      <CollegeTable rows={rows} sort={t.sort} onSort={t.onSort} onRowClick={t.setSelected} selectedId={t.selected?.unitid} height="calc(100vh - 148px)" />
       <CollegeDrawer college={t.selected} onClose={t.close} />
     </>
   )
@@ -139,7 +139,7 @@ function CompetitorTab() {
         onRowClick={t.setSelected}
         selectedId={t.selected?.unitid}
         groupByVendor={COMPETITORS}
-        height="calc(100vh - 140px)"
+        height="calc(100vh - 148px)"
       />
       <CollegeDrawer college={t.selected} onClose={t.close} />
     </>

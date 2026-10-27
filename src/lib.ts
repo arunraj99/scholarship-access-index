@@ -22,7 +22,7 @@ export function nextSort(sort: SortState, key: SortKey): SortState {
   return { key, dir: sort.dir === 'asc' ? 'desc' : 'asc' }
 }
 
-export function exportCsv(rows: College[], filename = 'scholarship-access-index-export.csv') {
+export function exportCsv(rows: College[], filename = 'community-college-scholarship-access-index-export.csv') {
   const csv = Papa.unparse(rows, { columns: COLUMNS })
   const blob = new Blob([csv], { type: 'text/csv;charset=utf-8' })
   const url = URL.createObjectURL(blob)

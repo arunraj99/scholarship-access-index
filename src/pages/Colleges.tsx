@@ -72,7 +72,7 @@ export function CollegesPage() {
 
   return (
     <div className="flex gap-4">
-      <aside className="sticky top-[68px] h-[calc(100vh-88px)] w-56 shrink-0 overflow-y-auto border border-line bg-white text-sm">
+      <aside className="sticky top-[76px] h-[calc(100vh-96px)] w-56 shrink-0 overflow-y-auto border border-line bg-white text-sm">
         <div className="border-b border-line p-3">
           <input
             type="search"
@@ -170,7 +170,7 @@ export function CollegesPage() {
           onSort={onSort}
           onRowClick={setSelected}
           selectedId={selected?.unitid}
-          height="calc(100vh - 132px)"
+          height="calc(100vh - 140px)"
         />
       </section>
 
