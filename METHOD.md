@@ -11,8 +11,11 @@ Built by Arun Raju Nandyala, October 2026.
 ## What counts as a community college here
 
 The population is every **US public two-year college** listed in IPEDS HD2023, the
-federal directory of postsecondary institutions, restricted to open institutions in
-the 50 states and the District of Columbia. That is **893 campuses**.
+federal directory of postsecondary institutions, restricted to open institutions and
+excluding US territories. That is **893 campuses across 47 states**. Four
+jurisdictions have no qualifying campus at all: Alaska, Delaware, Nevada and the
+District of Columbia, none of which operate public two-year colleges in this
+category.
 
 Two adjacent groups were deliberately excluded after testing them:
 
@@ -147,8 +150,11 @@ Across all 893 campuses the estimated number of distinct buying entities is **ab
 
 ## Known limits
 
-- Coverage is 47 of 50 states. No platform was identified in Alaska, Delaware,
-  Vermont or Wyoming, which have between one and three qualifying campuses each.
+- A platform was identified in **43 of the 47 states** that have qualifying
+  campuses. The four states where no campus was found on any platform are Florida
+  (24 campuses), West Virginia (13), Wyoming (3) and Vermont (1). Florida and West
+  Virginia were probed directly and the absence was confirmed; Wyoming and Vermont
+  have too few campuses for the result to carry weight either way.
 - Florida, West Virginia and Connecticut initially showed zero detections. All three
   were probed directly. Only one customer was found across 72 probes, confirming the
   absence is real: Florida's entries in this population are district-run technical
