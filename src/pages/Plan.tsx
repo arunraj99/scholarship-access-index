@@ -5,61 +5,58 @@ import { Callout, Card, PageTitle } from '../Callout'
 const PHASES = [
   {
     when: 'Days 1 to 30',
-    goal: 'Listen, instrument, start the first test',
+    goal: 'Listen, fix tracking, start the first test',
     items: [
-      'Sit in on at least five SDR and AE calls a week, and talk to ten customers before rewriting any segment message.',
-      'Fix tracking: UTMs, campaign records and conversion events in GA4 and HubSpot, checked against real deals.',
-      `Give SDRs the call list every morning, starting with the ${callFirst.length} call-first accounts.`,
-      'Launch experiment 1 on the two-year list, with its holdout locked before launch.',
-      'Day 30 AI review: list every SDR and contractor task, with what is automated, what is next, and what it costs.',
+      "I'd sit in on SDR and AE calls every week, and talk to ten customers before rewriting any message.",
+      "I'd fix tracking first, so every campaign and meeting traces back to a real deal in HubSpot.",
+      `SDRs get a fresh call list every morning, starting with the ${callFirst.length} call-first colleges.`,
+      "I'd launch the first test on the two-year list, with the control group set before it starts.",
+      "By day 30, I'd list every manual SDR and contractor task, and which ones AI can take over.",
     ],
   },
   {
     when: 'Days 31 to 60',
-    goal: 'Read, kill or scale, and turn on the engine',
+    goal: 'Read the results, scale or stop, build the engine',
     items: [
-      'Read experiment 1 on day 21. Scale it to every account or kill it, and write down why.',
-      'Launch experiment 2 (competitor campuses) and experiment 3 (paid media with a state holdout).',
-      'GTM Engineer ships lead engine v1: verified contacts routed into SDR queues in HubSpot.',
-      'Foundations: answer inbound in under five minutes, with written rules for who is not a fit.',
-      'Four-year: a plan for one committee-focused event, built from customer interviews.',
+      'At three weeks I read the first test, then scale it or stop it, and write down why.',
+      'Then the next two tests: competitor campuses, and paid ads with a state control group.',
+      'With the GTM Engineer, I ship the first version of the lead engine: verified contacts going straight into SDR queues.',
+      "For foundations, I'd answer every inbound lead in under five minutes, with clear rules on who isn't a fit.",
+      "For four-year schools, I'd plan one event for the committees that buy, built from customer conversations.",
     ],
   },
   {
     when: 'Days 61 to 90',
-    goal: 'Run at full cadence',
+    goal: 'Run it every week',
     items: [
-      'Eight experiments a month, each with a hypothesis, read date and kill rule written before launch.',
-      'Move budget only to channels that showed lift against a holdout.',
-      'Publish peer proof content for two-year colleges, one state at a time, every claim sourced and dated.',
-      'Take the first Fund Platform category message to buyers, with proof from customers.',
-      'Send three lines under the dashboard every week: what moved, why, and what changes next.',
+      'Around eight tests a month, each with the expected result, read date and stop rule written down first.',
+      'Budget goes only to channels that beat their control group.',
+      'Peer content for two-year colleges, one state at a time, with every claim sourced and dated.',
+      'I take the Fund Platform message to buyers, backed by customer proof.',
+      'Every week, three lines under the dashboard: what moved, why, and what changes next.',
     ],
   },
 ]
 
 const NUMBERS = [
-  { n: 'Pipeline dollars created', how: 'Monthly, company wide. Baseline set in week 2 from HubSpot.' },
-  { n: 'First meetings held', how: 'Weekly, SDR and inbound booked. Experiment 1 reads directly on this.' },
-  { n: 'New recurring revenue vs plan', how: 'Quarterly. The 90 day plan feeds the next quarter, not this one.' },
+  { n: 'Pipeline dollars created', how: "Monthly. I'd set the baseline in week 2 from HubSpot." },
+  { n: 'First meetings held', how: 'Weekly. The first test reads directly on this.' },
+  { n: 'New recurring revenue', how: 'Quarterly. These 90 days build next quarter.' },
 ]
 
 const SEGMENTS = [
-  { s: 'Two-year colleges', play: `Call list plus peer proof. ${fmt(accounts.length)} accounts with no detectable platform, ranked. Built.` },
-  { s: 'Four-year universities', play: 'Committees buy. Lead with events and thought leadership, not cold lists. Plan by day 60.' },
-  { s: 'Foundations', play: 'Mostly inbound. Speed to first touch plus written disqualification rules. Live by day 45.' },
+  { s: 'Two-year colleges', play: `The call list and peer proof. ${fmt(accounts.length)} colleges, ranked and ready.` },
+  { s: 'Four-year universities', play: "Committees buy here, so I'd lead with events and ideas, not cold lists. Plan by day 60." },
+  { s: 'Foundations', play: "Mostly inbound. Fast first response and clear rules on who isn't a fit. Live by day 45." },
 ]
 
 export function PlanPage() {
   return (
     <div className="max-w-[1150px]">
-      <PageTitle
-        title="90 day plan"
-        sub="Written against the three numbers in the job description. Activity is listed only where it moves one of them."
-      />
+      <PageTitle title="90 day plan" sub="What I'd do in my first 90 days, and how I'd know it's working." />
 
-      <Callout big="One number first: pipeline dollars created.">
-        No MQL targets, no rebrand. Every item below either feeds the SDR call list, tests a channel against a holdout, or removes manual work.
+      <Callout big="I'd judge everything by pipeline created.">
+        If something doesn't fill the call list, prove itself against a control group, or save the team time, I wouldn't do it.
       </Callout>
 
       <div className="mt-4 grid grid-cols-3 gap-3">
@@ -75,7 +72,7 @@ export function PlanPage() {
       </div>
 
       <div className="mt-4 grid grid-cols-2 gap-3">
-        <Card title="Scored against your three numbers">
+        <Card title="How I'd measure it">
           <table className="w-full text-[13px]">
             <tbody>
               {NUMBERS.map((x) => (
@@ -86,9 +83,9 @@ export function PlanPage() {
               ))}
             </tbody>
           </table>
-          <p className="mt-2 text-xs text-stone-500">I don't know your current baselines, so targets get set with you by day 30, not guessed here.</p>
+          <p className="mt-2 text-xs text-stone-500">I don't know your baselines yet, so I'd set targets with you by day 30 rather than guess them here.</p>
         </Card>
-        <Card title="One play per segment">
+        <Card title="Where I'd start in each segment">
           <table className="w-full text-[13px]">
             <tbody>
               {SEGMENTS.map((x) => (

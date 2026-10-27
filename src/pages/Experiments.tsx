@@ -9,42 +9,42 @@ const competitorLive = colleges.filter((c) => c.status === 'Competitor' && c.uni
 const EXPERIMENTS = [
   {
     id: '1',
-    name: 'Peer proof email before the call',
+    name: 'A peer email before the call',
     rows: [
-      ['Hypothesis', 'An email naming AwardSpring peers in the same state, sent two days before the SDR call, raises first meetings held.'],
-      ['Audience', `The ${fmt(accounts.length)} operating colleges with no detectable platform. ${groupCount('Treatment')} treatment, ${groupCount('Holdout')} holdout, split at random within each tier.`],
-      ['Treatment vs holdout', 'Treatment: email on day 0, call on day 2. Holdout: call on day 2, no email. Every account still gets called.'],
-      ['Metric', 'First meetings held per 100 accounts.'],
-      ['Read date', 'Day 21 after launch.'],
-      ['Kill rule', 'Stop the email if treatment does not reach 1.5 times the holdout rate, or if unsubscribes pass 2%.'],
+      ['What I expect', 'An email naming nearby AwardSpring colleges, sent two days before the SDR call, will get more colleges to take a first meeting.'],
+      ['Who', `The ${fmt(accounts.length)} operating colleges with no platform. ${groupCount('Treatment')} in the test group, ${groupCount('Holdout')} in the control group, split at random within each tier.`],
+      ['Test vs control', 'Test group: email on day 0, call on day 2. Control group: call on day 2, no email. Every college still gets called.'],
+      ['Measured by', 'First meetings held per 100 colleges.'],
+      ['When I read it', 'Three weeks after launch.'],
+      ['When I stop it', "I stop the email if the test group doesn't book at least 1.5 times as many meetings as the control group, or if unsubscribes pass 2%."],
     ],
-    note: 'About 240 accounts per group can only show a big lift. If it reads as a tie, it is reported as a tie.',
+    note: "With about 240 colleges in each group, only a big lift will show. If it comes out even, I'll say so.",
   },
   {
     id: '2',
-    name: 'Switching offer for competitor campuses',
+    name: 'A switching offer for competitor campuses',
     rows: [
-      ['Hypothesis', 'Campuses on another platform respond to a concrete switching offer (we move your scholarships and past data over) more than to a general product email.'],
-      ['Audience', `The ${fmt(competitorLive)} operating campuses on a competitor. Split by portal, not campus, so a district sharing one portal is never in both groups.`],
-      ['Treatment vs holdout', 'Treatment: switching offer email plus call. Holdout: standard product email plus call.'],
-      ['Metric', 'First meetings held per 100 accounts.'],
-      ['Read date', 'Day 45, because switching has a longer cycle.'],
-      ['Kill rule', 'If there is no difference by day 45, drop the offer. SDRs then ask for renewal dates and the list is re-timed around those instead.'],
+      ['What I expect', 'Colleges on another platform will respond more to a concrete switching offer (we move your scholarships and past data over for you) than to a general product email.'],
+      ['Who', `The ${fmt(competitorLive)} operating campuses on a competitor. I'd split by portal, not campus, so a district sharing one portal never lands in both groups.`],
+      ['Test vs control', 'Test group: switching offer plus call. Control group: standard email plus call.'],
+      ['Measured by', 'First meetings held per 100 colleges.'],
+      ['When I read it', 'Day 45, because switching takes longer to decide.'],
+      ['When I stop it', "If there's no difference by day 45, I drop the offer. SDRs ask for renewal dates instead, and I re-time the list around them."],
     ],
-    note: 'The list comes from the Opportunity page, grouped by platform.',
+    note: 'The full list is on the Opportunity page, grouped by platform.',
   },
   {
     id: '3',
-    name: 'Paid media with a state holdout',
+    name: 'Paid ads, with states held back',
     rows: [
-      ['Hypothesis', 'Paid ads aimed at financial aid and foundation staff create meetings that would not have happened anyway.'],
-      ['Audience', 'States paired by number of target accounts. In each pair one state gets ads and the other stays dark. A coin flip decides which.'],
-      ['Treatment vs holdout', 'Same SDR effort in both arms. Only the ads differ.'],
-      ['Metric', 'First meetings held per account, exposed states vs dark states. Platform-reported conversions are not used.'],
-      ['Read date', 'Day 42.'],
-      ['Kill rule', 'If exposed states do not beat dark states, the budget goes back to calling.'],
+      ['What I expect', "Ads aimed at financial aid and foundation staff create meetings that wouldn't have happened anyway."],
+      ['Who', "I'd pair states with similar numbers of target colleges. In each pair, a coin flip decides which state sees ads and which stays dark."],
+      ['Test vs control', 'Same SDR effort in both. Only the ads differ.'],
+      ['Measured by', "First meetings per college, ad states vs dark states. I wouldn't use the ad platforms' own conversion numbers."],
+      ['When I read it', 'Six weeks after launch.'],
+      ['When I stop it', "If the ad states don't beat the dark states, the budget goes back into calling."],
     ],
-    note: 'This is the incrementality standard in the job description, applied to the channel it is hardest to prove.',
+    note: 'Ad platforms report their own results generously. This shows what the ads really added.',
   },
 ]
 
@@ -53,10 +53,10 @@ export function ExperimentsPage() {
     <div className="max-w-[1150px]">
       <PageTitle
         title="Experiments"
-        sub="The first three tests, written the way the posting asks: hypothesis, read date and kill rule set before launch. Each one has a holdout, so the result is a measured lift."
+        sub="The first three tests I'd run. Each one has a control group, so we see what the campaign added, not just what happened while it ran."
       />
-      <Callout big="Lift against a holdout, or it didn't happen.">
-        This census is what makes clean holdouts possible: because every college is already known, groups can be split at random instead of compared after the fact.
+      <Callout big="If it doesn't beat the control group, I'd stop it.">
+        Because every college is already mapped, I can split groups at random before launch instead of comparing after the fact.
       </Callout>
 
       <div className="mt-4 space-y-4">

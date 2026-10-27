@@ -10,11 +10,11 @@ const none = colleges.filter((c) => c.status === 'No platform found').length
 const withPeer = accounts.filter((a) => Number(a.awardspring_peers_in_state) > 0).length
 
 const GO = [
-  { href: '#/plan', label: '90 day plan', note: 'What I would do, in order, against your three numbers' },
-  { href: '#/calls', label: 'Call list', note: `${fmt(accounts.length)} accounts ranked, ${callFirst.length} to call first, pipeline model` },
-  { href: '#/experiments', label: 'Experiments', note: 'Three tests written in your format, with holdouts' },
-  { href: '#/engine', label: 'Lead engine', note: 'The spec I would hand the GTM Engineer' },
-  { href: '#/overview', label: 'Market research', note: 'The census behind all of it, with method and limits' },
+  { href: '#/plan', label: '90 day plan', note: "What I'd do first, in order" },
+  { href: '#/calls', label: 'Call list', note: `${fmt(accounts.length)} colleges ranked, ${callFirst.length} to call first, and what they could add to pipeline` },
+  { href: '#/experiments', label: 'Experiments', note: "The first three tests I'd run" },
+  { href: '#/engine', label: 'Lead engine', note: "How I'd work with your GTM Engineer" },
+  { href: '#/overview', label: 'Market research', note: 'The census behind all of it, how I built it, and its limits' },
 ]
 
 export function StartPage() {
@@ -22,38 +22,38 @@ export function StartPage() {
     <div className="max-w-[1100px]">
       <PageTitle
         title="Start here"
-        sub="I mapped every public two-year college in the US, found the ones running no scholarship platform, and turned that into the first 90 days of the Head of Marketing & Demand Gen role: who to call, what to say, and how to prove it worked."
+        sub="I wanted to see how far AwardSpring's lead in community colleges could go, so I mapped every public two-year college in the US and found the ones with no scholarship platform. This is what I'd do with that in my first 90 days: who we call, what we say, and how we know it worked."
       />
 
       <div className="grid grid-cols-2 gap-3">
-        <Callout big={<>{fmt(accounts.length)} colleges run no detectable platform. {callFirst.length} are ranked to call Monday.</>}>
-          Each one comes with a peer proof line and the financial aid page to start from.
+        <Callout big={<>{fmt(accounts.length)} operating colleges have no scholarship platform I could detect. I'd start calling {callFirst.length} of them on Monday.</>}>
+          Each one comes with a line naming AwardSpring colleges near it, and the page to start from.
         </Callout>
-        <Callout big="Every campaign ships with a holdout.">
-          The {fmt(accounts.length)} are already split into matched treatment and holdout groups, so lift in first meetings is measured, not claimed.
+        <Callout big="I'd hold back a control group on every campaign.">
+          The {fmt(accounts.length)} are already split in two at random. That way we know what a campaign actually added, not just what happened while it ran.
         </Callout>
-        <Callout big={<>{fmt(colleges.length)} colleges researched in two days, for under $10 of compute.</>}>
-          By hand, that is roughly 220 SDR hours at 15 minutes a college. That's the case for the day 30 AI review, made before day 1.
+        <Callout big={<>I researched {fmt(colleges.length)} colleges in two days, for under $10 of compute.</>}>
+          By hand, that's roughly 220 hours of SDR time at 15 minutes a college. I'd rather the team spent those hours on calls.
         </Callout>
-        <Callout big="A lead engine spec, ready for the GTM Engineer.">
-          Find, verify, enrich, score, route and refresh, with the rules this project already learned the hard way.
+        <Callout big="I wrote down how I'd build the lead engine with your GTM Engineer.">
+          Find, verify, enrich, score, route and refresh, using the rules I learned the hard way building this.
         </Callout>
       </div>
 
-      <Card title="This week, in three lines" className="mt-4">
+      <Card title="Where things stand, in three lines" className="mt-4">
         <dl className="grid grid-cols-[150px_1fr] gap-y-2 text-[14px] leading-relaxed">
           <dt className="font-semibold text-navy">What moved</dt>
           <dd>
-            Mapped {fmt(colleges.length)} public two-year colleges: {fmt(as)} on AwardSpring, {fmt(comp)} on a competitor, {fmt(none)} with
-            no detectable platform ({fmt(accounts.length)} still operating as separate colleges).
+            I mapped {fmt(colleges.length)} public two-year colleges: {fmt(as)} on AwardSpring, {fmt(comp)} on a competitor, and {fmt(none)} with no
+            platform I could detect. {fmt(accounts.length)} of those {fmt(none)} still operate as separate colleges today.
           </dd>
-          <dt className="font-semibold text-navy">Why</dt>
+          <dt className="font-semibold text-navy">Why it matters</dt>
           <dd>
-            Most of the gap is in states where AwardSpring already has customers: {fmt(withPeer)} of the {fmt(accounts.length)} have AwardSpring peers in
-            their state, which gives every call a peer proof line.
+            Most of the gap sits where AwardSpring already has customers. {fmt(withPeer)} of the {fmt(accounts.length)} have an AwardSpring college in
+            their own state, so every call can open with a peer they know.
           </dd>
-          <dt className="font-semibold text-navy">What changes next</dt>
-          <dd>Start experiment 1 on Monday: a peer proof email before the SDR call, against a call-only holdout. Read it on day 21.</dd>
+          <dt className="font-semibold text-navy">What I'd do next</dt>
+          <dd>Send a peer email before the SDR call to half the list, call the other half without it, and read the difference after three weeks.</dd>
         </dl>
       </Card>
 

@@ -48,7 +48,7 @@ function PipelineModel() {
             onClick={() => setScope(s)}
             className={`rounded border px-3 py-1 ${scope === s ? 'border-teal bg-teal/10 font-medium text-navy' : 'border-line text-stone-600 hover:border-stone-400'}`}
           >
-            {s === 'all' ? `All ${fmt(accounts.length)} accounts` : `Call first ${callFirst.length}`}
+            {s === 'all' ? `All ${fmt(accounts.length)} colleges` : `Call first ${callFirst.length}`}
           </button>
         ))}
       </div>
@@ -60,12 +60,12 @@ function PipelineModel() {
         <div className="border border-teal bg-teal/5 px-3 py-2">
           <div className="text-[11px] font-semibold uppercase tracking-wide text-stone-500">Pipeline created</div>
           <div className="text-2xl font-semibold text-navy">{money(pipeline)}</div>
-          <div className="text-xs text-stone-500">{fmt(Math.round(meetings))} meetings · {fmt(Math.round(opps))} opportunities</div>
+          <div className="text-xs text-stone-500">{meetings.toFixed(1)} meetings · {opps.toFixed(1)} opportunities</div>
         </div>
       </div>
       <p className="mt-3 text-xs leading-relaxed text-stone-500">
-        The rates are placeholders, so replace them with your HubSpot funnel. The contract value default is AwardSpring's publicly listed Pro price of $4,500 a year
-        (Capterra), which is probably below what a college pays. The model is here to show the method, not to forecast.
+        The rates are my placeholders, so swap in your real funnel from HubSpot. For contract value I used the only public price I could find, $4,500 a year for
+        the Pro plan on Capterra. College contracts are probably higher. This shows how I'd size it, not a forecast.
       </p>
     </Card>
   )
@@ -104,16 +104,16 @@ export function CallsPage() {
     <div className="max-w-[1300px]">
       <PageTitle
         title="Call list"
-        sub={`Every operating college with no detectable scholarship platform, ranked by public signals. The top ${callFirst.length} are spread across states, at most eight per state, so the first week covers more than one territory.`}
+        sub={`Every operating college where I couldn't find a scholarship platform, ranked by what I can see publicly. I spread the top ${callFirst.length} across states, eight at most per state, so the first week isn't one territory.`}
       />
 
       <div className="grid grid-cols-3 gap-3">
-        <Callout big={`${callFirst.length} accounts to call first`}>All Tier A. The biggest colleges in states where AwardSpring already has peers.</Callout>
+        <Callout big={`${callFirst.length} colleges to call first`}>All Tier A: the biggest colleges in states where AwardSpring already has customers.</Callout>
         <Callout big={`Tier A ${tierCount('A')} · B ${tierCount('B')} · C ${tierCount('C')}`}>
-          The score is size (0 to 3), plus 2 for an AwardSpring peer in the state, plus 1 if three or more campuses there already run a platform. A is 5 or more, B is 3 to 4, C is below 3.
+          How I ranked them: size (0 to 3 points), 2 points if an AwardSpring college is in the same state, and 1 more if three or more colleges there already use a platform. A is 5 or more, B is 3 to 4, C is below 3.
         </Callout>
-        <Callout big={`${groupCount('Treatment')} treatment · ${groupCount('Holdout')} holdout`}>
-          Split at random within each tier, and fixed, so experiment 1 has a clean comparison. Holdout accounts are still called, just without the email first.
+        <Callout big={`${groupCount('Treatment')} test · ${groupCount('Holdout')} control`}>
+          I split the list in two at random within each tier. Half get an email before the call, half get the call only. Everyone still gets called.
         </Callout>
       </div>
 
@@ -158,7 +158,7 @@ export function CallsPage() {
               <th className="px-3 py-2">Enrollment</th>
               <th className="px-3 py-2">Opening line</th>
               <th className="px-3 py-2">Who to call</th>
-              <th className="px-3 py-2">Group</th>
+              <th className="px-3 py-2">Test group</th>
             </tr>
           </thead>
           <tbody>
@@ -182,7 +182,7 @@ export function CallsPage() {
                     </a>
                   )}
                 </td>
-                <td className="px-3 py-2 text-xs text-stone-600">{a.group}</td>
+                <td className="px-3 py-2 text-xs text-stone-600">{a.group === 'Treatment' ? 'Test' : 'Control'}</td>
               </tr>
             ))}
           </tbody>
