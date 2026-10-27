@@ -35,6 +35,8 @@ function useActiveHeading(): string | null {
       for (const el of els) {
         if (el.getBoundingClientRect().top <= 120) current = el.id
       }
+      const atBottom = window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 2
+      if (atBottom && els.length) current = els[els.length - 1].id
       setActive(current)
     }
     onScroll()
