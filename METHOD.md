@@ -13,9 +13,23 @@ Built by Arun Raju Nandyala, October 2026.
 The population is every **US public two-year college** listed in IPEDS HD2023, the
 federal directory of postsecondary institutions, restricted to open institutions and
 excluding US territories. That is **893 campuses across 47 states**. Four
-jurisdictions have no qualifying campus at all: Alaska, Delaware, Nevada and the
-District of Columbia, none of which operate public two-year colleges in this
-category.
+jurisdictions contribute no campus: Alaska, Delaware, Nevada and the District of
+Columbia.
+
+**This definition is precise, reproducible, and narrower than everyday usage.** IPEDS
+classifies an institution by its highest award, so a community college that has begun
+offering a handful of bachelor's degrees is recorded as four-year and falls outside
+this population. **101 public institutions whose own names say community, technical,
+junior or state college are excluded for that reason**, including most of the Florida
+College System (Hillsborough, Daytona State, Florida SouthWestern and 15 others),
+Delaware Technical Community College, and Truckee Meadows in Nevada. That is why
+those three states appear thin or absent here.
+
+The 893 is the right population for a like-for-like comparison, because the
+"1,300 two-year colleges" figure commonly cited for this market uses the same IPEDS
+two-year definition. But a complete census of institutions that function as community
+colleges would be closer to **994**, and the missing 101 are a named, listed extension
+rather than an unknown.
 
 Two adjacent groups were deliberately excluded after testing them:
 
@@ -55,7 +69,10 @@ address the college would have if it were a customer. This produces evidence in 
 directions, which is the single most useful property of the method. A college that is
 not a Blackbaud customer gets redirected to Blackbaud's own marketing page, with an
 identical page size every time. So one request returns either a confirmed customer
-or a **confirmed non-customer**. 435 such probes were run across two passes.
+or a **confirmed non-customer**. **435 probes were run**, in two passes: 72 across the states where the crawl had
+found nothing, and 363 across the rest of the undetected set. That figure comes from
+the two run logs, not from the repo's probe URL list, which contains a larger planned
+set that was not fully executed.
 
 **3. Verification.** Every identification must carry the institution's own name in
 the resulting page title, or sit on a portal belonging to its own state system. Two
@@ -63,8 +80,9 @@ colleges can share a short abbreviation, so this check matters more than it look
 `rbc.academicworks.com` is a live portal belonging to Red Bank Catholic, a high
 school, not to Richard Bland College. `ecc.academicworks.com` belongs to SUNY Erie,
 not to Ellsworth Community College in Iowa. `kvcc.academicworks.com` belongs to
-Kalamazoo Valley, not to Kennebec Valley in Maine. Five such collisions were
-caught and removed; each one would have been a false identification.
+Kalamazoo Valley, not to Kennebec Valley in Maine. **Four such collisions were caught
+and removed**, along with one further college whose portal could not be attributed to
+it at all. Each would otherwise have been a false identification.
 
 ---
 
@@ -75,9 +93,10 @@ Those scholarships are often hosted on another institution's or a community
 foundation's portal. A naive text match counts those as the college's own software
 and inflates every figure.
 
-**119 colleges were rejected** during the crawl for one of three reasons: roughly
-half linked only a generic form tool, roughly half linked a third-party funder's
-portal, and a handful linked a portal shared across unrelated states. Examples of
+**119 college websites were rejected** during the crawl, of which 93 fall inside this
+analysis's 893 campuses; the remainder came from the wider initial crawl. The reasons
+split as 58 linking only a generic form tool, 52 linking a third-party funder's
+portal, 7 linking a portal shared across unrelated states, and 2 mixed. Examples of
 addresses that appear on college pages but are not that college's system:
 
 - `stlouisgraduates.academicworks.com` — a St. Louis community foundation's scholarship
@@ -87,7 +106,7 @@ addresses that appear on college pages but are not that college's system:
 Shared portals were kept only where they are genuinely one buyer serving several
 campuses. `arcc-atc.awardspring.com` serves Anoka Ramsey and Anoka Technical, which
 are one district. `ccc.academicworks.com` serves all eight City Colleges of Chicago
-campuses. These were confirmed by checking that every campus sharing a portal sits in
+rows in IPEDS, one of which is the district office. These were confirmed by checking that every campus sharing a portal sits in
 the same state or the same IPEDS system.
 
 Generic hosts were also excluded, because they carry no per-college signal: form and
@@ -166,6 +185,9 @@ Across all 893 campuses the estimated number of distinct buying entities is **ab
   absence is real: Florida's entries in this population are district-run technical
   centers, Connecticut consolidated its colleges into CT State in 2023, and West
   Virginia's colleges are on none of the four platforms.
+- 101 public colleges that function as community colleges are outside this
+  population because IPEDS classes them as four-year (they award some bachelor's
+  degrees). Florida is most affected. Extending to them is the obvious next pass.
 - The crawl was stopped once newly discovered colleges fell to roughly 5% of pages
   fetched. Additional crawling would add a small number of identifications.
 - A college that changed platforms recently may still show its previous portal if the
