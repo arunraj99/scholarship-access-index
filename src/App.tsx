@@ -1,14 +1,15 @@
 import { useEffect, useState } from 'react'
+import { FileText, LayoutDashboard, Table2, Target } from 'lucide-react'
 import { CollegesPage } from './pages/Colleges'
 import { OpportunityPage } from './pages/Opportunity'
 import { OverviewPage } from './pages/Overview'
 import { MethodPage } from './pages/Method'
 
 const PAGES = [
-  { id: 'overview', label: 'Overview' },
-  { id: 'colleges', label: 'Colleges' },
-  { id: 'opportunity', label: 'Opportunity' },
-  { id: 'method', label: 'Method' },
+  { id: 'overview', label: 'Overview', Icon: LayoutDashboard },
+  { id: 'colleges', label: 'Colleges', Icon: Table2 },
+  { id: 'opportunity', label: 'Opportunity', Icon: Target },
+  { id: 'method', label: 'Method', Icon: FileText },
 ] as const
 type PageId = (typeof PAGES)[number]['id']
 
@@ -44,12 +45,13 @@ export default function App() {
           <a
             key={p.id}
             href={`#/${p.id}`}
-            className={`block border-l-2 px-4 py-2 text-sm transition-colors duration-150 ${
+            className={`flex items-center gap-2.5 border-l-2 px-4 py-2 text-sm transition-colors duration-150 ${
               page === p.id
                 ? 'border-teal bg-paper font-medium text-navy'
                 : 'border-transparent text-stone-600 hover:bg-paper hover:text-navy'
             }`}
           >
+            <p.Icon size={18} aria-hidden="true" className="shrink-0" />
             {p.label}
           </a>
         ))}
