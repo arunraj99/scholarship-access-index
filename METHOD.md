@@ -205,6 +205,12 @@ Across all 893 campuses the estimated number of distinct buying entities is **ab
   fetched. Additional crawling would add a small number of identifications.
 - A college that changed platforms recently may still show its previous portal if the
   old link is still published.
+- The census follows the 2023 federal directory, and 13 of its campuses merged into
+  other colleges during 2023: 11 Connecticut campuses into CT State Community
+  College, and 2 Tennessee technical college campuses. They stay in every count here,
+  so the snapshot matches the directory. They are left off the call list, along with
+  CT State itself, whose merged Manchester campus runs Blackbaud. That leaves 477
+  operating colleges to call.
 - Snapshot date: 26 to 27 October 2026.
 
 ---

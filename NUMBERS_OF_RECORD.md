@@ -26,7 +26,24 @@ Last corrected: 2026-10-27, after a false-positive audit.
 | estimated distinct buying entities across the 893 | **~849** |
 | states with at least one identified platform | **42** |
 
+Plan pages (from `data/full/call_list.csv`, built by `scripts/build_call_list.py`):
+
+| figure | value |
+|---|---|
+| operating no-platform colleges on the call list | **477** (490 minus 12 merged, minus CT State) |
+| tiers | **A 107, B 295, C 75** |
+| experiment 1 groups | **240 treatment, 237 holdout** |
+| call first | **50**, all Tier A, at most 8 per state |
+| call list accounts with an AwardSpring campus in the same state | **398** |
+| operating competitor campuses | **213** (214 minus merged Manchester, CT) |
+
 ## Correction history
+
+**2026-10-27, fourth pass: merged campuses found.** While building the call list,
+13 rows turned out to be campuses IPEDS marks as merged during 2023 (CYACTIVE not 1):
+11 in Connecticut, 2 Tennessee technical college campuses. The census counts are left
+unchanged, as a snapshot of the directory, and the merged campuses are noted on the
+Overview and Method pages and excluded from the call list.
 
 **2026-10-27, third pass: five false identifications removed.** Short college
 abbreviations collide. A portal was being credited to whichever college shared its

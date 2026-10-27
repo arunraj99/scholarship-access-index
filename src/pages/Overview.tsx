@@ -21,6 +21,7 @@ const HOW_TO_READ = [
   "A college is marked as running a platform only when its own scholarship portal was found on that vendor's domain, or it shares a portal with other campuses in the same state or system.",
   `"No platform found" is based on confirmed negative evidence, not just absence: 435 direct portal probes were run, and a non-customer returns the vendor's own marketing page rather than a portal.`,
   "Private nonprofit and sub-2-year technical schools are excluded. The same method found 1 platform across 424 such campuses, so they are not in this market. A further 133 public institutions that Carnegie classifies as associate's or associate's-dominant sit outside this population because IPEDS classes them as four-year; see the Method page.",
+  'The census is a snapshot of the 2023 federal directory. 13 of its campuses merged into other colleges during 2023, 11 of them in Connecticut. They stay in the counts here for a like-for-like snapshot, and are left off the call list.',
 ]
 
 const tooltipStyle = { border: '1px solid #E2E0DA', borderRadius: 4, boxShadow: 'none', fontSize: 12, fontVariantNumeric: 'tabular-nums' }
