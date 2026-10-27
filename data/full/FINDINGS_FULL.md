@@ -85,3 +85,48 @@ Three genuine gaps needing the probe pass:
    name in the page title — `rbc.academicworks.com` is Red Bank Catholic, not
    Richard Bland College.
 2. Only then is a greenfield count publishable.
+
+---
+
+## Market definition correction (2026-10-27)
+
+Detection rate by IPEDS segment, same method applied to all three:
+
+| segment | campuses | detected | rate |
+|---|---|---|---|
+| public 2-year | 893 | 400 | 45% |
+| private nonprofit 2-year | 134 | 0 | 0% |
+| sub-2-year public/nonprofit (technical, trade) | 290 | 1 | 0.3% |
+
+A method that finds 45% in one segment and 0% in another is telling us about the
+market, not about itself. Scholarship management software is bought almost
+exclusively by public 2-year colleges. The other 424 campuses in our broad cut are
+barber academies, seminaries, BOCES career centers and district technical centers
+with no scholarship foundation to manage.
+
+**The addressable universe is ~893 public 2-year campuses, not 1,317.**
+
+Consequence for AwardSpring's own published figure: they cite "about 300 of the
+1,300 two-year colleges", i.e. ~23% penetration. Against the real buying universe
+of 893 that is ~34%, and the remaining opportunity is ~593 campuses rather than
+~1,000. Their position is better than they state and their runway is smaller.
+
+## Gap-state probe (run JuEGQfTnWsCbjsgOH)
+
+43 colleges in FL, WV and CT probed against all three probeable vendors.
+Result: **1 hit in 72 probes.**
+
+- Manchester CC (CT) confirmed on `manchestercc.academicworks.com`
+  ("MCC Foundation Scholarships Supporting CT State Community College Manchester Campus")
+- Every other AcademicWorks probe redirected to the Blackbaud marketing page
+  (identical 17,059-byte body), which is confirmed negative evidence.
+- Every NextGen and ScholarshipUniverse probe in these states failed to resolve.
+
+So the three "gap" states are not a crawler failure. Florida's entries in this cut
+are district-run technical centers that genuinely run no scholarship platform;
+Connecticut consolidated its colleges into CT State, which collapses that state to
+a handful of buyers; West Virginia's community and technical colleges are simply
+not on any of the four platforms.
+
+This is what licenses a greenfield number: we now have confirmed negative evidence,
+not just absence of evidence.
