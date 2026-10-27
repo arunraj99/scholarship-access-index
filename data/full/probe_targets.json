@@ -1,0 +1,3264 @@
+[
+ {
+  "unitid": "101143",
+  "name": "Enterprise State Community College",
+  "state": "AL",
+  "slug": "escc",
+  "dom": "escc.edu"
+ },
+ {
+  "unitid": "101286",
+  "name": "George C Wallace Community College-Dothan",
+  "state": "AL",
+  "slug": "wallace",
+  "dom": "wallace.edu"
+ },
+ {
+  "unitid": "101301",
+  "name": "George C Wallace State Community College-Selma",
+  "state": "AL",
+  "slug": "wccs",
+  "dom": "wccs.edu"
+ },
+ {
+  "unitid": "101462",
+  "name": "J. F. Drake State Community and Technical College",
+  "state": "AL",
+  "slug": "drakestate",
+  "dom": "drakestate.edu"
+ },
+ {
+  "unitid": "101569",
+  "name": "Lawson State Community College",
+  "state": "AL",
+  "slug": "lawsonstate",
+  "dom": "lawsonstate.edu"
+ },
+ {
+  "unitid": "101602",
+  "name": "Lurleen B Wallace Community College",
+  "state": "AL",
+  "slug": "lbwcc",
+  "dom": "lbwcc.edu"
+ },
+ {
+  "unitid": "101648",
+  "name": "Marion Military Institute",
+  "state": "AL",
+  "slug": "marionmilitary",
+  "dom": "marionmilitary.edu"
+ },
+ {
+  "unitid": "101736",
+  "name": "Northwest Shoals Community College",
+  "state": "AL",
+  "slug": "nwscc",
+  "dom": "nwscc.edu"
+ },
+ {
+  "unitid": "101994",
+  "name": "Reid State Technical College",
+  "state": "AL",
+  "slug": "rstc",
+  "dom": "rstc.edu"
+ },
+ {
+  "unitid": "102313",
+  "name": "H Councill Trenholm State Community College",
+  "state": "AL",
+  "slug": "trenholmstate",
+  "dom": "trenholmstate.edu"
+ },
+ {
+  "unitid": "102429",
+  "name": "Bevill State Community College",
+  "state": "AL",
+  "slug": "bscc",
+  "dom": "bscc.edu"
+ },
+ {
+  "unitid": "104577",
+  "name": "Eastern Arizona College",
+  "state": "AZ",
+  "slug": "eac",
+  "dom": "eac.edu"
+ },
+ {
+  "unitid": "105136",
+  "name": "Maricopa Community College System Office",
+  "state": "AZ",
+  "slug": "maricopa",
+  "dom": "maricopa.edu"
+ },
+ {
+  "unitid": "105154",
+  "name": "Mesa Community College",
+  "state": "AZ",
+  "slug": "mesacc",
+  "dom": "mesacc.edu"
+ },
+ {
+  "unitid": "105428",
+  "name": "Phoenix College",
+  "state": "AZ",
+  "slug": "phoenixcollege",
+  "dom": "phoenixcollege.edu"
+ },
+ {
+  "unitid": "105747",
+  "name": "Scottsdale Community College",
+  "state": "AZ",
+  "slug": "scottsdalecc",
+  "dom": "scottsdalecc.edu"
+ },
+ {
+  "unitid": "105792",
+  "name": "South Mountain Community College",
+  "state": "AZ",
+  "slug": "southmountaincc",
+  "dom": "southmountaincc.edu"
+ },
+ {
+  "unitid": "106449",
+  "name": "Arkansas State University-Beebe",
+  "state": "AR",
+  "slug": "asub",
+  "dom": "asub.edu"
+ },
+ {
+  "unitid": "106625",
+  "name": "Black River Technical College",
+  "state": "AR",
+  "slug": "blackrivertech",
+  "dom": "blackrivertech.edu"
+ },
+ {
+  "unitid": "106883",
+  "name": "East Arkansas Community College",
+  "state": "AR",
+  "slug": "eacc",
+  "dom": "eacc.edu"
+ },
+ {
+  "unitid": "106999",
+  "name": "University of Arkansas Community College-Batesville",
+  "state": "AR",
+  "slug": "uaccb",
+  "dom": "uaccb.edu"
+ },
+ {
+  "unitid": "107318",
+  "name": "Arkansas State University Mid-South",
+  "state": "AR",
+  "slug": "asumidsouth",
+  "dom": "asumidsouth.edu"
+ },
+ {
+  "unitid": "107327",
+  "name": "Arkansas Northeastern College",
+  "state": "AR",
+  "slug": "anc",
+  "dom": "anc.edu"
+ },
+ {
+  "unitid": "107460",
+  "name": "North Arkansas College",
+  "state": "AR",
+  "slug": "northark",
+  "dom": "northark.edu"
+ },
+ {
+  "unitid": "107521",
+  "name": "Arkansas State University Three Rivers",
+  "state": "AR",
+  "slug": "asutr",
+  "dom": "asutr.edu"
+ },
+ {
+  "unitid": "107549",
+  "name": "Ozarka College",
+  "state": "AR",
+  "slug": "ozarka",
+  "dom": "ozarka.edu"
+ },
+ {
+  "unitid": "107585",
+  "name": "University of Arkansas Community College-Morrilton",
+  "state": "AR",
+  "slug": "uaccm",
+  "dom": "uaccm.edu"
+ },
+ {
+  "unitid": "107619",
+  "name": "Phillips Community College of the University of Arkansas",
+  "state": "AR",
+  "slug": "pccua",
+  "dom": "pccua.edu"
+ },
+ {
+  "unitid": "107637",
+  "name": "Southeast Arkansas College",
+  "state": "AR",
+  "slug": "seark",
+  "dom": "seark.edu"
+ },
+ {
+  "unitid": "107725",
+  "name": "University of Arkansas Hope-Texarkana",
+  "state": "AR",
+  "slug": "uaht",
+  "dom": "uaht.edu"
+ },
+ {
+  "unitid": "107992",
+  "name": "Southern Arkansas University Tech",
+  "state": "AR",
+  "slug": "sautech",
+  "dom": "sautech.edu"
+ },
+ {
+  "unitid": "108667",
+  "name": "College of Alameda",
+  "state": "CA",
+  "slug": "alameda",
+  "dom": "alameda.edu"
+ },
+ {
+  "unitid": "108807",
+  "name": "Allan Hancock College",
+  "state": "CA",
+  "slug": "hancockcollege",
+  "dom": "hancockcollege.edu"
+ },
+ {
+  "unitid": "111461",
+  "name": "College of the Canyons",
+  "state": "CA",
+  "slug": "canyons",
+  "dom": "canyons.edu"
+ },
+ {
+  "unitid": "112172",
+  "name": "Citrus College",
+  "state": "CA",
+  "slug": "citruscollege",
+  "dom": "citruscollege.edu"
+ },
+ {
+  "unitid": "112376",
+  "name": "Coast Community College District Office",
+  "state": "CA",
+  "slug": "cccd",
+  "dom": "cccd.edu"
+ },
+ {
+  "unitid": "112686",
+  "name": "Compton College",
+  "state": "CA",
+  "slug": "compton",
+  "dom": "compton.edu"
+ },
+ {
+  "unitid": "112817",
+  "name": "Contra Costa Community College District Office",
+  "state": "CA",
+  "slug": "4cd",
+  "dom": "4cd.edu"
+ },
+ {
+  "unitid": "113333",
+  "name": "De Anza College",
+  "state": "CA",
+  "slug": "deanza",
+  "dom": "deanza.edu"
+ },
+ {
+  "unitid": "113980",
+  "name": "El Camino Community College District",
+  "state": "CA",
+  "slug": "elcamino",
+  "dom": "elcamino.edu"
+ },
+ {
+  "unitid": "120290",
+  "name": "Ohlone College",
+  "state": "CA",
+  "slug": "ohlone",
+  "dom": "ohlone.edu"
+ },
+ {
+  "unitid": "120342",
+  "name": "Orange Coast College",
+  "state": "CA",
+  "slug": "orangecoastcollege",
+  "dom": "orangecoastcollege.edu"
+ },
+ {
+  "unitid": "114789",
+  "name": "Fresno City College",
+  "state": "CA",
+  "slug": "fresnocitycollege",
+  "dom": "fresnocitycollege.edu"
+ },
+ {
+  "unitid": "115287",
+  "name": "Grossmont-Cuyamaca Community College District",
+  "state": "CA",
+  "slug": "gcccd",
+  "dom": "gcccd.edu"
+ },
+ {
+  "unitid": "115861",
+  "name": "Imperial Valley College",
+  "state": "CA",
+  "slug": "imperial",
+  "dom": "imperial.edu"
+ },
+ {
+  "unitid": "117247",
+  "name": "Laney College",
+  "state": "CA",
+  "slug": "laney",
+  "dom": "laney.edu"
+ },
+ {
+  "unitid": "117274",
+  "name": "Lassen Community College",
+  "state": "CA",
+  "slug": "lassencollege",
+  "dom": "lassencollege.edu"
+ },
+ {
+  "unitid": "117690",
+  "name": "Los Angeles Harbor College",
+  "state": "CA",
+  "slug": "lahc",
+  "dom": "lahc.edu"
+ },
+ {
+  "unitid": "117715",
+  "name": "Los Angeles Southwest College",
+  "state": "CA",
+  "slug": "lasc",
+  "dom": "lasc.edu"
+ },
+ {
+  "unitid": "117733",
+  "name": "Los Angeles Valley College",
+  "state": "CA",
+  "slug": "lavc",
+  "dom": "lavc.edu"
+ },
+ {
+  "unitid": "117788",
+  "name": "Los Angeles City College",
+  "state": "CA",
+  "slug": "lacitycollege",
+  "dom": "lacitycollege.edu"
+ },
+ {
+  "unitid": "117803",
+  "name": "Los Angeles County College of Nursing and Allied Health",
+  "state": "CA",
+  "slug": "dhs",
+  "dom": "dhs.lacounty.gov"
+ },
+ {
+  "unitid": "117867",
+  "name": "Los Angeles Mission College",
+  "state": "CA",
+  "slug": "lamission",
+  "dom": "lamission.edu"
+ },
+ {
+  "unitid": "120971",
+  "name": "Palomar College",
+  "state": "CA",
+  "slug": "palomar",
+  "dom": "palomar.edu"
+ },
+ {
+  "unitid": "122658",
+  "name": "San Joaquin Delta College",
+  "state": "CA",
+  "slug": "deltacollege",
+  "dom": "deltacollege.edu"
+ },
+ {
+  "unitid": "122746",
+  "name": "San Jose City College",
+  "state": "CA",
+  "slug": "sjcc",
+  "dom": "sjcc.edu"
+ },
+ {
+  "unitid": "123484",
+  "name": "College of the Siskiyous",
+  "state": "CA",
+  "slug": "siskiyous",
+  "dom": "siskiyous.edu"
+ },
+ {
+  "unitid": "123925",
+  "name": "State Center Community College District",
+  "state": "CA",
+  "slug": "scccd",
+  "dom": "scccd.edu"
+ },
+ {
+  "unitid": "124113",
+  "name": "Taft College",
+  "state": "CA",
+  "slug": "taftcollege",
+  "dom": "taftcollege.edu"
+ },
+ {
+  "unitid": "125019",
+  "name": "Ventura County Community College System Office",
+  "state": "CA",
+  "slug": "vcccd",
+  "dom": "vcccd.edu"
+ },
+ {
+  "unitid": "125028",
+  "name": "Ventura College",
+  "state": "CA",
+  "slug": "venturacollege",
+  "dom": "venturacollege.edu"
+ },
+ {
+  "unitid": "125091",
+  "name": "Victor Valley College",
+  "state": "CA",
+  "slug": "vvc",
+  "dom": "vvc.edu"
+ },
+ {
+  "unitid": "125170",
+  "name": "Berkeley City College",
+  "state": "CA",
+  "slug": "berkeleycitycollege",
+  "dom": "berkeleycitycollege.edu"
+ },
+ {
+  "unitid": "125462",
+  "name": "Coalinga College",
+  "state": "CA",
+  "slug": "westhillscollege",
+  "dom": "westhillscollege.com"
+ },
+ {
+  "unitid": "127389",
+  "name": "Lamar Community College",
+  "state": "CO",
+  "slug": "lamarcc",
+  "dom": "lamarcc.edu"
+ },
+ {
+  "unitid": "128151",
+  "name": "Pickens Technical College",
+  "state": "CO",
+  "slug": "pickenstech",
+  "dom": "pickenstech.org"
+ },
+ {
+  "unitid": "128577",
+  "name": "Asnuntuck Community College",
+  "state": "CT",
+  "slug": "asnuntuck",
+  "dom": "asnuntuck.edu"
+ },
+ {
+  "unitid": "129367",
+  "name": "Connecticut State Community College",
+  "state": "CT",
+  "slug": "ctstate",
+  "dom": "ctstate.edu"
+ },
+ {
+  "unitid": "129695",
+  "name": "Manchester Community College",
+  "state": "CT",
+  "slug": "manchestercc",
+  "dom": "manchestercc.edu"
+ },
+ {
+  "unitid": "129756",
+  "name": "Middlesex Community College",
+  "state": "CT",
+  "slug": "mxcc",
+  "dom": "mxcc.edu"
+ },
+ {
+  "unitid": "129808",
+  "name": "Three Rivers Community College",
+  "state": "CT",
+  "slug": "threerivers",
+  "dom": "threerivers.edu"
+ },
+ {
+  "unitid": "130040",
+  "name": "Northwestern Connecticut Community College",
+  "state": "CT",
+  "slug": "nwcc",
+  "dom": "nwcc.commnet.edu"
+ },
+ {
+  "unitid": "130217",
+  "name": "Quinebaug Valley Community College",
+  "state": "CT",
+  "slug": "qvcc",
+  "dom": "qvcc.edu"
+ },
+ {
+  "unitid": "130606",
+  "name": "Connecticut State Community College Tunxis",
+  "state": "CT",
+  "slug": "tunxis",
+  "dom": "tunxis.edu"
+ },
+ {
+  "unitid": "132374",
+  "name": "Atlantic Technical College",
+  "state": "FL",
+  "slug": "atlantictechnicalcollege",
+  "dom": "atlantictechnicalcollege.edu"
+ },
+ {
+  "unitid": "134291",
+  "name": "George Stone Technical College",
+  "state": "FL",
+  "slug": "georgestonecollege",
+  "dom": "georgestonecollege.edu"
+ },
+ {
+  "unitid": "135267",
+  "name": "Fort Myers Technical College",
+  "state": "FL",
+  "slug": "fortmyerstech",
+  "dom": "fortmyerstech.edu"
+ },
+ {
+  "unitid": "135294",
+  "name": "Lindsey Hopkins Technical College",
+  "state": "FL",
+  "slug": "lindseyhopkins",
+  "dom": "lindseyhopkins.edu"
+ },
+ {
+  "unitid": "135407",
+  "name": "Manatee Technical College",
+  "state": "FL",
+  "slug": "manateetech",
+  "dom": "manateetech.edu"
+ },
+ {
+  "unitid": "135647",
+  "name": "Miami Lakes Educational Center and Technical College",
+  "state": "FL",
+  "slug": "miamilakes",
+  "dom": "miamilakes.edu"
+ },
+ {
+  "unitid": "135735",
+  "name": "Orange Technical College-South Campus",
+  "state": "FL",
+  "slug": "orangetechcollege",
+  "dom": "orangetechcollege.net"
+ },
+ {
+  "unitid": "136491",
+  "name": "Pinellas Technical College-Clearwater",
+  "state": "FL",
+  "slug": "myptc",
+  "dom": "myptc.edu"
+ },
+ {
+  "unitid": "136659",
+  "name": "Radford M Locklin Technical College",
+  "state": "FL",
+  "slug": "locklintech",
+  "dom": "locklintech.com"
+ },
+ {
+  "unitid": "136826",
+  "name": "Robert Morgan Educational Center and Technical College",
+  "state": "FL",
+  "slug": "robertmorgantech",
+  "dom": "robertmorgantech.net"
+ },
+ {
+  "unitid": "137120",
+  "name": "Suncoast Technical College",
+  "state": "FL",
+  "slug": "sarasotacountyschools",
+  "dom": "sarasotacountyschools.net"
+ },
+ {
+  "unitid": "137245",
+  "name": "Sheridan Technical College",
+  "state": "FL",
+  "slug": "sheridantechnicalcollege",
+  "dom": "sheridantechnicalcollege.edu"
+ },
+ {
+  "unitid": "141006",
+  "name": "South Georgia Technical College",
+  "state": "GA",
+  "slug": "southgatech",
+  "dom": "southgatech.edu"
+ },
+ {
+  "unitid": "137713",
+  "name": "Riveroak Technical College",
+  "state": "FL",
+  "slug": "rtc",
+  "dom": "rtc.suwannee.k12.fl.us"
+ },
+ {
+  "unitid": "138479",
+  "name": "William T McFatter Technical College",
+  "state": "FL",
+  "slug": "mcfattertechnicalcollege",
+  "dom": "mcfattertechnicalcollege.edu"
+ },
+ {
+  "unitid": "138497",
+  "name": "Withlacoochee Technical College",
+  "state": "FL",
+  "slug": "wtcollege",
+  "dom": "wtcollege.org"
+ },
+ {
+  "unitid": "138682",
+  "name": "Albany Technical College",
+  "state": "GA",
+  "slug": "albanytech",
+  "dom": "albanytech.edu"
+ },
+ {
+  "unitid": "139278",
+  "name": "West Georgia Technical College",
+  "state": "GA",
+  "slug": "westgatech",
+  "dom": "westgatech.edu"
+ },
+ {
+  "unitid": "139746",
+  "name": "Grady Health System Professional Schools",
+  "state": "GA",
+  "slug": "gradyhealth",
+  "dom": "gradyhealth.org"
+ },
+ {
+  "unitid": "140243",
+  "name": "Lanier Technical College",
+  "state": "GA",
+  "slug": "laniertech",
+  "dom": "laniertech.edu"
+ },
+ {
+  "unitid": "141811",
+  "name": "Leeward Community College",
+  "state": "HI",
+  "slug": "leeward",
+  "dom": "leeward.hawaii.edu"
+ },
+ {
+  "unitid": "142179",
+  "name": "College of Eastern Idaho",
+  "state": "ID",
+  "slug": "cei",
+  "dom": "cei.edu"
+ },
+ {
+  "unitid": "143279",
+  "name": "Black Hawk College",
+  "state": "IL",
+  "slug": "bhc",
+  "dom": "bhc.edu"
+ },
+ {
+  "unitid": "144944",
+  "name": "Elgin Community College",
+  "state": "IL",
+  "slug": "elgin",
+  "dom": "elgin.edu"
+ },
+ {
+  "unitid": "145682",
+  "name": "Illinois Central College",
+  "state": "IL",
+  "slug": "icc",
+  "dom": "icc.edu"
+ },
+ {
+  "unitid": "145707",
+  "name": "Olney Central College",
+  "state": "IL",
+  "slug": "iecc",
+  "dom": "iecc.edu"
+ },
+ {
+  "unitid": "146278",
+  "name": "John Wood Community College",
+  "state": "IL",
+  "slug": "jwcc",
+  "dom": "jwcc.edu"
+ },
+ {
+  "unitid": "146296",
+  "name": "Joliet Junior College",
+  "state": "IL",
+  "slug": "jjc",
+  "dom": "jjc.edu"
+ },
+ {
+  "unitid": "146348",
+  "name": "Kankakee Community College",
+  "state": "IL",
+  "slug": "kcc",
+  "dom": "kcc.edu"
+ },
+ {
+  "unitid": "146418",
+  "name": "Kishwaukee College",
+  "state": "IL",
+  "slug": "kish",
+  "dom": "kish.edu"
+ },
+ {
+  "unitid": "146685",
+  "name": "Lincoln Land Community College",
+  "state": "IL",
+  "slug": "llcc",
+  "dom": "llcc.edu"
+ },
+ {
+  "unitid": "147411",
+  "name": "Morton College",
+  "state": "IL",
+  "slug": "morton",
+  "dom": "morton.edu"
+ },
+ {
+  "unitid": "148007",
+  "name": "Prairie State College",
+  "state": "IL",
+  "slug": "prairiestate",
+  "dom": "prairiestate.edu"
+ },
+ {
+  "unitid": "148991",
+  "name": "Spoon River College",
+  "state": "IL",
+  "slug": "src",
+  "dom": "src.edu"
+ },
+ {
+  "unitid": "153296",
+  "name": "Ellsworth Community College",
+  "state": "IA",
+  "slug": "ecc",
+  "dom": "ecc.iavalley.edu"
+ },
+ {
+  "unitid": "153311",
+  "name": "Eastern Iowa Community College District",
+  "state": "IA",
+  "slug": "eicc",
+  "dom": "eicc.edu"
+ },
+ {
+  "unitid": "153922",
+  "name": "Marshalltown Community College",
+  "state": "IA",
+  "slug": "mcc",
+  "dom": "mcc.iavalley.edu"
+ },
+ {
+  "unitid": "154110",
+  "name": "Northeast Iowa Community College",
+  "state": "IA",
+  "slug": "nicc",
+  "dom": "nicc.edu"
+ },
+ {
+  "unitid": "154396",
+  "name": "Southwestern Community College",
+  "state": "IA",
+  "slug": "swcciowa",
+  "dom": "swcciowa.edu"
+ },
+ {
+  "unitid": "154572",
+  "name": "Western Iowa Tech Community College",
+  "state": "IA",
+  "slug": "witcc",
+  "dom": "witcc.edu"
+ },
+ {
+  "unitid": "154642",
+  "name": "Allen County Community College",
+  "state": "KS",
+  "slug": "allencc",
+  "dom": "allencc.edu"
+ },
+ {
+  "unitid": "154697",
+  "name": "Barton County Community College",
+  "state": "KS",
+  "slug": "bartonccc",
+  "dom": "bartonccc.edu"
+ },
+ {
+  "unitid": "154925",
+  "name": "Coffeyville Community College",
+  "state": "KS",
+  "slug": "coffeyville",
+  "dom": "coffeyville.edu"
+ },
+ {
+  "unitid": "154934",
+  "name": "Colby Community College",
+  "state": "KS",
+  "slug": "colbycc",
+  "dom": "colbycc.edu"
+ },
+ {
+  "unitid": "154952",
+  "name": "Cowley County Community College",
+  "state": "KS",
+  "slug": "cowley",
+  "dom": "cowley.edu"
+ },
+ {
+  "unitid": "154998",
+  "name": "Dodge City Community College",
+  "state": "KS",
+  "slug": "dc3",
+  "dom": "dc3.edu"
+ },
+ {
+  "unitid": "155052",
+  "name": "Flint Hills Technical College",
+  "state": "KS",
+  "slug": "fhtc",
+  "dom": "fhtc.edu"
+ },
+ {
+  "unitid": "155098",
+  "name": "Fort Scott Community College",
+  "state": "KS",
+  "slug": "fortscott",
+  "dom": "fortscott.edu"
+ },
+ {
+  "unitid": "155104",
+  "name": "Garden City Community College",
+  "state": "KS",
+  "slug": "gcccks",
+  "dom": "gcccks.edu"
+ },
+ {
+  "unitid": "155186",
+  "name": "Highland Community College",
+  "state": "KS",
+  "slug": "highlandcc",
+  "dom": "highlandcc.edu"
+ },
+ {
+  "unitid": "155195",
+  "name": "Hutchinson Community College",
+  "state": "KS",
+  "slug": "hutchcc",
+  "dom": "hutchcc.edu"
+ },
+ {
+  "unitid": "155210",
+  "name": "Johnson County Community College",
+  "state": "KS",
+  "slug": "jccc",
+  "dom": "jccc.edu"
+ },
+ {
+  "unitid": "155450",
+  "name": "Labette Community College",
+  "state": "KS",
+  "slug": "labette",
+  "dom": "labette.edu"
+ },
+ {
+  "unitid": "155487",
+  "name": "Manhattan Area Technical College",
+  "state": "KS",
+  "slug": "manhattantech",
+  "dom": "manhattantech.edu"
+ },
+ {
+  "unitid": "155566",
+  "name": "Neosho County Community College",
+  "state": "KS",
+  "slug": "neosho",
+  "dom": "neosho.edu"
+ },
+ {
+  "unitid": "155593",
+  "name": "North Central Kansas Technical College",
+  "state": "KS",
+  "slug": "ncktc",
+  "dom": "ncktc.edu"
+ },
+ {
+  "unitid": "155618",
+  "name": "Northwest Kansas Technical College",
+  "state": "KS",
+  "slug": "nwktc",
+  "dom": "nwktc.edu"
+ },
+ {
+  "unitid": "155715",
+  "name": "Pratt Community College",
+  "state": "KS",
+  "slug": "prattcc",
+  "dom": "prattcc.edu"
+ },
+ {
+  "unitid": "155830",
+  "name": "Salina Area Technical College",
+  "state": "KS",
+  "slug": "salinatech",
+  "dom": "salinatech.edu"
+ },
+ {
+  "unitid": "155858",
+  "name": "Seward County Community College",
+  "state": "KS",
+  "slug": "sccc",
+  "dom": "sccc.edu"
+ },
+ {
+  "unitid": "156231",
+  "name": "Ashland Community and Technical College",
+  "state": "KY",
+  "slug": "ashland",
+  "dom": "ashland.kctcs.edu"
+ },
+ {
+  "unitid": "156338",
+  "name": "Southcentral Kentucky Community and Technical College",
+  "state": "KY",
+  "slug": "southcentral",
+  "dom": "southcentral.kctcs.edu"
+ },
+ {
+  "unitid": "156648",
+  "name": "Elizabethtown Community and Technical College",
+  "state": "KY",
+  "slug": "elizabethtown",
+  "dom": "elizabethtown.kctcs.edu"
+ },
+ {
+  "unitid": "156790",
+  "name": "Hazard Community and Technical College",
+  "state": "KY",
+  "slug": "hazard",
+  "dom": "hazard.kctcs.edu"
+ },
+ {
+  "unitid": "156851",
+  "name": "Henderson Community College",
+  "state": "KY",
+  "slug": "henderson",
+  "dom": "henderson.kctcs.edu"
+ },
+ {
+  "unitid": "156921",
+  "name": "Jefferson Community and Technical College",
+  "state": "KY",
+  "slug": "jefferson",
+  "dom": "jefferson.kctcs.edu"
+ },
+ {
+  "unitid": "157304",
+  "name": "Madisonville Community College",
+  "state": "KY",
+  "slug": "madisonville",
+  "dom": "madisonville.kctcs.edu"
+ },
+ {
+  "unitid": "157331",
+  "name": "Maysville Community and Technical College",
+  "state": "KY",
+  "slug": "maysville",
+  "dom": "maysville.kctcs.edu"
+ },
+ {
+  "unitid": "157438",
+  "name": "Gateway Community and Technical College",
+  "state": "KY",
+  "slug": "gateway",
+  "dom": "gateway.kctcs.edu"
+ },
+ {
+  "unitid": "157483",
+  "name": "West Kentucky Community and Technical College",
+  "state": "KY",
+  "slug": "westkentucky",
+  "dom": "westkentucky.kctcs.edu"
+ },
+ {
+  "unitid": "157711",
+  "name": "Somerset Community College",
+  "state": "KY",
+  "slug": "somerset",
+  "dom": "somerset.kctcs.edu"
+ },
+ {
+  "unitid": "157739",
+  "name": "Southeast Kentucky Community & Technical College",
+  "state": "KY",
+  "slug": "southeast",
+  "dom": "southeast.kctcs.edu"
+ },
+ {
+  "unitid": "157854",
+  "name": "Kentucky Community and Technical College System",
+  "state": "KY",
+  "slug": "systemoffice",
+  "dom": "systemoffice.kctcs.edu"
+ },
+ {
+  "unitid": "158088",
+  "name": "Central Louisiana Technical Community College",
+  "state": "LA",
+  "slug": "cltcc",
+  "dom": "cltcc.edu"
+ },
+ {
+  "unitid": "158662",
+  "name": "Delgado Community College",
+  "state": "LA",
+  "slug": "dcc",
+  "dom": "dcc.edu"
+ },
+ {
+  "unitid": "159407",
+  "name": "Louisiana State University-Eunice",
+  "state": "LA",
+  "slug": "lsue",
+  "dom": "lsue.edu"
+ },
+ {
+  "unitid": "160010",
+  "name": "Northwest Louisiana Technical Community College",
+  "state": "LA",
+  "slug": "nltcc",
+  "dom": "nltcc.edu"
+ },
+ {
+  "unitid": "160481",
+  "name": "Fletcher Technical Community College",
+  "state": "LA",
+  "slug": "fletcher",
+  "dom": "fletcher.edu"
+ },
+ {
+  "unitid": "160579",
+  "name": "SOWELA Technical Community College",
+  "state": "LA",
+  "slug": "sowela",
+  "dom": "sowela.edu"
+ },
+ {
+  "unitid": "160649",
+  "name": "Southern University at Shreveport",
+  "state": "LA",
+  "slug": "susla",
+  "dom": "susla.edu"
+ },
+ {
+  "unitid": "161077",
+  "name": "Central Maine Community College",
+  "state": "ME",
+  "slug": "cmcc",
+  "dom": "cmcc.edu"
+ },
+ {
+  "unitid": "161138",
+  "name": "Eastern Maine Community College",
+  "state": "ME",
+  "slug": "emcc",
+  "dom": "emcc.edu"
+ },
+ {
+  "unitid": "161192",
+  "name": "Kennebec Valley Community College",
+  "state": "ME",
+  "slug": "kvcc",
+  "dom": "kvcc.me.edu"
+ },
+ {
+  "unitid": "161484",
+  "name": "Northern Maine Community College",
+  "state": "ME",
+  "slug": "nmcc",
+  "dom": "nmcc.edu"
+ },
+ {
+  "unitid": "161545",
+  "name": "Southern Maine Community College",
+  "state": "ME",
+  "slug": "smccme",
+  "dom": "smccme.edu"
+ },
+ {
+  "unitid": "161581",
+  "name": "Washington County Community College",
+  "state": "ME",
+  "slug": "wccc",
+  "dom": "wccc.me.edu"
+ },
+ {
+  "unitid": "163657",
+  "name": "Prince George's Community College",
+  "state": "MD",
+  "slug": "pgcc",
+  "dom": "pgcc.edu"
+ },
+ {
+  "unitid": "165112",
+  "name": "Bunker Hill Community College",
+  "state": "MA",
+  "slug": "bhcc",
+  "dom": "bhcc.edu"
+ },
+ {
+  "unitid": "165194",
+  "name": "Cape Cod Community College",
+  "state": "MA",
+  "slug": "capecod",
+  "dom": "capecod.edu"
+ },
+ {
+  "unitid": "165981",
+  "name": "Greenfield Community College",
+  "state": "MA",
+  "slug": "gcc",
+  "dom": "gcc.mass.edu"
+ },
+ {
+  "unitid": "166133",
+  "name": "Holyoke Community College",
+  "state": "MA",
+  "slug": "hcc",
+  "dom": "hcc.edu"
+ },
+ {
+  "unitid": "166647",
+  "name": "Massachusetts Bay Community College",
+  "state": "MA",
+  "slug": "massbay",
+  "dom": "massbay.edu"
+ },
+ {
+  "unitid": "166887",
+  "name": "Middlesex Community College",
+  "state": "MA",
+  "slug": "middlesex",
+  "dom": "middlesex.mass.edu"
+ },
+ {
+  "unitid": "166957",
+  "name": "Mount Wachusett Community College",
+  "state": "MA",
+  "slug": "mwcc",
+  "dom": "mwcc.edu"
+ },
+ {
+  "unitid": "167312",
+  "name": "North Shore Community College",
+  "state": "MA",
+  "slug": "northshore",
+  "dom": "northshore.edu"
+ },
+ {
+  "unitid": "167534",
+  "name": "Quinsigamond Community College",
+  "state": "MA",
+  "slug": "qcc",
+  "dom": "qcc.edu"
+ },
+ {
+  "unitid": "167631",
+  "name": "Roxbury Community College",
+  "state": "MA",
+  "slug": "rcc",
+  "dom": "rcc.mass.edu"
+ },
+ {
+  "unitid": "172307",
+  "name": "Southwestern Michigan College",
+  "state": "MI",
+  "slug": "swmich",
+  "dom": "swmich.edu"
+ },
+ {
+  "unitid": "172635",
+  "name": "Wayne County Community College District",
+  "state": "MI",
+  "slug": "wcccd",
+  "dom": "wcccd.edu"
+ },
+ {
+  "unitid": "172671",
+  "name": "West Shore Community College",
+  "state": "MI",
+  "slug": "westshore",
+  "dom": "westshore.edu"
+ },
+ {
+  "unitid": "169992",
+  "name": "Gogebic Community College",
+  "state": "MI",
+  "slug": "gogebic",
+  "dom": "gogebic.edu"
+ },
+ {
+  "unitid": "170657",
+  "name": "Lansing Community College",
+  "state": "MI",
+  "slug": "lcc",
+  "dom": "lcc.edu"
+ },
+ {
+  "unitid": "171234",
+  "name": "Montcalm Community College",
+  "state": "MI",
+  "slug": "montcalm",
+  "dom": "montcalm.edu"
+ },
+ {
+  "unitid": "172918",
+  "name": "Alexandria Technical & Community College",
+  "state": "MN",
+  "slug": "alextech",
+  "dom": "alextech.edu"
+ },
+ {
+  "unitid": "173115",
+  "name": "Northwest Technical College",
+  "state": "MN",
+  "slug": "ntcmn",
+  "dom": "ntcmn.edu"
+ },
+ {
+  "unitid": "173203",
+  "name": "Central Lakes College-Brainerd",
+  "state": "MN",
+  "slug": "clcmn",
+  "dom": "clcmn.edu"
+ },
+ {
+  "unitid": "173461",
+  "name": "Lake Superior College",
+  "state": "MN",
+  "slug": "lsc",
+  "dom": "lsc.edu"
+ },
+ {
+  "unitid": "173559",
+  "name": "Minnesota State Community and Technical College",
+  "state": "MN",
+  "slug": "minnesota",
+  "dom": "minnesota.edu"
+ },
+ {
+  "unitid": "174376",
+  "name": "North Hennepin Community College",
+  "state": "MN",
+  "slug": "nhcc",
+  "dom": "nhcc.edu"
+ },
+ {
+  "unitid": "174570",
+  "name": "Pine Technical & Community College",
+  "state": "MN",
+  "slug": "pine",
+  "dom": "pine.edu"
+ },
+ {
+  "unitid": "174738",
+  "name": "Rochester Community and Technical College",
+  "state": "MN",
+  "slug": "rctc",
+  "dom": "rctc.edu"
+ },
+ {
+  "unitid": "174756",
+  "name": "St Cloud Technical and Community College",
+  "state": "MN",
+  "slug": "sctcc",
+  "dom": "sctcc.edu"
+ },
+ {
+  "unitid": "178217",
+  "name": "Mineral Area College",
+  "state": "MO",
+  "slug": "mineralarea",
+  "dom": "mineralarea.edu"
+ },
+ {
+  "unitid": "175643",
+  "name": "East Central Community College",
+  "state": "MS",
+  "slug": "eccc",
+  "dom": "eccc.edu"
+ },
+ {
+  "unitid": "175652",
+  "name": "East Mississippi Community College",
+  "state": "MS",
+  "slug": "eastms",
+  "dom": "eastms.edu"
+ },
+ {
+  "unitid": "175810",
+  "name": "Holmes Community College",
+  "state": "MS",
+  "slug": "holmescc",
+  "dom": "holmescc.edu"
+ },
+ {
+  "unitid": "175829",
+  "name": "Itawamba Community College",
+  "state": "MS",
+  "slug": "iccms",
+  "dom": "iccms.edu"
+ },
+ {
+  "unitid": "175883",
+  "name": "Jones County Junior College",
+  "state": "MS",
+  "slug": "jcjc",
+  "dom": "jcjc.edu"
+ },
+ {
+  "unitid": "176008",
+  "name": "Mississippi Delta Community College",
+  "state": "MS",
+  "slug": "msdelta",
+  "dom": "msdelta.edu"
+ },
+ {
+  "unitid": "176071",
+  "name": "Mississippi Gulf Coast Community College",
+  "state": "MS",
+  "slug": "mgccc",
+  "dom": "mgccc.edu"
+ },
+ {
+  "unitid": "176239",
+  "name": "Pearl River Community College",
+  "state": "MS",
+  "slug": "prcc",
+  "dom": "prcc.edu"
+ },
+ {
+  "unitid": "176354",
+  "name": "Southwest Mississippi Community College",
+  "state": "MS",
+  "slug": "smcc",
+  "dom": "smcc.edu"
+ },
+ {
+  "unitid": "176798",
+  "name": "Cape Girardeau Career and Technology Center",
+  "state": "MO",
+  "slug": "capectc",
+  "dom": "capectc.org"
+ },
+ {
+  "unitid": "177250",
+  "name": "East Central College",
+  "state": "MO",
+  "slug": "eastcentral",
+  "dom": "eastcentral.edu"
+ },
+ {
+  "unitid": "177977",
+  "name": "State Technical College of Missouri",
+  "state": "MO",
+  "slug": "statetechmo",
+  "dom": "statetechmo.edu"
+ },
+ {
+  "unitid": "178448",
+  "name": "Moberly Area Community College",
+  "state": "MO",
+  "slug": "macc",
+  "dom": "macc.edu"
+ },
+ {
+  "unitid": "179645",
+  "name": "Three Rivers College",
+  "state": "MO",
+  "slug": "trcc",
+  "dom": "trcc.edu"
+ },
+ {
+  "unitid": "179715",
+  "name": "North Central Missouri College",
+  "state": "MO",
+  "slug": "ncmissouri",
+  "dom": "ncmissouri.edu"
+ },
+ {
+  "unitid": "180151",
+  "name": "Dawson Community College",
+  "state": "MT",
+  "slug": "dawson",
+  "dom": "dawson.edu"
+ },
+ {
+  "unitid": "180160",
+  "name": "Chief Dull Knife College",
+  "state": "MT",
+  "slug": "cdkc",
+  "dom": "cdkc.edu"
+ },
+ {
+  "unitid": "180197",
+  "name": "Flathead Valley Community College",
+  "state": "MT",
+  "slug": "fvcc",
+  "dom": "fvcc.edu"
+ },
+ {
+  "unitid": "180212",
+  "name": "Fort Peck Community College",
+  "state": "MT",
+  "slug": "fpcc",
+  "dom": "fpcc.edu"
+ },
+ {
+  "unitid": "180249",
+  "name": "Great Falls College Montana State University",
+  "state": "MT",
+  "slug": "gfcmsu",
+  "dom": "gfcmsu.edu"
+ },
+ {
+  "unitid": "180276",
+  "name": "Helena College University of Montana",
+  "state": "MT",
+  "slug": "helenacollege",
+  "dom": "helenacollege.edu"
+ },
+ {
+  "unitid": "180328",
+  "name": "Little Big Horn College",
+  "state": "MT",
+  "slug": "lbhc",
+  "dom": "lbhc.edu"
+ },
+ {
+  "unitid": "181491",
+  "name": "Northeast Community College",
+  "state": "NE",
+  "slug": "northeast",
+  "dom": "northeast.edu"
+ },
+ {
+  "unitid": "181765",
+  "name": "Nebraska College of Technical Agriculture",
+  "state": "NE",
+  "slug": "ncta",
+  "dom": "ncta.unl.edu"
+ },
+ {
+  "unitid": "181817",
+  "name": "Western Nebraska Community College",
+  "state": "NE",
+  "slug": "wncc",
+  "dom": "wncc.edu"
+ },
+ {
+  "unitid": "187620",
+  "name": "New Mexico State University-Dona Ana",
+  "state": "NM",
+  "slug": "dacc",
+  "dom": "dacc.nmsu.edu"
+ },
+ {
+  "unitid": "187666",
+  "name": "Eastern New Mexico University-Roswell Campus",
+  "state": "NM",
+  "slug": "roswell",
+  "dom": "roswell.enmu.edu"
+ },
+ {
+  "unitid": "183859",
+  "name": "Brookdale Community College",
+  "state": "NJ",
+  "slug": "brookdalecc",
+  "dom": "brookdalecc.edu"
+ },
+ {
+  "unitid": "183877",
+  "name": "Rowan College at Burlington County",
+  "state": "NJ",
+  "slug": "rcbc",
+  "dom": "rcbc.edu"
+ },
+ {
+  "unitid": "184180",
+  "name": "County College of Morris",
+  "state": "NJ",
+  "slug": "ccm",
+  "dom": "ccm.edu"
+ },
+ {
+  "unitid": "184481",
+  "name": "Essex County College",
+  "state": "NJ",
+  "slug": "essex",
+  "dom": "essex.edu"
+ },
+ {
+  "unitid": "184995",
+  "name": "Hudson County Community College",
+  "state": "NJ",
+  "slug": "hccc",
+  "dom": "hccc.edu"
+ },
+ {
+  "unitid": "186034",
+  "name": "Passaic County Community College",
+  "state": "NJ",
+  "slug": "web",
+  "dom": "web.pccc.edu"
+ },
+ {
+  "unitid": "187903",
+  "name": "New Mexico Junior College",
+  "state": "NM",
+  "slug": "nmjc",
+  "dom": "nmjc.edu"
+ },
+ {
+  "unitid": "187912",
+  "name": "New Mexico Military Institute",
+  "state": "NM",
+  "slug": "nmmi",
+  "dom": "nmmi.edu"
+ },
+ {
+  "unitid": "187958",
+  "name": "University of New Mexico-Gallup Campus",
+  "state": "NM",
+  "slug": "gallup",
+  "dom": "gallup.unm.edu"
+ },
+ {
+  "unitid": "187976",
+  "name": "University of New Mexico-Los Alamos Campus",
+  "state": "NM",
+  "slug": "losalamos",
+  "dom": "losalamos.unm.edu"
+ },
+ {
+  "unitid": "187994",
+  "name": "New Mexico State University-Alamogordo",
+  "state": "NM",
+  "slug": "alamogordo",
+  "dom": "alamogordo.nmsu.edu"
+ },
+ {
+  "unitid": "188003",
+  "name": "Southeast New Mexico College",
+  "state": "NM",
+  "slug": "senmc",
+  "dom": "senmc.edu"
+ },
+ {
+  "unitid": "188021",
+  "name": "New Mexico State University-Grants",
+  "state": "NM",
+  "slug": "grants",
+  "dom": "grants.nmsu.edu"
+ },
+ {
+  "unitid": "188100",
+  "name": "San Juan College",
+  "state": "NM",
+  "slug": "sanjuancollege",
+  "dom": "sanjuancollege.edu"
+ },
+ {
+  "unitid": "188216",
+  "name": "Southwestern Indian Polytechnic Institute",
+  "state": "NM",
+  "slug": "sipi",
+  "dom": "sipi.edu"
+ },
+ {
+  "unitid": "188225",
+  "name": "University of New Mexico-Taos Campus",
+  "state": "NM",
+  "slug": "taos",
+  "dom": "taos.unm.edu"
+ },
+ {
+  "unitid": "188261",
+  "name": "Mesalands Community College",
+  "state": "NM",
+  "slug": "mesalands",
+  "dom": "mesalands.edu"
+ },
+ {
+  "unitid": "188438",
+  "name": "SUNY Adirondack",
+  "state": "NY",
+  "slug": "sunyacc",
+  "dom": "sunyacc.edu"
+ },
+ {
+  "unitid": "189839",
+  "name": "Cayuga County Community College",
+  "state": "NY",
+  "slug": "cayuga-cc",
+  "dom": "cayuga-cc.edu"
+ },
+ {
+  "unitid": "190169",
+  "name": "Columbia-Greene Community College",
+  "state": "NY",
+  "slug": "sunycgcc",
+  "dom": "sunycgcc.edu"
+ },
+ {
+  "unitid": "190521",
+  "name": "CUNY Borough of Manhattan Community College",
+  "state": "NY",
+  "slug": "bmcc",
+  "dom": "bmcc.cuny.edu"
+ },
+ {
+  "unitid": "190530",
+  "name": "CUNY Bronx Community College",
+  "state": "NY",
+  "slug": "bcc",
+  "dom": "bcc.cuny.edu"
+ },
+ {
+  "unitid": "193946",
+  "name": "Niagara County Community College",
+  "state": "NY",
+  "slug": "niagaracc",
+  "dom": "niagaracc.suny.edu"
+ },
+ {
+  "unitid": "190585",
+  "name": "CUNY Hostos Community College",
+  "state": "NY",
+  "slug": "hostos",
+  "dom": "hostos.cuny.edu"
+ },
+ {
+  "unitid": "190619",
+  "name": "CUNY Kingsborough Community College",
+  "state": "NY",
+  "slug": "kbcc",
+  "dom": "kbcc.cuny.edu"
+ },
+ {
+  "unitid": "190628",
+  "name": "CUNY LaGuardia Community College",
+  "state": "NY",
+  "slug": "lagcc",
+  "dom": "lagcc.cuny.edu"
+ },
+ {
+  "unitid": "191199",
+  "name": "Finger Lakes Community College",
+  "state": "NY",
+  "slug": "flcc",
+  "dom": "flcc.edu"
+ },
+ {
+  "unitid": "191302",
+  "name": "Fulton-Montgomery Community College",
+  "state": "NY",
+  "slug": "fmcc",
+  "dom": "fmcc.edu"
+ },
+ {
+  "unitid": "191339",
+  "name": "Genesee Community College",
+  "state": "NY",
+  "slug": "genesee",
+  "dom": "genesee.edu"
+ },
+ {
+  "unitid": "191612",
+  "name": "Herkimer County Community College",
+  "state": "NY",
+  "slug": "herkimer",
+  "dom": "herkimer.edu"
+ },
+ {
+  "unitid": "191986",
+  "name": "Jamestown Community College",
+  "state": "NY",
+  "slug": "sunyjcc",
+  "dom": "sunyjcc.edu"
+ },
+ {
+  "unitid": "193283",
+  "name": "Mohawk Valley Community College",
+  "state": "NY",
+  "slug": "mvcc",
+  "dom": "mvcc.edu"
+ },
+ {
+  "unitid": "194028",
+  "name": "North Country Community College",
+  "state": "NY",
+  "slug": "nccc",
+  "dom": "nccc.edu"
+ },
+ {
+  "unitid": "195988",
+  "name": "Sullivan County Community College",
+  "state": "NY",
+  "slug": "sunysullivan",
+  "dom": "sunysullivan.edu"
+ },
+ {
+  "unitid": "197294",
+  "name": "SUNY Westchester Community College",
+  "state": "NY",
+  "slug": "sunywcc",
+  "dom": "sunywcc.edu"
+ },
+ {
+  "unitid": "197887",
+  "name": "Asheville-Buncombe Technical Community College",
+  "state": "NC",
+  "slug": "abtech",
+  "dom": "abtech.edu"
+ },
+ {
+  "unitid": "197966",
+  "name": "Beaufort County Community College",
+  "state": "NC",
+  "slug": "beaufortccc",
+  "dom": "beaufortccc.edu"
+ },
+ {
+  "unitid": "198011",
+  "name": "Bladen Community College",
+  "state": "NC",
+  "slug": "bladencc",
+  "dom": "bladencc.edu"
+ },
+ {
+  "unitid": "198084",
+  "name": "Brunswick Community College",
+  "state": "NC",
+  "slug": "brunswickcc",
+  "dom": "brunswickcc.edu"
+ },
+ {
+  "unitid": "198118",
+  "name": "Caldwell Community College and Technical Institute",
+  "state": "NC",
+  "slug": "cccti",
+  "dom": "cccti.edu"
+ },
+ {
+  "unitid": "198206",
+  "name": "Carteret Community College",
+  "state": "NC",
+  "slug": "carteret",
+  "dom": "carteret.edu"
+ },
+ {
+  "unitid": "198233",
+  "name": "Catawba Valley Community College",
+  "state": "NC",
+  "slug": "cvcc",
+  "dom": "cvcc.edu"
+ },
+ {
+  "unitid": "198251",
+  "name": "Central Carolina Community College",
+  "state": "NC",
+  "slug": "cccc",
+  "dom": "cccc.edu"
+ },
+ {
+  "unitid": "198321",
+  "name": "Cleveland Community College",
+  "state": "NC",
+  "slug": "clevelandcc",
+  "dom": "clevelandcc.edu"
+ },
+ {
+  "unitid": "198330",
+  "name": "Coastal Carolina Community College",
+  "state": "NC",
+  "slug": "coastalcarolina",
+  "dom": "coastalcarolina.edu"
+ },
+ {
+  "unitid": "198376",
+  "name": "Davidson-Davie Community College",
+  "state": "NC",
+  "slug": "davidsondavie",
+  "dom": "davidsondavie.edu"
+ },
+ {
+  "unitid": "198491",
+  "name": "Edgecombe Community College",
+  "state": "NC",
+  "slug": "edgecombe",
+  "dom": "edgecombe.edu"
+ },
+ {
+  "unitid": "198534",
+  "name": "Fayetteville Technical Community College",
+  "state": "NC",
+  "slug": "faytechcc",
+  "dom": "faytechcc.edu"
+ },
+ {
+  "unitid": "198640",
+  "name": "Halifax Community College",
+  "state": "NC",
+  "slug": "halifaxcc",
+  "dom": "halifaxcc.edu"
+ },
+ {
+  "unitid": "198729",
+  "name": "James Sprunt Community College",
+  "state": "NC",
+  "slug": "jamessprunt",
+  "dom": "jamessprunt.edu"
+ },
+ {
+  "unitid": "198817",
+  "name": "Lenoir Community College",
+  "state": "NC",
+  "slug": "lenoircc",
+  "dom": "lenoircc.edu"
+ },
+ {
+  "unitid": "198905",
+  "name": "Martin Community College",
+  "state": "NC",
+  "slug": "martincc",
+  "dom": "martincc.edu"
+ },
+ {
+  "unitid": "198987",
+  "name": "Mitchell Community College",
+  "state": "NC",
+  "slug": "mitchellcc",
+  "dom": "mitchellcc.edu"
+ },
+ {
+  "unitid": "199023",
+  "name": "Montgomery Community College",
+  "state": "NC",
+  "slug": "montgomery",
+  "dom": "montgomery.edu"
+ },
+ {
+  "unitid": "199263",
+  "name": "Pamlico Community College",
+  "state": "NC",
+  "slug": "pamlicocc",
+  "dom": "pamlicocc.edu"
+ },
+ {
+  "unitid": "199421",
+  "name": "Randolph Community College",
+  "state": "NC",
+  "slug": "randolph",
+  "dom": "randolph.edu"
+ },
+ {
+  "unitid": "199467",
+  "name": "Roanoke-Chowan Community College",
+  "state": "NC",
+  "slug": "roanokechowan",
+  "dom": "roanokechowan.edu"
+ },
+ {
+  "unitid": "199494",
+  "name": "Rowan-Cabarrus Community College",
+  "state": "NC",
+  "slug": "rccc",
+  "dom": "rccc.edu"
+ },
+ {
+  "unitid": "199625",
+  "name": "Sampson Community College",
+  "state": "NC",
+  "slug": "sampsoncc",
+  "dom": "sampsoncc.edu"
+ },
+ {
+  "unitid": "199722",
+  "name": "Southeastern Community College",
+  "state": "NC",
+  "slug": "sccnc",
+  "dom": "sccnc.edu"
+ },
+ {
+  "unitid": "199740",
+  "name": "Stanly Community College",
+  "state": "NC",
+  "slug": "stanly",
+  "dom": "stanly.edu"
+ },
+ {
+  "unitid": "199795",
+  "name": "Tri-County Community College",
+  "state": "NC",
+  "slug": "tricountycc",
+  "dom": "tricountycc.edu"
+ },
+ {
+  "unitid": "199892",
+  "name": "Wayne Community College",
+  "state": "NC",
+  "slug": "waynecc",
+  "dom": "waynecc.edu"
+ },
+ {
+  "unitid": "199953",
+  "name": "Wilson Community College",
+  "state": "NC",
+  "slug": "wilsoncc",
+  "dom": "wilsoncc.edu"
+ },
+ {
+  "unitid": "200208",
+  "name": "Cankdeska Cikana Community College",
+  "state": "ND",
+  "slug": "littlehoop",
+  "dom": "littlehoop.edu"
+ },
+ {
+  "unitid": "200314",
+  "name": "Dakota College at Bottineau",
+  "state": "ND",
+  "slug": "dakotacollege",
+  "dom": "dakotacollege.edu"
+ },
+ {
+  "unitid": "200846",
+  "name": "University of Akron Wayne College",
+  "state": "OH",
+  "slug": "wayne",
+  "dom": "wayne.uakron.edu"
+ },
+ {
+  "unitid": "201283",
+  "name": "Belmont College",
+  "state": "OH",
+  "slug": "belmontcollege",
+  "dom": "belmontcollege.edu"
+ },
+ {
+  "unitid": "202648",
+  "name": "Edison State Community College",
+  "state": "OH",
+  "slug": "edisonohio",
+  "dom": "edisonohio.edu"
+ },
+ {
+  "unitid": "203155",
+  "name": "Hocking College",
+  "state": "OH",
+  "slug": "hocking",
+  "dom": "hocking.edu"
+ },
+ {
+  "unitid": "203331",
+  "name": "Eastern Gateway Community College",
+  "state": "OH",
+  "slug": "egcc",
+  "dom": "egcc.edu"
+ },
+ {
+  "unitid": "203599",
+  "name": "Lakeland Community College",
+  "state": "OH",
+  "slug": "lakelandcc",
+  "dom": "lakelandcc.edu"
+ },
+ {
+  "unitid": "203614",
+  "name": "Collins Career Technical Center",
+  "state": "OH",
+  "slug": "collins-cc",
+  "dom": "collins-cc.edu"
+ },
+ {
+  "unitid": "204440",
+  "name": "Northwest State Community College",
+  "state": "OH",
+  "slug": "northweststate",
+  "dom": "northweststate.edu"
+ },
+ {
+  "unitid": "204459",
+  "name": "Toledo Public Schools Adult and Continuing Education",
+  "state": "OH",
+  "slug": "tps",
+  "dom": "tps.org"
+ },
+ {
+  "unitid": "204662",
+  "name": "Ohio State University Agricultural Technical Institute",
+  "state": "OH",
+  "slug": "ati",
+  "dom": "ati.osu.edu"
+ },
+ {
+  "unitid": "205841",
+  "name": "Stark State College",
+  "state": "OH",
+  "slug": "starkstate",
+  "dom": "starkstate.edu"
+ },
+ {
+  "unitid": "205966",
+  "name": "Southern State Community College",
+  "state": "OH",
+  "slug": "sscc",
+  "dom": "sscc.edu"
+ },
+ {
+  "unitid": "206011",
+  "name": "Terra State Community College",
+  "state": "OH",
+  "slug": "terra",
+  "dom": "terra.edu"
+ },
+ {
+  "unitid": "206923",
+  "name": "Carl Albert State College",
+  "state": "OK",
+  "slug": "carlalbert",
+  "dom": "carlalbert.edu"
+ },
+ {
+  "unitid": "206996",
+  "name": "Connors State College",
+  "state": "OK",
+  "slug": "connorsstate",
+  "dom": "connorsstate.edu"
+ },
+ {
+  "unitid": "207050",
+  "name": "Eastern Oklahoma State College",
+  "state": "OK",
+  "slug": "eosc",
+  "dom": "eosc.edu"
+ },
+ {
+  "unitid": "207290",
+  "name": "Northeastern Oklahoma A&M College",
+  "state": "OK",
+  "slug": "neo",
+  "dom": "neo.edu"
+ },
+ {
+  "unitid": "207670",
+  "name": "Rose State College",
+  "state": "OK",
+  "slug": "rose",
+  "dom": "rose.edu"
+ },
+ {
+  "unitid": "207740",
+  "name": "Seminole State College",
+  "state": "OK",
+  "slug": "sscok",
+  "dom": "sscok.edu"
+ },
+ {
+  "unitid": "208035",
+  "name": "Western Oklahoma State College",
+  "state": "OK",
+  "slug": "wosc",
+  "dom": "wosc.edu"
+ },
+ {
+  "unitid": "208318",
+  "name": "Central Oregon Community College",
+  "state": "OR",
+  "slug": "cocc",
+  "dom": "cocc.edu"
+ },
+ {
+  "unitid": "209038",
+  "name": "Lane Community College",
+  "state": "OR",
+  "slug": "lanecc",
+  "dom": "lanecc.edu"
+ },
+ {
+  "unitid": "209074",
+  "name": "Linn-Benton Community College",
+  "state": "OR",
+  "slug": "linnbenton",
+  "dom": "linnbenton.edu"
+ },
+ {
+  "unitid": "209746",
+  "name": "Portland Community College",
+  "state": "OR",
+  "slug": "pcc",
+  "dom": "pcc.edu"
+ },
+ {
+  "unitid": "209940",
+  "name": "Rogue Community College",
+  "state": "OR",
+  "slug": "roguecc",
+  "dom": "roguecc.edu"
+ },
+ {
+  "unitid": "211079",
+  "name": "Community College of Beaver County",
+  "state": "PA",
+  "slug": "ccbc",
+  "dom": "ccbc.edu"
+ },
+ {
+  "unitid": "211927",
+  "name": "Delaware County Community College",
+  "state": "PA",
+  "slug": "dccc",
+  "dom": "dccc.edu"
+ },
+ {
+  "unitid": "215239",
+  "name": "Community College of Philadelphia",
+  "state": "PA",
+  "slug": "ccp",
+  "dom": "ccp.edu"
+ },
+ {
+  "unitid": "215309",
+  "name": "University of Pittsburgh-Titusville",
+  "state": "PA",
+  "slug": "titusville",
+  "dom": "titusville.pitt.edu"
+ },
+ {
+  "unitid": "215585",
+  "name": "Reading Area Community College",
+  "state": "PA",
+  "slug": "racc",
+  "dom": "racc.edu"
+ },
+ {
+  "unitid": "217615",
+  "name": "Aiken Technical College",
+  "state": "SC",
+  "slug": "atc",
+  "dom": "atc.edu"
+ },
+ {
+  "unitid": "217837",
+  "name": "Northeastern Technical College",
+  "state": "SC",
+  "slug": "netc",
+  "dom": "netc.edu"
+ },
+ {
+  "unitid": "217989",
+  "name": "Denmark Technical College",
+  "state": "SC",
+  "slug": "denmarktech",
+  "dom": "denmarktech.edu"
+ },
+ {
+  "unitid": "218025",
+  "name": "Florence-Darlington Technical College",
+  "state": "SC",
+  "slug": "fdtc",
+  "dom": "fdtc.edu"
+ },
+ {
+  "unitid": "218140",
+  "name": "Horry-Georgetown Technical College",
+  "state": "SC",
+  "slug": "hgtc",
+  "dom": "hgtc.edu"
+ },
+ {
+  "unitid": "218487",
+  "name": "Orangeburg Calhoun Technical College",
+  "state": "SC",
+  "slug": "octech",
+  "dom": "octech.edu"
+ },
+ {
+  "unitid": "218520",
+  "name": "Piedmont Technical College",
+  "state": "SC",
+  "slug": "ptc",
+  "dom": "ptc.edu"
+ },
+ {
+  "unitid": "218830",
+  "name": "Spartanburg Community College",
+  "state": "SC",
+  "slug": "sccsc",
+  "dom": "sccsc.edu"
+ },
+ {
+  "unitid": "218858",
+  "name": "Central Carolina Technical College",
+  "state": "SC",
+  "slug": "cctech",
+  "dom": "cctech.edu"
+ },
+ {
+  "unitid": "218885",
+  "name": "Tri-County Technical College",
+  "state": "SC",
+  "slug": "tctc",
+  "dom": "tctc.edu"
+ },
+ {
+  "unitid": "218894",
+  "name": "Trident Technical College",
+  "state": "SC",
+  "slug": "tridenttech",
+  "dom": "tridenttech.edu"
+ },
+ {
+  "unitid": "218955",
+  "name": "Williamsburg Technical College",
+  "state": "SC",
+  "slug": "wiltech",
+  "dom": "wiltech.edu"
+ },
+ {
+  "unitid": "219480",
+  "name": "Western Dakota Technical College",
+  "state": "SD",
+  "slug": "wdt",
+  "dom": "wdt.edu"
+ },
+ {
+  "unitid": "219596",
+  "name": "Tennessee College of Applied Technology-Athens",
+  "state": "TN",
+  "slug": "tcatathens",
+  "dom": "tcatathens.edu"
+ },
+ {
+  "unitid": "219824",
+  "name": "Chattanooga State Community College",
+  "state": "TN",
+  "slug": "chattanoogastate",
+  "dom": "chattanoogastate.edu"
+ },
+ {
+  "unitid": "219888",
+  "name": "Columbia State Community College",
+  "state": "TN",
+  "slug": "columbiastate",
+  "dom": "columbiastate.edu"
+ },
+ {
+  "unitid": "219921",
+  "name": "Tennessee College of Applied Technology-Covington",
+  "state": "TN",
+  "slug": "tcatcovington",
+  "dom": "tcatcovington.edu"
+ },
+ {
+  "unitid": "219994",
+  "name": "Tennessee College of Applied Technology-Dickson",
+  "state": "TN",
+  "slug": "tcatdickson",
+  "dom": "tcatdickson.edu"
+ },
+ {
+  "unitid": "220057",
+  "name": "Dyersburg State Community College",
+  "state": "TN",
+  "slug": "dscc",
+  "dom": "dscc.edu"
+ },
+ {
+  "unitid": "223320",
+  "name": "Coastal Bend College",
+  "state": "TX",
+  "slug": "coastalbend",
+  "dom": "coastalbend.edu"
+ },
+ {
+  "unitid": "223898",
+  "name": "Cisco College",
+  "state": "TX",
+  "slug": "cisco",
+  "dom": "cisco.edu"
+ },
+ {
+  "unitid": "223922",
+  "name": "Clarendon College",
+  "state": "TX",
+  "slug": "clarendoncollege",
+  "dom": "clarendoncollege.edu"
+ },
+ {
+  "unitid": "220127",
+  "name": "Tennessee College of Applied Technology-Elizabethton",
+  "state": "TN",
+  "slug": "tcatelizabethton",
+  "dom": "tcatelizabethton.edu"
+ },
+ {
+  "unitid": "220251",
+  "name": "Tennessee College of Applied Technology-Harriman",
+  "state": "TN",
+  "slug": "tcatharriman",
+  "dom": "tcatharriman.edu"
+ },
+ {
+  "unitid": "220279",
+  "name": "Tennessee College of Applied Technology-Hartsville",
+  "state": "TN",
+  "slug": "tcathartsville",
+  "dom": "tcathartsville.edu"
+ },
+ {
+  "unitid": "220321",
+  "name": "Tennessee College of Applied Technology-Hohenwald",
+  "state": "TN",
+  "slug": "tcathohenwald",
+  "dom": "tcathohenwald.edu"
+ },
+ {
+  "unitid": "220394",
+  "name": "Tennessee College of Applied Technology-Jacksboro",
+  "state": "TN",
+  "slug": "tcatjacksboro",
+  "dom": "tcatjacksboro.edu"
+ },
+ {
+  "unitid": "220640",
+  "name": "Tennessee College of Applied Technology-Livingston",
+  "state": "TN",
+  "slug": "tcatlivingston",
+  "dom": "tcatlivingston.edu"
+ },
+ {
+  "unitid": "220756",
+  "name": "Tennessee College of Applied Technology-McKenzie",
+  "state": "TN",
+  "slug": "tcatmckenzie",
+  "dom": "tcatmckenzie.edu"
+ },
+ {
+  "unitid": "220853",
+  "name": "Tennessee College of Applied Technology-Memphis",
+  "state": "TN",
+  "slug": "tcatmemphis",
+  "dom": "tcatmemphis.edu"
+ },
+ {
+  "unitid": "221050",
+  "name": "Tennessee College of Applied Technology-Morristown",
+  "state": "TN",
+  "slug": "tcatmorristown",
+  "dom": "tcatmorristown.edu"
+ },
+ {
+  "unitid": "221102",
+  "name": "Tennessee College of Applied Technology-Murfreesboro",
+  "state": "TN",
+  "slug": "tcatmurfreesboro",
+  "dom": "tcatmurfreesboro.edu"
+ },
+ {
+  "unitid": "221184",
+  "name": "Nashville State Community College",
+  "state": "TN",
+  "slug": "nscc",
+  "dom": "nscc.edu"
+ },
+ {
+  "unitid": "221236",
+  "name": "Tennessee College of Applied Technology Northwest",
+  "state": "TN",
+  "slug": "tcatnorthwest",
+  "dom": "tcatnorthwest.edu"
+ },
+ {
+  "unitid": "221281",
+  "name": "Tennessee College of Applied Technology-Henry/Carroll",
+  "state": "TN",
+  "slug": "tcathenrycarroll",
+  "dom": "tcathenrycarroll.edu"
+ },
+ {
+  "unitid": "221333",
+  "name": "Tennessee College of Applied Technology-Pulaski",
+  "state": "TN",
+  "slug": "tcatpulaski",
+  "dom": "tcatpulaski.edu"
+ },
+ {
+  "unitid": "221397",
+  "name": "Roane State Community College",
+  "state": "TN",
+  "slug": "roanestate",
+  "dom": "roanestate.edu"
+ },
+ {
+  "unitid": "221430",
+  "name": "Tennessee College of Applied Technology-Crump",
+  "state": "TN",
+  "slug": "tcatcrump",
+  "dom": "tcatcrump.edu"
+ },
+ {
+  "unitid": "221485",
+  "name": "Southwest Tennessee Community College",
+  "state": "TN",
+  "slug": "southwest",
+  "dom": "southwest.tn.edu"
+ },
+ {
+  "unitid": "221494",
+  "name": "Tennessee College of Applied Technology-Shelbyville",
+  "state": "TN",
+  "slug": "tcatshelbyville",
+  "dom": "tcatshelbyville.edu"
+ },
+ {
+  "unitid": "221582",
+  "name": "Tennessee College of Applied Technology-Oneida-Huntsville",
+  "state": "TN",
+  "slug": "tcatoneida",
+  "dom": "tcatoneida.edu"
+ },
+ {
+  "unitid": "221591",
+  "name": "Tennessee College of Applied Technology-Crossville",
+  "state": "TN",
+  "slug": "tcatcrossville",
+  "dom": "tcatcrossville.edu"
+ },
+ {
+  "unitid": "221607",
+  "name": "Tennessee College of Applied Technology-McMinnville",
+  "state": "TN",
+  "slug": "tcatmcminnville",
+  "dom": "tcatmcminnville.edu"
+ },
+ {
+  "unitid": "221616",
+  "name": "Tennessee College of Applied Technology-Jackson",
+  "state": "TN",
+  "slug": "tcatjackson",
+  "dom": "tcatjackson.edu"
+ },
+ {
+  "unitid": "221625",
+  "name": "Tennessee College of Applied Technology-Knoxville",
+  "state": "TN",
+  "slug": "tcatknoxville",
+  "dom": "tcatknoxville.edu"
+ },
+ {
+  "unitid": "221643",
+  "name": "Pellissippi State Community College",
+  "state": "TN",
+  "slug": "pstcc",
+  "dom": "pstcc.edu"
+ },
+ {
+  "unitid": "222053",
+  "name": "Volunteer State Community College",
+  "state": "TN",
+  "slug": "volstate",
+  "dom": "volstate.edu"
+ },
+ {
+  "unitid": "222576",
+  "name": "Amarillo College",
+  "state": "TX",
+  "slug": "actx",
+  "dom": "actx.edu"
+ },
+ {
+  "unitid": "224642",
+  "name": "El Paso Community College",
+  "state": "TX",
+  "slug": "epcc",
+  "dom": "epcc.edu"
+ },
+ {
+  "unitid": "224891",
+  "name": "Frank Phillips College",
+  "state": "TX",
+  "slug": "fpctx",
+  "dom": "fpctx.edu"
+ },
+ {
+  "unitid": "226019",
+  "name": "Kilgore College",
+  "state": "TX",
+  "slug": "kilgore",
+  "dom": "kilgore.edu"
+ },
+ {
+  "unitid": "226107",
+  "name": "Lamar State College-Orange",
+  "state": "TX",
+  "slug": "lsco",
+  "dom": "lsco.edu"
+ },
+ {
+  "unitid": "227687",
+  "name": "Ranger College",
+  "state": "TX",
+  "slug": "rangercollege",
+  "dom": "rangercollege.edu"
+ },
+ {
+  "unitid": "228316",
+  "name": "Southwest Texas Junior College",
+  "state": "TX",
+  "slug": "swtjc",
+  "dom": "swtjc.edu"
+ },
+ {
+  "unitid": "228608",
+  "name": "Temple College",
+  "state": "TX",
+  "slug": "templejc",
+  "dom": "templejc.edu"
+ },
+ {
+  "unitid": "229832",
+  "name": "Western Texas College",
+  "state": "TX",
+  "slug": "wtc",
+  "dom": "wtc.edu"
+ },
+ {
+  "unitid": "229841",
+  "name": "Wharton County Junior College",
+  "state": "TX",
+  "slug": "wcjc",
+  "dom": "wcjc.edu"
+ },
+ {
+  "unitid": "233116",
+  "name": "Piedmont Virginia Community College",
+  "state": "VA",
+  "slug": "pvcc",
+  "dom": "pvcc.edu"
+ },
+ {
+  "unitid": "230861",
+  "name": "Community College of Vermont",
+  "state": "VT",
+  "slug": "ccv",
+  "dom": "ccv.edu"
+ },
+ {
+  "unitid": "231697",
+  "name": "Central Virginia Community College",
+  "state": "VA",
+  "slug": "centralvirginia",
+  "dom": "centralvirginia.edu"
+ },
+ {
+  "unitid": "231882",
+  "name": "Danville Community College",
+  "state": "VA",
+  "slug": "danville",
+  "dom": "danville.edu"
+ },
+ {
+  "unitid": "232195",
+  "name": "Germanna Community College",
+  "state": "VA",
+  "slug": "germanna",
+  "dom": "germanna.edu"
+ },
+ {
+  "unitid": "232414",
+  "name": "J Sargeant Reynolds Community College",
+  "state": "VA",
+  "slug": "reynolds",
+  "dom": "reynolds.edu"
+ },
+ {
+  "unitid": "232788",
+  "name": "Mountain Empire Community College",
+  "state": "VA",
+  "slug": "mecc",
+  "dom": "mecc.edu"
+ },
+ {
+  "unitid": "232946",
+  "name": "Northern Virginia Community College",
+  "state": "VA",
+  "slug": "nvcc",
+  "dom": "nvcc.edu"
+ },
+ {
+  "unitid": "233037",
+  "name": "Paul D Camp Community College",
+  "state": "VA",
+  "slug": "pdc",
+  "dom": "pdc.edu"
+ },
+ {
+  "unitid": "233338",
+  "name": "Richard Bland College",
+  "state": "VA",
+  "slug": "rbc",
+  "dom": "rbc.edu"
+ },
+ {
+  "unitid": "233639",
+  "name": "Southside Virginia Community College",
+  "state": "VA",
+  "slug": "southside",
+  "dom": "southside.edu"
+ },
+ {
+  "unitid": "233754",
+  "name": "Virginia Peninsula Community College",
+  "state": "VA",
+  "slug": "vpcc",
+  "dom": "vpcc.edu"
+ },
+ {
+  "unitid": "233772",
+  "name": "Tidewater Community College",
+  "state": "VA",
+  "slug": "tcc",
+  "dom": "tcc.edu"
+ },
+ {
+  "unitid": "233949",
+  "name": "Virginia Western Community College",
+  "state": "VA",
+  "slug": "virginiawestern",
+  "dom": "virginiawestern.edu"
+ },
+ {
+  "unitid": "234377",
+  "name": "Wytheville Community College",
+  "state": "VA",
+  "slug": "wcc",
+  "dom": "wcc.vccs.edu"
+ },
+ {
+  "unitid": "240505",
+  "name": "Casper College",
+  "state": "WY",
+  "slug": "caspercollege",
+  "dom": "caspercollege.edu"
+ },
+ {
+  "unitid": "240596",
+  "name": "Eastern Wyoming College",
+  "state": "WY",
+  "slug": "ewc",
+  "dom": "ewc.wy.edu"
+ },
+ {
+  "unitid": "240666",
+  "name": "Northern Wyoming Community College District",
+  "state": "WY",
+  "slug": "sheridan",
+  "dom": "sheridan.edu"
+ },
+ {
+  "unitid": "237543",
+  "name": "Mercer County Technical Education Center",
+  "state": "WV",
+  "slug": "mercercountyschools",
+  "dom": "mercercountyschools.sites.thrillshare.com"
+ },
+ {
+  "unitid": "237817",
+  "name": "Southern West Virginia Community and Technical College",
+  "state": "WV",
+  "slug": "southernwv",
+  "dom": "southernwv.edu"
+ },
+ {
+  "unitid": "237844",
+  "name": "Fred W Eberle Technical Center",
+  "state": "WV",
+  "slug": "fetc",
+  "dom": "fetc.edu"
+ },
+ {
+  "unitid": "238014",
+  "name": "West Virginia Northern Community College",
+  "state": "WV",
+  "slug": "wvncc",
+  "dom": "wvncc.edu"
+ },
+ {
+  "unitid": "238722",
+  "name": "Fox Valley Technical College",
+  "state": "WI",
+  "slug": "fvtc",
+  "dom": "fvtc.edu"
+ },
+ {
+  "unitid": "239248",
+  "name": "Milwaukee Area Technical College",
+  "state": "WI",
+  "slug": "matc",
+  "dom": "matc.edu"
+ },
+ {
+  "unitid": "239488",
+  "name": "Northeast Wisconsin Technical College",
+  "state": "WI",
+  "slug": "nwtc",
+  "dom": "nwtc.edu"
+ },
+ {
+  "unitid": "239910",
+  "name": "Southwest Wisconsin Technical College",
+  "state": "WI",
+  "slug": "swtc",
+  "dom": "swtc.edu"
+ },
+ {
+  "unitid": "240198",
+  "name": "Northwood Technical College",
+  "state": "WI",
+  "slug": "northwoodtech",
+  "dom": "northwoodtech.edu"
+ },
+ {
+  "unitid": "244437",
+  "name": "Georgia State University-Perimeter College",
+  "state": "GA",
+  "slug": "perimeter",
+  "dom": "perimeter.gsu.edu"
+ },
+ {
+  "unitid": "244446",
+  "name": "Georgia Piedmont Technical College",
+  "state": "GA",
+  "slug": "gptc",
+  "dom": "gptc.edu"
+ },
+ {
+  "unitid": "245625",
+  "name": "Warren County Community College",
+  "state": "NJ",
+  "slug": "warren",
+  "dom": "warren.edu"
+ },
+ {
+  "unitid": "247603",
+  "name": "Sussex County Community College",
+  "state": "NJ",
+  "slug": "sussex",
+  "dom": "sussex.edu"
+ },
+ {
+  "unitid": "247737",
+  "name": "Mississippi Community College Board",
+  "state": "MS",
+  "slug": "mccb",
+  "dom": "mccb.edu"
+ },
+ {
+  "unitid": "248606",
+  "name": "Moore Norman Technology Center",
+  "state": "OK",
+  "slug": "mntc",
+  "dom": "mntc.edu"
+ },
+ {
+  "unitid": "248925",
+  "name": "Tennessee College of Applied Technology Nashville",
+  "state": "TN",
+  "slug": "tcatnashville",
+  "dom": "tcatnashville.edu"
+ },
+ {
+  "unitid": "363165",
+  "name": "Metro Technology Centers",
+  "state": "OK",
+  "slug": "metrotech",
+  "dom": "metrotech.edu"
+ },
+ {
+  "unitid": "363633",
+  "name": "Luna Community College",
+  "state": "NM",
+  "slug": "luna",
+  "dom": "luna.edu"
+ },
+ {
+  "unitid": "364025",
+  "name": "Chandler-Gilbert Community College",
+  "state": "AZ",
+  "slug": "cgc",
+  "dom": "cgc.maricopa.edu"
+ },
+ {
+  "unitid": "364575",
+  "name": "Roane-Jackson Technical Center",
+  "state": "WV",
+  "slug": "rjtcwv",
+  "dom": "rjtcwv.com"
+ },
+ {
+  "unitid": "365213",
+  "name": "Autry Technology Center",
+  "state": "OK",
+  "slug": "autrytech",
+  "dom": "autrytech.edu"
+ },
+ {
+  "unitid": "365374",
+  "name": "Canadian Valley Technology Center",
+  "state": "OK",
+  "slug": "cvtech",
+  "dom": "cvtech.edu"
+ },
+ {
+  "unitid": "365480",
+  "name": "Meridian Technology Center",
+  "state": "OK",
+  "slug": "meridiantech",
+  "dom": "meridiantech.edu"
+ },
+ {
+  "unitid": "366465",
+  "name": "Ogeechee Technical College",
+  "state": "GA",
+  "slug": "ogeecheetech",
+  "dom": "ogeecheetech.edu"
+ },
+ {
+  "unitid": "367875",
+  "name": "H W Brewster Technical College",
+  "state": "FL",
+  "slug": "hillsboroughschools",
+  "dom": "hillsboroughschools.org"
+ },
+ {
+  "unitid": "368911",
+  "name": "Southeastern Technical College",
+  "state": "GA",
+  "slug": "southeasterntech",
+  "dom": "southeasterntech.edu"
+ },
+ {
+  "unitid": "369668",
+  "name": "Central Pennsylvania Institute of Science and Technology",
+  "state": "PA",
+  "slug": "cpi",
+  "dom": "cpi.edu"
+ },
+ {
+  "unitid": "371690",
+  "name": "Downey Adult School",
+  "state": "CA",
+  "slug": "das",
+  "dom": "das.edu"
+ },
+ {
+  "unitid": "375407",
+  "name": "Madison Adult Career Center",
+  "state": "OH",
+  "slug": "madisonadultcc",
+  "dom": "madisonadultcc.org"
+ },
+ {
+  "unitid": "375683",
+  "name": "Gordon Cooper Technology Center",
+  "state": "OK",
+  "slug": "gctech",
+  "dom": "gctech.edu"
+ },
+ {
+  "unitid": "383996",
+  "name": "Eastern New Mexico University Ruidoso Branch Community College",
+  "state": "NM",
+  "slug": "ruidoso",
+  "dom": "ruidoso.enmu.edu"
+ },
+ {
+  "unitid": "384333",
+  "name": "Estrella Mountain Community College",
+  "state": "AZ",
+  "slug": "estrellamountain",
+  "dom": "estrellamountain.edu"
+ },
+ {
+  "unitid": "384342",
+  "name": "Heartland Community College",
+  "state": "IL",
+  "slug": "heartland",
+  "dom": "heartland.edu"
+ },
+ {
+  "unitid": "395362",
+  "name": "Copper Mountain Community College",
+  "state": "CA",
+  "slug": "cmccd",
+  "dom": "cmccd.edu"
+ },
+ {
+  "unitid": "404426",
+  "name": "Coconino Community College",
+  "state": "AZ",
+  "slug": "coconino",
+  "dom": "coconino.edu"
+ },
+ {
+  "unitid": "409379",
+  "name": "Tennessee Board of Regents",
+  "state": "TN",
+  "slug": "tbr",
+  "dom": "tbr.edu"
+ },
+ {
+  "unitid": "413626",
+  "name": "Leech Lake Tribal College",
+  "state": "MN",
+  "slug": "lltc",
+  "dom": "lltc.edu"
+ },
+ {
+  "unitid": "417248",
+  "name": "CT Aerotech",
+  "state": "CT",
+  "slug": "ctaero",
+  "dom": "ctaero.cttech.org"
+ },
+ {
+  "unitid": "417275",
+  "name": "Stratford School for Aviation Maintenance Technicians",
+  "state": "CT",
+  "slug": "ssamt",
+  "dom": "ssamt.cttech.org"
+ },
+ {
+  "unitid": "418296",
+  "name": "Indian Capital Technology Center-Muskogee",
+  "state": "OK",
+  "slug": "ictech",
+  "dom": "ictech.edu"
+ },
+ {
+  "unitid": "418533",
+  "name": "Lancaster County Career and Technology Center",
+  "state": "PA",
+  "slug": "lancasterctc",
+  "dom": "lancasterctc.edu"
+ },
+ {
+  "unitid": "419226",
+  "name": "Marion Technical College",
+  "state": "FL",
+  "slug": "mariontc",
+  "dom": "mariontc.edu"
+ },
+ {
+  "unitid": "420440",
+  "name": "York County Community College",
+  "state": "ME",
+  "slug": "yccc",
+  "dom": "yccc.edu"
+ },
+ {
+  "unitid": "420468",
+  "name": "Western Suffolk BOCES",
+  "state": "NY",
+  "slug": "wilsontech",
+  "dom": "wilsontech.org"
+ },
+ {
+  "unitid": "420538",
+  "name": "Arkansas State University-Mountain Home",
+  "state": "AR",
+  "slug": "asumh",
+  "dom": "asumh.edu"
+ },
+ {
+  "unitid": "420556",
+  "name": "Columbia Gorge Community College",
+  "state": "OR",
+  "slug": "cgcc",
+  "dom": "cgcc.edu"
+ },
+ {
+  "unitid": "420723",
+  "name": "Tillamook Bay Community College",
+  "state": "OR",
+  "slug": "tillamookbaycc",
+  "dom": "tillamookbaycc.edu"
+ },
+ {
+  "unitid": "423652",
+  "name": "Oregon Coast Community College",
+  "state": "OR",
+  "slug": "oregoncoastcc",
+  "dom": "oregoncoastcc.org"
+ },
+ {
+  "unitid": "428426",
+  "name": "San Bernardino Community College District",
+  "state": "CA",
+  "slug": "sbccd",
+  "dom": "sbccd.org"
+ },
+ {
+  "unitid": "430795",
+  "name": "Carver Career Center",
+  "state": "WV",
+  "slug": "carvercareercenter",
+  "dom": "carvercareercenter.edu"
+ },
+ {
+  "unitid": "432144",
+  "name": "South Orange County Community College District",
+  "state": "CA",
+  "slug": "socccd",
+  "dom": "socccd.edu"
+ },
+ {
+  "unitid": "434016",
+  "name": "Little Priest Tribal College",
+  "state": "NE",
+  "slug": "littlepriest",
+  "dom": "littlepriest.edu"
+ },
+ {
+  "unitid": "437103",
+  "name": "Baton Rouge Community College",
+  "state": "LA",
+  "slug": "mybrcc",
+  "dom": "mybrcc.edu"
+ },
+ {
+  "unitid": "438708",
+  "name": "Eastern West Virginia Community and Technical College",
+  "state": "WV",
+  "slug": "easternwv",
+  "dom": "easternwv.edu"
+ },
+ {
+  "unitid": "440402",
+  "name": "Arkansas State University-Newport",
+  "state": "AR",
+  "slug": "asun",
+  "dom": "asun.edu"
+ },
+ {
+  "unitid": "441070",
+  "name": "Saginaw Chippewa Tribal College",
+  "state": "MI",
+  "slug": "sagchip",
+  "dom": "sagchip.edu"
+ },
+ {
+  "unitid": "441760",
+  "name": "Lamar Institute of Technology",
+  "state": "TX",
+  "slug": "lit",
+  "dom": "lit.edu"
+ },
+ {
+  "unitid": "442781",
+  "name": "Tohono O'odham Community College",
+  "state": "AZ",
+  "slug": "tocc",
+  "dom": "tocc.edu"
+ },
+ {
+  "unitid": "443492",
+  "name": "Pierpont Community and Technical College",
+  "state": "WV",
+  "slug": "pierpont",
+  "dom": "pierpont.edu"
+ },
+ {
+  "unitid": "444954",
+  "name": "Mountwest Community and Technical College",
+  "state": "WV",
+  "slug": "mctc",
+  "dom": "mctc.edu"
+ },
+ {
+  "unitid": "446774",
+  "name": "Blue Ridge Community and Technical College",
+  "state": "WV",
+  "slug": "blueridgectc",
+  "dom": "blueridgectc.edu"
+ },
+ {
+  "unitid": "447582",
+  "name": "New River Community and Technical College",
+  "state": "WV",
+  "slug": "newriver",
+  "dom": "newriver.edu"
+ },
+ {
+  "unitid": "457387",
+  "name": "Immokalee Technical College",
+  "state": "FL",
+  "slug": "itech",
+  "dom": "itech.edu"
+ },
+ {
+  "unitid": "459329",
+  "name": "Fred K Marchman Technical College",
+  "state": "FL",
+  "slug": "mtec",
+  "dom": "mtec.pasco.k12.fl.us"
+ },
+ {
+  "unitid": "461245",
+  "name": "Flagler Technical College",
+  "state": "FL",
+  "slug": "flaglertech",
+  "dom": "flaglertech.edu"
+ },
+ {
+  "unitid": "461315",
+  "name": "Keweenaw Bay Ojibwa Community College",
+  "state": "MI",
+  "slug": "kbocc",
+  "dom": "kbocc.edu"
+ },
+ {
+  "unitid": "480967",
+  "name": "College of the Muscogee Nation",
+  "state": "OK",
+  "slug": "cmn",
+  "dom": "cmn.edu"
+ },
+ {
+  "unitid": "475565",
+  "name": "CUNY Stella and Charles Guttman Community College",
+  "state": "NY",
+  "slug": "guttman",
+  "dom": "guttman.cuny.edu"
+ },
+ {
+  "unitid": "483045",
+  "name": "Central Georgia Technical College",
+  "state": "GA",
+  "slug": "centralgatech",
+  "dom": "centralgatech.edu"
+ },
+ {
+  "unitid": "483212",
+  "name": "Louisiana Delta Community College",
+  "state": "LA",
+  "slug": "ladelta",
+  "dom": "ladelta.edu"
+ },
+ {
+  "unitid": "484233",
+  "name": "Tri-Community Adult Education",
+  "state": "CA",
+  "slug": "tri-communityadulted",
+  "dom": "tri-communityadulted.org"
+ },
+ {
+  "unitid": "484932",
+  "name": "BridgeValley Community & Technical College",
+  "state": "WV",
+  "slug": "bridgevalley",
+  "dom": "bridgevalley.edu"
+ },
+ {
+  "unitid": "488934",
+  "name": "Tulsa Technology Center",
+  "state": "OK",
+  "slug": "tulsatech",
+  "dom": "tulsatech.edu"
+ },
+ {
+  "unitid": "487162",
+  "name": "Southern Regional Technical College",
+  "state": "GA",
+  "slug": "southernregional",
+  "dom": "southernregional.edu"
+ },
+ {
+  "unitid": "487320",
+  "name": "Texas State Technical College",
+  "state": "TX",
+  "slug": "tstc",
+  "dom": "tstc.edu"
+ },
+ {
+  "unitid": "491844",
+  "name": "Red Lake Nation College",
+  "state": "MN",
+  "slug": "rlnc",
+  "dom": "rlnc.education"
+ },
+ {
+  "unitid": "494959",
+  "name": "Northern Pennsylvania Regional College",
+  "state": "PA",
+  "slug": "regionalcollegepa",
+  "dom": "regionalcollegepa.org"
+ },
+ {
+  "unitid": "495013",
+  "name": "Western Maricopa Education Center",
+  "state": "AZ",
+  "slug": "west-mec",
+  "dom": "west-mec.edu"
+ },
+ {
+  "unitid": "495271",
+  "name": "California Indian Nations College",
+  "state": "CA",
+  "slug": "cincollege",
+  "dom": "cincollege.org"
+ },
+ {
+  "unitid": "497046",
+  "name": "Madera Community College",
+  "state": "CA",
+  "slug": "maderacollege",
+  "dom": "maderacollege.edu"
+ },
+ {
+  "unitid": "498386",
+  "name": "Boone Career and Technical Center",
+  "state": "WV",
+  "slug": "gobctc",
+  "dom": "gobctc.com"
+ }
+]
