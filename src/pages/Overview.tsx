@@ -6,6 +6,7 @@ import { StatCard } from '../StatCard'
 const onPlatform = colleges.filter((c) => c.status !== 'No platform found')
 const noPlatform = colleges.filter((c) => c.status === 'No platform found')
 const byVendor = rankBy(onPlatform, 'vendor')
+const awardSpring = colleges.filter((c) => c.status === 'AwardSpring customer').length
 const topStates = rankBy(noPlatform, 'state').slice(0, 15)
 
 const VENDOR_COLORS: Record<string, string> = {
@@ -31,11 +32,11 @@ export function OverviewPage() {
         <StatCard label="Total campuses" value={fmt(colleges.length)} note="US public 2-year, IPEDS HD2023" />
         <StatCard label="On a platform" value={fmt(onPlatform.length)} note="identifiable scholarship platform" />
         <StatCard label="No platform" value={fmt(noPlatform.length)} note="confirmed negative evidence" />
-        <StatCard label="Estimated buying entities" value="~845" note="estimate, see Method" />
+        <StatCard label="Estimated buying entities" value="~849" note="estimate, see Method" />
       </div>
 
       <p className="mt-3 text-sm text-stone-700">
-        893 US public 2-year colleges. 485 of them run no identifiable scholarship platform.
+        {fmt(colleges.length)} US public 2-year colleges. {fmt(noPlatform.length)} of them run no identifiable scholarship platform.
       </p>
 
       <div className="mt-4 grid grid-cols-2 gap-4">
@@ -76,10 +77,10 @@ export function OverviewPage() {
             </ul>
           </div>
           <div className="mt-3 border border-line bg-[#EFEDE8] p-3 text-[13px] leading-relaxed text-stone-700">
-            <strong className="font-semibold text-ink">Detection floor.</strong> This analysis identifies 189 AwardSpring
+            <strong className="font-semibold text-ink">Detection floor.</strong> This analysis identifies {fmt(awardSpring)} AwardSpring
             campuses. AwardSpring states publicly that it serves about 300 two-year colleges. Both can be true: this
             method only confirms a customer when its portal is reachable and verifiable from public pages, so it
-            undercounts every vendor. 189 is a detection floor, not a customer count. The 485 'no platform' figure is
+            undercounts every vendor. {fmt(awardSpring)} is a detection floor, not a customer count. The {fmt(noPlatform.length)} 'no platform' figure is
             the stronger number, because it rests on confirmed negative evidence rather than on absence of evidence.
           </div>
           <p className="mt-2 text-xs leading-relaxed text-stone-500">
