@@ -72,7 +72,8 @@ function PipelineModel() {
 }
 
 function exportRows(rows: Account[]) {
-  const blob = new Blob([Papa.unparse(rows)], { type: 'text/csv;charset=utf-8' })
+  const out = rows.map((r) => ({ ...r, group: r.group === 'Treatment' ? 'Test' : 'Control' }))
+  const blob = new Blob([Papa.unparse(out)], { type: 'text/csv;charset=utf-8' })
   const url = URL.createObjectURL(blob)
   const a = document.createElement('a')
   a.href = url
