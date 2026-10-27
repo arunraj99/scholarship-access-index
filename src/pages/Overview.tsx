@@ -82,6 +82,9 @@ export function OverviewPage() {
             undercounts every vendor. 189 is a detection floor, not a customer count. The 485 'no platform' figure is
             the stronger number, because it rests on confirmed negative evidence rather than on absence of evidence.
           </div>
+          <p className="mt-2 text-xs leading-relaxed text-stone-500">
+            AwardSpring's '300 of 1,300' figure refers specifically to two-year colleges, so the comparison above is like for like.
+          </p>
         </section>
 
         <section className="border border-line bg-white p-4">
