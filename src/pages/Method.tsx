@@ -1,15 +1,7 @@
-import { Children, isValidElement, type ReactNode } from 'react'
+import { Children, isValidElement, useEffect, useState, type ReactNode } from 'react'
 import Markdown, { type Components } from 'react-markdown'
 import remarkGfm from 'remark-gfm'
-import numbersOfRecord from '../../NUMBERS_OF_RECORD.md?raw'
-import reportNumbers from '../../REPORT_NUMBERS.md?raw'
-import findingsFull from '../../data/full/FINDINGS_FULL.md?raw'
-
-const DOCS = [
-  { id: 'numbers-of-record', file: 'NUMBERS_OF_RECORD.md', source: numbersOfRecord },
-  { id: 'report-numbers', file: 'REPORT_NUMBERS.md', source: reportNumbers },
-  { id: 'findings-full', file: 'data/full/FINDINGS_FULL.md', source: findingsFull },
-]
+import method from '../../METHOD.md?raw'
 
 const slug = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')
 
@@ -19,62 +11,68 @@ function textOf(node: ReactNode): string {
     .join('')
 }
 
-const stripMd = (s: string) => s.replace(/[*_`]/g, '').trim()
+const HEADINGS = method
+  .split('\n')
+  .filter((l) => l.startsWith('## '))
+  .map((l) => {
+    const text = l.slice(3).replace(/[*_`]/g, '').trim()
+    return { text, id: slug(text) }
+  })
 
-function subheadings(source: string): string[] {
-  return source.split('\n').filter((l) => l.startsWith('## ')).map((l) => stripMd(l.slice(3)))
+const components: Components = {
+  h2: ({ children }) => <h2 id={slug(textOf(children))}>{children}</h2>,
+  a: ({ href, children }) => (
+    <a href={href} target="_blank" rel="noopener noreferrer">{children}</a>
+  ),
 }
 
-function components(docId: string): Components {
-  return {
-    h2: ({ children }) => <h2 id={`${docId}--${slug(textOf(children))}`}>{children}</h2>,
-    a: ({ href, children }) => (
-      <a href={href} target="_blank" rel="noopener noreferrer">{children}</a>
-    ),
-  }
-}
-
-function jump(id: string) {
-  document.getElementById(id)?.scrollIntoView({ block: 'start' })
+function useActiveHeading(): string | null {
+  const [active, setActive] = useState<string | null>(HEADINGS[0]?.id ?? null)
+  useEffect(() => {
+    const els = HEADINGS.map((h) => document.getElementById(h.id)).filter((e): e is HTMLElement => !!e)
+    const onScroll = () => {
+      let current = els[0]?.id ?? null
+      for (const el of els) {
+        if (el.getBoundingClientRect().top <= 120) current = el.id
+      }
+      setActive(current)
+    }
+    onScroll()
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => window.removeEventListener('scroll', onScroll)
+  }, [])
+  return active
 }
 
 export function MethodPage() {
+  const active = useActiveHeading()
+
   return (
-    <div className="max-w-[900px]">
-      <nav className="mb-6 border border-line bg-white p-4 text-sm" aria-label="Contents">
-        <div className="mb-2 text-[11px] font-semibold uppercase tracking-wide text-stone-500">Contents</div>
-        <ol className="space-y-2">
-          {DOCS.map((d, i) => (
-            <li key={d.id}>
-              <button type="button" onClick={() => jump(d.id)} className="font-medium text-navy hover:underline">
-                {i + 1}. {d.file}
+    <div className="flex items-start gap-8">
+      <article className="doc min-w-0 max-w-[760px] flex-1 border border-line bg-white px-10 py-8">
+        <Markdown remarkPlugins={[remarkGfm]} components={components}>
+          {method}
+        </Markdown>
+      </article>
+
+      <nav aria-label="On this page" className="sticky top-[76px] hidden w-56 shrink-0 text-[13px] lg:block">
+        <div className="mb-2 text-[11px] font-semibold uppercase tracking-wide text-stone-500">On this page</div>
+        <ul className="border-l border-line">
+          {HEADINGS.map((h) => (
+            <li key={h.id}>
+              <button
+                type="button"
+                onClick={() => document.getElementById(h.id)?.scrollIntoView({ block: 'start' })}
+                className={`-ml-px block w-full border-l-2 py-1 pl-3 text-left leading-snug transition-colors duration-150 ${
+                  active === h.id ? 'border-teal font-medium text-navy' : 'border-transparent text-stone-500 hover:text-navy'
+                }`}
+              >
+                {h.text}
               </button>
-              <ul className="mt-1 space-y-0.5 pl-5">
-                {subheadings(d.source).map((h) => (
-                  <li key={h}>
-                    <button type="button" onClick={() => jump(`${d.id}--${slug(h)}`)} className="text-left text-stone-600 transition-colors duration-150 hover:text-teal hover:underline">
-                      {h}
-                    </button>
-                  </li>
-                ))}
-              </ul>
             </li>
           ))}
-        </ol>
+        </ul>
       </nav>
-
-      {DOCS.map((d, i) => (
-        <section key={d.id} id={d.id} className="mb-8 scroll-mt-16 border border-line bg-white">
-          <h2 className="border-b border-line bg-paper px-5 py-2 font-mono text-xs font-semibold text-stone-600">
-            {i + 1}. {d.file}
-          </h2>
-          <div className="md px-5 py-4">
-            <Markdown remarkPlugins={[remarkGfm]} components={components(d.id)}>
-              {d.source}
-            </Markdown>
-          </div>
-        </section>
-      ))}
     </div>
   )
 }
