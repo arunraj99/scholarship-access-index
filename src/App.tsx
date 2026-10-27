@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react'
-import { colleges, countBy, STATUSES } from './data'
-import { StatusPill } from './StatusPill'
+import { CollegesPage } from './pages/Colleges'
 
 const PAGES = [
   { id: 'overview', label: 'Overview' },
@@ -19,24 +18,27 @@ export default function App() {
   const [page, setPage] = useState<PageId>(currentPage)
 
   useEffect(() => {
-    const onHash = () => setPage(currentPage())
+    const onHash = () => {
+      setPage(currentPage())
+      window.scrollTo(0, 0)
+    }
     window.addEventListener('hashchange', onHash)
     return () => window.removeEventListener('hashchange', onHash)
   }, [])
 
   return (
     <div className="flex min-h-screen flex-col">
-      <header className="fixed inset-x-0 top-0 z-20 flex h-12 items-center justify-between bg-navy px-5 text-white">
+      <header className="fixed inset-x-0 top-0 z-30 flex h-12 items-center justify-between bg-navy px-5 text-white">
         <span className="text-sm font-semibold tracking-tight">Scholarship Access Index</span>
         <span className="text-xs text-white/80">Built by Arun Raju Nandyala · October 2026</span>
       </header>
 
-      <nav className="fixed bottom-0 left-0 top-12 z-10 w-48 border-r border-stone-200 bg-white py-4">
+      <nav className="fixed bottom-0 left-0 top-12 z-20 w-44 border-r border-line bg-white py-3">
         {PAGES.map((p) => (
           <a
             key={p.id}
             href={`#/${p.id}`}
-            className={`block border-l-2 px-4 py-2 text-sm ${
+            className={`block border-l-2 px-4 py-2 text-sm transition-colors duration-150 ${
               page === p.id
                 ? 'border-teal bg-paper font-medium text-navy'
                 : 'border-transparent text-stone-600 hover:bg-paper hover:text-navy'
@@ -47,37 +49,15 @@ export default function App() {
         ))}
       </nav>
 
-      <div className="ml-48 flex flex-1 flex-col pt-12">
-        <main className="flex-1 p-6">
-          <DataCheck />
+      <div className="ml-44 flex min-w-0 flex-1 flex-col pt-12">
+        <main className="flex-1 p-5">
+          {page === 'colleges' && <CollegesPage />}
+          {page !== 'colleges' && <p className="text-sm text-stone-500">Coming next.</p>}
         </main>
-        <footer className="border-t border-stone-200 px-6 py-3 text-xs text-stone-500">
+        <footer className="border-t border-line px-5 py-3 text-xs text-stone-500">
           Independent analysis built from public sources: IPEDS HD2023 and public college websites. Not affiliated with, endorsed by, or produced by any software vendor named in this analysis.
         </footer>
       </div>
-    </div>
-  )
-}
-
-function DataCheck() {
-  const byStatus = countBy(colleges, 'status')
-  return (
-    <div className="max-w-xl">
-      <h1 className="mb-4 text-lg font-semibold text-navy">Data check</h1>
-      <table className="w-full border border-stone-200 bg-white text-sm">
-        <tbody>
-          {STATUSES.map((s) => (
-            <tr key={s} className="border-b border-stone-200">
-              <td className="px-3 py-2"><StatusPill status={s} /></td>
-              <td className="px-3 py-2 text-right font-medium">{byStatus.get(s) ?? 0}</td>
-            </tr>
-          ))}
-          <tr>
-            <td className="px-3 py-2 font-semibold">Total</td>
-            <td className="px-3 py-2 text-right font-semibold">{colleges.length}</td>
-          </tr>
-        </tbody>
-      </table>
     </div>
   )
 }

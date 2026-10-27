@@ -1,3 +1,7 @@
+@import "@fontsource/inter/400.css";
+@import "@fontsource/inter/500.css";
+@import "@fontsource/inter/600.css";
+@import "@fontsource/inter/700.css";
 @import "tailwindcss";
 
 @theme {
@@ -5,10 +9,18 @@
   --color-teal: #2E8B8B;
   --color-paper: #F7F6F3;
   --color-ink: #1A1A1A;
+  --color-line: #E2E0DA;
+  --color-amber: #B8860B;
+  --color-slate: #64748B;
   --font-sans: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+html,
+body,
+svg text {
+  font-variant-numeric: tabular-nums;
 }
 
 body {
   @apply bg-paper text-ink font-sans antialiased;
-  font-variant-numeric: tabular-nums;
 }
