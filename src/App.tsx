@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { CollegesPage } from './pages/Colleges'
 import { OpportunityPage } from './pages/Opportunity'
+import { OverviewPage } from './pages/Overview'
 
 const PAGES = [
   { id: 'overview', label: 'Overview' },
@@ -54,7 +55,8 @@ export default function App() {
         <main className="flex-1 p-5">
           {page === 'colleges' && <CollegesPage />}
           {page === 'opportunity' && <OpportunityPage />}
-          {(page === 'overview' || page === 'method') && <p className="text-sm text-stone-500">Coming next.</p>}
+          {page === 'overview' && <OverviewPage />}
+          {page === 'method' && <p className="text-sm text-stone-500">Coming next.</p>}
         </main>
         <footer className="border-t border-line px-5 py-3 text-xs text-stone-500">
           Independent analysis built from public sources: IPEDS HD2023 and public college websites. Not affiliated with, endorsed by, or produced by any software vendor named in this analysis.
