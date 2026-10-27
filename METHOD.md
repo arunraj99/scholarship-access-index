@@ -17,19 +17,31 @@ jurisdictions contribute no campus: Alaska, Delaware, Nevada and the District of
 Columbia.
 
 **This definition is precise, reproducible, and narrower than everyday usage.** IPEDS
-classifies an institution by its highest award, so a community college that has begun
-offering a handful of bachelor's degrees is recorded as four-year and falls outside
-this population. **101 public institutions whose own names say community, technical,
-junior or state college are excluded for that reason**, including most of the Florida
-College System (Hillsborough, Daytona State, Florida SouthWestern and 15 others),
-Delaware Technical Community College, and Truckee Meadows in Nevada. That is why
-those three states appear thin or absent here.
+assigns an institution to the two-year or four-year group by its highest award, so a
+community college that has begun offering a handful of bachelor's degrees is recorded
+as four-year and falls outside this population.
 
-The 893 is the right population for a like-for-like comparison, because the
-"1,300 two-year colleges" figure commonly cited for this market uses the same IPEDS
-two-year definition. But a complete census of institutions that function as community
-colleges would be closer to **994**, and the missing 101 are a named, listed extension
-rather than an unknown.
+How many colleges that misses can be measured rather than guessed, using the Carnegie
+Basic Classification that IPEDS also carries. **133 public institutions are excluded
+by the two-year filter despite Carnegie classifying them as associate's colleges or
+as associate's-dominant**: 78 under "Baccalaureate/Associate's Colleges: Associate's
+Dominant" and 55 under "Associate's Colleges". Washington (24), Ohio (22), Texas (20),
+California (15) and Florida (11) are most affected. Hillsborough Community College,
+Delaware Technical Community College and Truckee Meadows Community College are all in
+this group, which is why Delaware and Nevada are absent here and Florida looks thin.
+
+A name-based rule would be the obvious shortcut and it does not work: matching
+"community", "technical", "junior" or "state college" in an institution's name sweeps
+in Chadron State, The Evergreen State College, Peru State, Wayne State College,
+Charter Oak State College and Navajo Technical University, none of which are community
+colleges. The Carnegie classification separates them cleanly.
+
+The 893 remains the right population for a like-for-like comparison, because the
+"1,300 two-year colleges" figure commonly cited for this market appears to use the
+same IPEDS two-year definition. But a census of institutions that function as
+community colleges would be closer to **1,026**, and the missing 133 are a measurable,
+listed extension rather than an unknown. Extending the analysis to them is the obvious
+next pass.
 
 Two adjacent groups were deliberately excluded after testing them:
 
@@ -185,9 +197,10 @@ Across all 893 campuses the estimated number of distinct buying entities is **ab
   absence is real: Florida's entries in this population are district-run technical
   centers, Connecticut consolidated its colleges into CT State in 2023, and West
   Virginia's colleges are on none of the four platforms.
-- 101 public colleges that function as community colleges are outside this
-  population because IPEDS classes them as four-year (they award some bachelor's
-  degrees). Florida is most affected. Extending to them is the obvious next pass.
+- 133 public institutions that Carnegie classifies as associate's or
+  associate's-dominant are outside this population, because IPEDS classes them as
+  four-year on the strength of a few bachelor's degrees. Washington, Ohio and Texas
+  are most affected. Extending to them is the obvious next pass.
 - The crawl was stopped once newly discovered colleges fell to roughly 5% of pages
   fetched. Additional crawling would add a small number of identifications.
 - A college that changed platforms recently may still show its previous portal if the

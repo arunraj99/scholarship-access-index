@@ -93,8 +93,9 @@ thing is a static bundle deployable to Netlify. Target: `npm run build` produces
   marketing page rather than a portal.
 - Private nonprofit and sub-2-year technical schools are excluded. The same method
   found 1 platform across 424 such campuses, so they are not in this market. A
-  further 101 public colleges that function as community colleges sit outside this
-  population because IPEDS classes them as four-year; see the Method page.
+  further 133 public institutions that Carnegie classifies as associate's or
+  associate's-dominant sit outside this population because IPEDS classes them as
+  four-year; see the Method page.
 
 ## Out of scope
 No login. No editing. No "request a demo". No contact form. No analytics or

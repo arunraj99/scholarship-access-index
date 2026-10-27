@@ -82,3 +82,22 @@ dataset, and are stated as process facts:
 - **435 probes** run, as two passes: 72 across the gap states and 363 across the
   undetected set. `data/full/probe_urls.txt` lists 1,398 planned probe URLs; only
   these 435 were executed, which is why the file and the figure differ.
+
+## Population boundary, measured
+
+The 893 uses the IPEDS two-year classification. That classification goes by highest
+award, so it excludes **133 public institutions that the Carnegie Basic
+Classification calls associate's colleges or associate's-dominant** (78 coded
+"Baccalaureate/Associate's: Associate's Dominant", 55 coded "Associate's Colleges").
+Hillsborough CC, Delaware Technical CC and Truckee Meadows CC are in that group.
+
+A census of functional community colleges is therefore closer to **1,026**. Quote
+893 when comparing against the market's own "1,300 two-year colleges" figure, which
+uses the same IPEDS definition, and quote 1,026 only when the subject is the true
+number of community colleges.
+
+An earlier draft put this figure at 101 using a name match on "community",
+"technical", "junior" or "state college". That rule is wrong: it both miscounts and
+sweeps in Chadron State, The Evergreen State College, Peru State, Wayne State
+College, Charter Oak State College and Navajo Technical University. Carnegie codes
+separate them correctly.
