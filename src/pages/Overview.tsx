@@ -20,7 +20,7 @@ const HOW_TO_READ = [
   'Every row is a US public 2-year college from IPEDS HD2023, the federal institutional directory.',
   "A college is marked as running a platform only when its own scholarship portal was found on that vendor's domain, or it shares a portal with other campuses in the same state or system.",
   `"No platform found" is based on confirmed negative evidence, not just absence: 435 direct portal probes were run, and a non-customer returns the vendor's own marketing page rather than a portal.`,
-  'Private nonprofit and sub-2-year technical schools are excluded. The same method found 1 platform across 424 such campuses, so they are not in this market.',
+  'Private nonprofit and sub-2-year technical schools are excluded. The same method found 1 platform across 424 such campuses, so they are not in this market. A further 101 public colleges that function as community colleges sit outside this population because IPEDS classes them as four-year; see the Method page.',
 ]
 
 const tooltipStyle = { border: '1px solid #E2E0DA', borderRadius: 4, boxShadow: 'none', fontSize: 12, fontVariantNumeric: 'tabular-nums' }
