@@ -41,7 +41,7 @@ export function OverviewPage() {
       <div className="mt-4 grid grid-cols-2 gap-4">
         <section className="border border-line bg-white p-4">
           <h2 className="text-sm font-semibold text-navy">The {fmt(onPlatform.length)} on a platform, by platform</h2>
-          <div className="mt-2 flex items-center gap-4">
+          <div className="mt-2 flex flex-wrap items-center gap-4">
             <div className="relative h-[190px] w-[190px] shrink-0">
               <ResponsiveContainer width="100%" height="100%">
                 <PieChart>
@@ -65,11 +65,11 @@ export function OverviewPage() {
                 <span className="text-[11px] text-stone-500">campuses</span>
               </div>
             </div>
-            <ul className="min-w-0 flex-1 text-[13px]">
+            <ul className="min-w-[200px] flex-1 text-[13px]">
               {byVendor.map((v) => (
                 <li key={v.value} className="flex items-center gap-2 border-b border-line py-1.5 last:border-b-0">
                   <span className="h-2.5 w-2.5 shrink-0 rounded-sm" style={{ backgroundColor: VENDOR_COLORS[v.value] }} />
-                  <span className="min-w-0 flex-1 leading-tight [overflow-wrap:anywhere]">{v.value}</span>
+                  <span className="min-w-0 flex-1 leading-tight">{v.value}</span>
                   <span className="shrink-0 font-medium">{fmt(v.count)}</span>
                 </li>
               ))}
